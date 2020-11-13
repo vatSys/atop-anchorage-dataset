@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+  <Radar Name="Mill Valley QMV" Type="SSR_ModeS" Elevation="3522" MaxRange="250">
+    <Lat>37.923978</Lat>
+    <Long>-122.597756</Long>
+  </Radar>
+</Radars>
