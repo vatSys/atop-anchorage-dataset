@@ -370,6 +370,13 @@
 		<G>84</G>
 		<B>228</B>
   </Colour>  
+  <Colour id="Custom">
+		<Use>Special colour for my very special map</Use>
+		<Name>Magenta</Name>
+		<R>255</R>
+		<G>0</G>
+		<B>255</B>
+  </Colour>    
   <Colour id="PrimaryMap">
 		<Use>System Maps</Use>
 		<Name>YellowGreen</Name>

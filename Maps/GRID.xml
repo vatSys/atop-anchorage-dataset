@@ -1,5 +1,5 @@
 <Maps>
-	<Map Type="System" CustomColourName="Indigo" Name="Grid" Priority="3" Center="+00.000+000.000">
+	<Map Type="System" CustomColourName="Indigo" Name="Grid" Priority="17" Center="+00.000+000.000">
 		<Line>
 		+00.000+100.000/
 		+00.000-100.000

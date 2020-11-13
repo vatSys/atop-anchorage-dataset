@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" CustomColourName="SkyBlue2" Name="Rts" Priority="1" Center="+270000.000-1750000.000">
+  <Map Type="System" CustomColourName="SkyBlue2" Name="Rts" Priority="15" Center="+270000.000-1750000.000">
 	<Line Name="A216">CS.A216.MONPI</Line>
 	<Line Name="A220">TAF.A220.CINNY</Line>
 	<Line Name="A221">UNZ.A221.WILLE</Line>
