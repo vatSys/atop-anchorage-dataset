@@ -4,8 +4,14 @@
 		Priority is applied by the order they appear in this file. -->
 		
   <!-- Excluded Codes are never assigned -->
+  <!--Internal-->
   <Bin>
-	<Codes Start="1101" End="1177"/>
-	<Codes Start="1401" End="1477"/>	
+    <Rule Departure="PA\w{2}" Destination="PA\w{2}"/>
+    <Codes Start="2501" End="2577"/>
+  </Bin> 
+  <!--External-->  
+  <Bin>
+	<Codes Start="6201" End="6277"/>
+	<Codes Start="7401" End="7477"/>	
   </Bin>
 </SSRAssignment>
