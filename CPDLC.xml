@@ -206,14 +206,14 @@
     <Message Response="NE">NEXT DATA AUTHORITY [UNIT]</Message>
   </Category>
   <Category name="Pre-Fmt" SendViaTM="true">
-    <Message Response="R">THIS IS AN AUTOMATED MESSAGE TO CONFIRM CPDLC CONNECTION TO KZAK. REPORT SPEED , CHANGES TO ATC..</Message>    
-    <Message Response="NE">RESEQUENCE ADS WAYPOINTS</Message>
-    <Message Response="NE">ISSUE TIME CHECK</Message>
-    <Message Response="NE">SELECT ATC COM OFF AND MANUALLY LOG ON TO [facility>]</Message>
-    <Message Response="NE">TO THE [name] AIRPORT.  REPORT ARRIVAL.</Message>
+    <Message Response="R">ATCA Radar service terminated, Monitor current VHF freq, Over NIPPI SQK 2000</Message>    
+    <Message Response="NE">ATCR Contact PAZN on VHF 132.5</Message>
+    <Message Response="NE">ATCR Contact PAZN on VHF 126.4</Message>
+    <Message Response="NE">ATCR Contact PAZN at PLADO on VHF 119.1</Message>
+    <Message Response="NE">ATCR Request Flight Conditions</Message>
     <Message Response="NE">ATCR SAY FLIGHT CONDITIONS</Message>
-    <Message Response="NE">ADS-C CDP PROCEDURE IS BEING APPLIED BY ATC</Message>
-    <Message Response="NE">ATCR SAY MACH NUMBER</Message>
-	<Message Response="NE">ATCA UNABLE REQUESTED ALTITUDE DUE TO TRAFFIC</Message>
+    <Message Response="NE">ATCR Over BESAT contact Petropavlovsk ACC 11285 10039, Then 200nm E IRKAN 135.4</Message>
+    <Message Response="NE">ATCA Route has been changed</Message>
+	<Message Response="NE">ATCR Select ATC COM OFF, Wait 2 minutes, Log back onto PAZN</Message>
   </Category>
 </Messages>
