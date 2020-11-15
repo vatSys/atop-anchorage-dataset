@@ -19,10 +19,10 @@
     </Strips>
     <CFL QuickLevel="999000" />
     <ArrivalLists>
-      <Airport Name="KSFO" />
+      <Airport Name="PADK" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>San Francisco Radio</Line>
+      <Line>Anchorage Center</Line>
     </ControllerInfo>
   </Position>   
 </Positions>
