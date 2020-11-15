@@ -376,7 +376,28 @@
 		<R>255</R>
 		<G>0</G>
 		<B>255</B>
-  </Colour>    
+  </Colour> 
+  <Colour id="Custom">
+		<Use>Special colour for my very special map</Use>
+		<Name>TealGreen</Name>
+		<R>0</R>
+		<G>255</G>
+		<B>102</B>
+  </Colour>  
+  <Colour id="Custom">
+		<Use>Special colour for my very special map</Use>
+		<Name>SkyBlue</Name>
+		<R>135</R>
+		<G>206</G>
+		<B>235</B>
+  </Colour>  
+  <Colour id="Custom">
+		<Use>Special colour for my very special map</Use>
+		<Name>Gray 75</Name>
+		<R>191</R>
+		<G>191</G>
+		<B>191</B>
+  </Colour>  
   <Colour id="PrimaryMap">
 		<Use>System Maps</Use>
 		<Name>YellowGreen</Name>
