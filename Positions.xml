@@ -22,7 +22,30 @@
       <Airport Name="PADK" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Anchorage Center</Line>
+      <Line>Anchorage Center San Francisco Radio</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="CWP10[64]" Type="ASD" DefaultCenter="+583921.000-1620432.000" DefaultRange="2500">
+    <Sectors>
+      <Sector Name="10" />
+    </Sectors>
+    <Maps>
+      <Map Name="FIR" />
+      <Map Name="Geo" />
+      <Map Name="Osec" />
+      <Map Name="DSec" />	  
+      <Map Name="Rts" />
+      <Map Name="Pts" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="false" />
+      <Window Type="State" State="Announced" Visible="false" />
+      <Window Type="State" State="Preactive" Visible="false" />
+    </Strips>
+    <CFL QuickLevel="999000" />
+    <ArrivalLists/>
+    <ControllerInfo>
+      <Line>Anchorage Center Gander Radio</Line>
     </ControllerInfo>
   </Position>   
 </Positions>
