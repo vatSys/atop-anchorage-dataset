@@ -1,7 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Radars>
-  <Radar Name="Mill Valley QMV" Type="SSR_ModeS" Elevation="3522" MaxRange="250">
-    <Lat>37.923978</Lat>
-    <Long>-122.597756</Long>
+  <Radar Name="AKN" Type="SSR_ModeS" Elevation="110" MaxRange="250">
+    <Lat>+58.6919</Lat>
+    <Long>-156.6725</Long>
   </Radar>
+  <Radar Name="BKA" Type="SSR_ModeS" Elevation="250" MaxRange="250">
+    <Lat>+56.8521</Lat>
+    <Long>-135.552</Long>
+  </Radar>
+  <Radar Name="CDB" Type="SSR_ModeS" Elevation="140" MaxRange="250">
+    <Lat>+55.2443</Lat>
+    <Long>-162.7719</Long>
+  </Radar>
+  <Radar Name="CZF" Type="SSR_ModeS" Elevation="2320" MaxRange="250">
+    <Lat>+61.7839</Lat>
+    <Long>-165.9483</Long>
+  </Radar>
+  <Radar Name="EHM" Type="SSR_ModeS" Elevation="800" MaxRange="250">
+    <Lat>+58.6259</Lat>
+    <Long>-162.0786</Long>
+  </Radar>
+  <Radar Name="ENA" Type="SSR_ModeS" Elevation="165" MaxRange="250">
+    <Lat>+60.6156</Lat>
+    <Long>-151.2831</Long>
+  </Radar>
+  <Radar Name="MDO" Type="SSR_ModeS" Elevation="165" MaxRange="250">
+    <Lat>+59.4294</Lat>
+    <Long>-146.3392</Long>
+  </Radar>
+  <Radar Name="MPY" Type="SSR_ModeS" Elevation="2950" MaxRange="250">
+    <Lat>+64.9525</Lat>
+    <Long>-148.3561</Long>
+  </Radar>
+  <Radar Name="OTZ" Type="SSR_ModeS" Elevation="170" MaxRange="250">
+    <Lat>+66.8426</Lat>
+    <Long>-162.5983</Long>
+  </Radar>
+  <Radar Name="SNP" Type="SSR_ModeS" Elevation="280" MaxRange="250">
+    <Lat>+57.1771</Lat>
+    <Long>-170.2518</Long>
+  </Radar>
+  <Radar Name="SVW" Type="SSR_ModeS" Elevation="1565" MaxRange="250">
+    <Lat>+610709.000</Lat>
+    <Long>-1553547.000</Long>
+  </Radar>
+  <Radar Name="SYA" Type="SSR_ModeS" Elevation="210" MaxRange="250">
+    <Lat>+52.7211</Lat>
+    <Long>174.110261</Long>
+  </Radar>
+  <Radar Name="TLJ" Type="SSR_ModeS" Elevation="933" MaxRange="250">
+    <Lat>+62.9285</Lat>
+    <Long>-156.0168</Long>
+  </Radar>
+  <Radar Name="TNC" Type="SSR_ModeS" Elevation="2170" MaxRange="250">
+    <Lat>+65.5748</Lat>
+    <Long>-168.0133</Long>
+  </Radar>
+  <Radar Name="UTO" Type="SSR_ModeS" Elevation="1261" MaxRange="250">
+    <Lat>+660408.000</Lat>
+    <Long>-1534111.000</Long>
+  </Radar>
+  <Radar Name="YZP" Type="SSR_ModeS" Elevation="1600" MaxRange="250">
+    <Lat>+53.180001</Lat>
+    <Long>-131.92637</Long>
+  </Radar>  
 </Radars>
