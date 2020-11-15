@@ -27,7 +27,7 @@
   </Position>
   <Position Name="CWP10[64]" Type="ASD" DefaultCenter="+583921.000-1620432.000" DefaultRange="2500">
     <Sectors>
-      <Sector Name="10" />
+      <Sector Name="64" />
     </Sectors>
     <Maps>
       <Map Name="FIR" />
