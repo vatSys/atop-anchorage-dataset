@@ -28,7 +28,7 @@
       <Airport Name="PADK" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Anchorage Center San Francisco Radio</Line>
+      <Line>"San Francisco Radio" | Anchorage Oceanic FIR (PAZN)</Line>
     </ControllerInfo>
   </Position>
   <Position Name="CWP10[64]" Type="ASD" DefaultCenter="+583921.000-1620432.000" DefaultRange="2500">
@@ -57,7 +57,7 @@
     <CFL QuickLevel="999000" />
     <ArrivalLists/>
     <ControllerInfo>
-      <Line>Anchorage Center Gander Radio</Line>
+      <Line>"Gander Radio" | Anchorage Arctic FIR (PAZN)</Line>
     </ControllerInfo>
   </Position>   
 </Positions>
