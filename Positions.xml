@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="CWP3[10_11]" Type="ASD" DefaultCenter="+583921.000-1620432.000" DefaultRange="2500">
+  <Position Name="CWP3[10_11]" Type="ASD" DefaultCenter="+583921.000-1620432.000" DefaultRange="3000">
 	<ManualVisibility>
 		<Point>+5839.000-16205.000</Point>
 		<Point>+5454.000-13209.000</Point>
