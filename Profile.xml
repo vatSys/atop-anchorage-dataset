@@ -2,8 +2,8 @@
 <Profile Name="ATOP Anchorage" FullName="ATOP Anchorage (PAZA)">
 	<Version AIRAC="2012" Revision="a" PublishDate="20201116" UpdateURL="https://vatsys.sawbe.com/downloads/data/ATOP%20Anchorage/" />
 	<Servers>
-		<VATSIMStatus url="http://status.vatsim.net/" />
-		<GRIB url="http://sawbe.com/GRIB/" />
+		<VATSIMStatus url="https://status.vatsim.net/" />
+		<GRIB url="https://sawbe.com/GRIB/" />
 		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
 	</Servers>	
 </Profile>
