@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
   <Map Type="System" CustomColourName="SkyBlue2" Name="Rts" Priority="15">
-	<Line Name="A342">OLCOT.A342.CDB</Line>
+	<Line Name="A342">NUZAN.A342.CDB</Line>
 	<Line Name="A590">HAMND.A590.JOM</Line>
 	<Line Name="B233">KUTAL.B233.GAL</Line>
 	<Line Name="B240">ERNIK.B240.ENM</Line>
@@ -13,7 +13,7 @@
 	<Line Name="B932">MCG.B932.TBE</Line>
 	<Line Name="B962">TD.B962.DITOR</Line>	
 	<Line Name="G215">OLCOT.G215.DUT</Line>
-	<Line Name="G226">UTS.G226.BALOM</Line>	
+	<Line Name="G226">ABATA.G226.UTS</Line>	
 	<Line Name="G344">KALNA.G344.CUDDA</Line>
 	<Line Name="G349">NEONN.G349.MARCC</Line>
 	<Line Name="G469">NYMPH.G469.PDN</Line>
@@ -45,9 +45,9 @@
 	<Line Name="J502">SEA.J502.OTZ</Line>
 	<Line Name="J507">BRW.J507.YAK</Line>
 	<Line Name="J510">YZP.J510.YEG</Line>
-	<Line Name="J511">DLG.J511.TOVAD</Line>	
+	<Line Name="J511">GKN.J511.TOVAD</Line>	
 	<Line Name="J512">GAL.J512.ENM</Line>	
-	<Line Name="J515">BRW.J515.FAR</Line>	
+	<Line Name="J515">BRW.J515.YWG</Line>	
 	<Line Name="J523">BCE.J523.ANN</Line>
 	<Line Name="J603">ELF.J603.DLG</Line>
 	<Line Name="J604">HBT.J604.RWO</Line>
@@ -79,8 +79,8 @@
 	<Line Name="R336">ADK.R336.CARTO</Line>
 	<Line Name="R338">OPAKE.R338.OME</Line>
 	<Line Name="R341">ODK.R341.NATES</Line>
-	<Line Name="R451">OGDEN.R451.ADK</Line>
-	<Line Name="R580">NICHO.R580.OATIS</Line>
+	<Line Name="R451">HIXOR.R451.ADK</Line>
+	<Line Name="R580">HAMND.R580.OATIS</Line>
 	<Line Name="R591">ADNAP.R591.HAMND</Line>
 <Symbol Type="HollowSquare"> <!--Airway Labels-->
         <Point Name="B241">+562722.5313+1631710.4375</Point>
