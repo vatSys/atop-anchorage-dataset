@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Radars>
-  <Radar Name="AKN" Type="SSR_ModeS" Elevation="110" MaxRange="250">
-    <Lat>+58.6919</Lat>
-    <Long>-156.6725</Long>
-  </Radar>
-  <Radar Name="BKA" Type="SSR_ModeS" Elevation="250" MaxRange="250">
-    <Lat>+56.8521</Lat>
-    <Long>-135.552</Long>
-  </Radar>
   <Radar Name="CDB" Type="SSR_ModeS" Elevation="140" MaxRange="250">
     <Lat>+55.2443</Lat>
     <Long>-162.7719</Long>
@@ -20,18 +12,6 @@
     <Lat>+58.6259</Lat>
     <Long>-162.0786</Long>
   </Radar>
-  <Radar Name="ENA" Type="SSR_ModeS" Elevation="165" MaxRange="250">
-    <Lat>+60.6156</Lat>
-    <Long>-151.2831</Long>
-  </Radar>
-  <Radar Name="MDO" Type="SSR_ModeS" Elevation="165" MaxRange="250">
-    <Lat>+59.4294</Lat>
-    <Long>-146.3392</Long>
-  </Radar>
-  <Radar Name="MPY" Type="SSR_ModeS" Elevation="2950" MaxRange="250">
-    <Lat>+64.9525</Lat>
-    <Long>-148.3561</Long>
-  </Radar>
   <Radar Name="OTZ" Type="SSR_ModeS" Elevation="170" MaxRange="250">
     <Lat>+66.8426</Lat>
     <Long>-162.5983</Long>
@@ -40,28 +20,88 @@
     <Lat>+57.1771</Lat>
     <Long>-170.2518</Long>
   </Radar>
-  <Radar Name="SVW" Type="SSR_ModeS" Elevation="1565" MaxRange="250">
-    <Lat>+610709.000</Lat>
-    <Long>-1553547.000</Long>
-  </Radar>
   <Radar Name="SYA" Type="SSR_ModeS" Elevation="210" MaxRange="250">
     <Lat>+52.7211</Lat>
     <Long>174.110261</Long>
-  </Radar>
-  <Radar Name="TLJ" Type="SSR_ModeS" Elevation="933" MaxRange="250">
-    <Lat>+62.9285</Lat>
-    <Long>-156.0168</Long>
   </Radar>
   <Radar Name="TNC" Type="SSR_ModeS" Elevation="2170" MaxRange="250">
     <Lat>+65.5748</Lat>
     <Long>-168.0133</Long>
   </Radar>
-  <Radar Name="UTO" Type="SSR_ModeS" Elevation="1261" MaxRange="250">
-    <Lat>+660408.000</Lat>
-    <Long>-1534111.000</Long>
+  <Radar Name="BRW" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+711500.73</Lat>
+    <Long>-1564705.54</Long>
   </Radar>
-  <Radar Name="YZP" Type="SSR_ModeS" Elevation="1600" MaxRange="250">
-    <Lat>+53.180001</Lat>
-    <Long>-131.92637</Long>
-  </Radar>  
+  <Radar Name="SCC" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+701045.51</Lat>
+    <Long>-1482447.41</Long>
+  </Radar>
+  <Radar Name="ADSC01" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+592349.13</Lat>
+    <Long>-1733823.89</Long>
+  </Radar>
+  <Radar Name="ADSC02" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+525790.57</Lat>
+    <Long>-1745641.63</Long>
+  </Radar>
+  <Radar Name="ADSC03" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+580141.67</Lat>
+    <Long>-1651015.15</Long>
+  </Radar>
+  <Radar Name="ADSC04" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+542030.49</Lat>
+    <Long>-1622631.82</Long>
+  </Radar>
+  <Radar Name="ADSC05" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+564353.61</Lat>
+    <Long>+1772340.01</Long>
+  </Radar>
+  <Radar Name="ADSC06" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+515033.92</Lat>
+    <Long>+1770736.52</Long>
+  </Radar>
+  <Radar Name="ADSC07" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+510832.93</Lat>
+    <Long>+1655754.48</Long>
+  </Radar>
+  <Radar Name="ADSC08" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+475155.30</Lat>
+    <Long>+1663507.98</Long>
+  </Radar>
+  <Radar Name="ADSC09" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+530116.07</Lat>
+    <Long>+1684653.48</Long>
+  </Radar>
+  <Radar Name="ADSC10" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+740024.45</Lat>
+    <Long>+1612326.94</Long>
+  </Radar>
+  <Radar Name="ADSC11" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+740024.45</Lat>
+    <Long>+1445455.65</Long>
+  </Radar>
+  <Radar Name="ADSC12" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+790000.00</Lat>
+    <Long>+1612326.94</Long>
+  </Radar>
+  <Radar Name="ADSC13" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+790000.00</Lat>
+    <Long>+1445455.65</Long>
+  </Radar>
+  <Radar Name="ADSC14" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+840000.00</Lat>
+    <Long>+1612326.94</Long>
+  </Radar>
+  <Radar Name="ADSC15" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+840000.00</Lat>
+    <Long>+1445455.65</Long>
+  </Radar>
+  <Radar Name="ADSC16" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+890000.00</Lat>
+    <Long>+1612326.94</Long>
+  </Radar>
+  <Radar Name="ADSC17" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
+    <Lat>+890000.00</Lat>
+    <Long>+1445455.65</Long>
+  </Radar>
 </Radars>
