@@ -1,3 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Airways>
+    <Airway Name="A342">
+NUZAN/
+OPAKE/
+PINSO/
+AMOND/
+DRAPP/
+CRYPT/
+CDB
+    </Airway>
+    <Airway Name="R451">
+ADK/
+CHIKI/
+WALLT/
+AAMYY/
+POWAL/
+HIXOR
+    </Airway>
+    <Airway Name="R580">
+ONEMU/
+OPULO/
+OMOTO/
+OGDEN/
+OPHET/
+OLCOT/
+OPAKE/
+ONEIL/
+OBOYD/
+OFORD/
+OGGOE/
+ONEOX/
+ORVIL/
+ORCCA/
+HAMND
+    </Airway>
+  </Airways>
+  <Intersections>
+    <Point Name="HIXOR" Type="Fix">+495051.454+1604559.753</Point>
+    <Point Name="NUZAN" Type="Fix">+513625.951+1634208.471</Point>
+  </Intersections>
 </Airspace>

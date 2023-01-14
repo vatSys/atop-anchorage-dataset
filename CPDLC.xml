@@ -207,7 +207,7 @@
   <Category name="Pre-Fmt" SendViaTM="true"> 
     <Message Response="NE">RESEQUENCE ADS WAYPOINTS</Message>
     <Message Response="NE">ISSUE TIME CHECK</Message>
-    <Message Response="NE">SELECT ATC COM OFF AND MANUALLY LOG ON TO KZAK</Message>
+    <Message Response="NE">SELECT ATC COM OFF AND MANUALLY LOG ON TO PAZA</Message>
     <Message Response="NE">TO THE [name] AIRPORT.  REPORT ARRIVAL.</Message>
     <Message Response="NE">ATCR SAY FLIGHT CONDITIONS</Message>
     <Message Response="NE">ADS-C CDP PROCEDURE IS BEING APPLIED BY ATC</Message>
@@ -216,6 +216,6 @@
 	<Message Response="NE">SQUAWK 2000 TO LOG ON ADS-C AND CPDLC</Message>	
   </Category>
   <Category name="WelcomeMsg" AutoloadElements="true" SendViaTM="true">
-    <Message Response="R">THIS IS AN AUTOMATED MESSAGE TO CONFIRM CPDLC CONNECTION TO KZAK. REPORT SPEED , CHANGES TO ATC..</Message>
+    <Message Response="R">THIS IS AN AUTOMATED MESSAGE TO CONFIRM CPDLC CONNECTION TO PAZA. REPORT SPEED CHANGES TO ATC.</Message>
   </Category>
 </Messages>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Sector FullName="Anchorage Center Sector 11" Frequency="132.750" Callsign="ZAN_11_FSS" Name="10_11">  
-<Volumes>1011</Volumes> 
-  </Sector>   
-  <Sector FullName="Anchorage Center Sector 64" Frequency="126.700" Callsign="ZAN_64_FSS" Name="64">  
-<Volumes>64</Volumes> 
-  </Sector>    
+<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sector FullName="Sector 10" Frequency="126.400" Callsign="ZAN_10_FSS" Name="10">
+    <Volumes>10</Volumes>
+  </Sector>
+  <Sector FullName="Sector 64" Frequency="134.400" Callsign="ZAN_64_FSS" Name="64">
+    <Volumes>64</Volumes>
+  </Sector>
 </Sectors>
