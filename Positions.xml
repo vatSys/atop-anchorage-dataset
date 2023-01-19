@@ -4,7 +4,7 @@
   <Position Name="Pacific" Type="ASD" DefaultCenter="+550000.000+1765583.000" DefaultRange="2000">
     <ManualVisibility>
       <Point>+5716.000-17022.000</Point>
-      <Point>+5271.000-17411.000</Point>
+      <Point>+5243.000+17404.000</Point>
     </ManualVisibility>
     <Sectors>
       <Sector Name="10" />

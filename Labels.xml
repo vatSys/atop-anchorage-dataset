@@ -2,7 +2,7 @@
 <Labels>
   <Label Type="Limited" MaximumWidth="10" LabelRectangle="Default">
     <DataLine>
-      <Item Type="LABEL_ITEM_ACID" Colour="" LeftClick="Label_Move" MiddleClick="" RightClick="Label_ACID_Menu"/>
+      <Item Type="LABEL_ITEM_ACID" Colour="" LeftClick="" MiddleClick="" RightClick="Label_ACID_Menu"/>
       <Item Type="LABEL_ITEM_EMERG" Colour="Emergency" BackgroundColour="Warning" LeftClick="" MiddleClick="Label_Emerg" RightClick=""/>
       <Item Type="LABEL_ITEM_WARNING" Colour="Warning" P1_BackgroundColour="Emergency" LeftClick="" MiddleClick="Label_Warning" RightClick=""/>	  
     </DataLine>
@@ -72,7 +72,7 @@
     <DataLine id="ADESTYPE">
       <Item Type="LABEL_ITEM_GROUNDSPEED" Colour="" LeftClick="" MiddleClick="" RightClick=""/>	
       <Item Type="LABEL_ITEM_ADES" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
-      <!--Item Type="LABEL_ITEM_ATYPE" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/-->
+      <Item Type="LABEL_ITEM_ATYPE" BackgroundColour="" Colour="" LeftClick="" MiddleClick="" RightClick="" LeftPadding="1"/>
     </DataLine>
     <DataLine id="TOGGLE1" Visibility="Toggle">
       <Item Type="LABEL_ITEM_WXDEV_L" Colour="StaticTools" LeftClick="Label_WX_L_Popup"/>

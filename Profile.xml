@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Profile Name="ATOP Anchorage" FullName="ATOP Anchorage (PAZA)">
-	<Version AIRAC="2213" Revision="a" PublishDate="20230112" UpdateURL="https://vatsys.sawbe.com/downloads/data/ATOP%20Anchorage/" />
+<Profile Name="Anchorage Oceanic" FullName="Anchorage Oceanic (PAZA)">
+	<Version AIRAC="2213" Revision="b" PublishDate="20230112" UpdateURL="https://vatsys.sawbe.com/downloads/data/ATOP%20Anchorage/" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
