@@ -1,34 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Maps>
 	<Map Type="System" CustomColourName="SkyBlue2" Name="Rts" Priority="15">
+		<Line Name="A1" Pattern="Hash">ALJ.A1.BBGVP</Line>
+		<Line Name="A10" Pattern="Hash">YJQ.A10.PR</Line>
+		<Line Name="A15" Pattern="Hash">HWTCC.A15.MAGNM</Line>
+		<Line Name="A17" Pattern="Hash">CUN.A17.PVQ</Line>
+		<Line Name="A2" Pattern="Hash">DUVOT.A2.DJN</Line>
+		<Line Name="A3" Pattern="Hash">PVQ.A3.EAV</Line>
 		<Line Name="A342" Pattern="Hash">NUZAN.A342.CDB</Line>
-		<Line Name="A590" Pattern="Hash">HAMND.A590.JOM</Line>
+		<Line Name="A4" Pattern="Hash">EAV.A4.AKP</Line>
+		<Line Name="A411" Pattern="Hash">MOS.A411.CLAMS</Line>
+		<Line Name="A5" Pattern="Hash">AMF.A5.EAV</Line>
+		<Line Name="A590" Pattern="Hash">PUGAL.A590.HAMND</Line>
+		<Line Name="A6" Pattern="Hash">SMA.A6.JNR</Line>
+		<Line Name="A604" Pattern="Hash">MOS.A604.AS</Line>
+		<Line Name="A812" Pattern="Hash">PETIN.A812.VORON</Line>
+		<Line Name="A827" Pattern="Hash">DERUD.A827.BUMAT</Line>
+		<Line Name="A828" Pattern="Hash">ODEBI.A828.GIRLO</Line>
+		<Line Name="A841" Pattern="Hash">OTLER.A841.SENOR</Line>
+		<Line Name="A842" Pattern="Hash">NAMUL.A842.SW</Line>
+		<Line Name="A9" Pattern="Hash">CUN.A9.VIR</Line>
+		<Line Name="A918" Pattern="Hash">NB.A918.LA</Line>
+		<Line Name="A970" Pattern="Hash">AS.A970.LA</Line>
+		<Line Name="AR37" Pattern="Hash">HWKGV.AR37.DA</Line>
+		<Line Name="AR8" Pattern="Hash">YOC.AR8.EV</Line>
+		<Line Name="B12" Pattern="Hash">RWO.B12.ILI</Line>
+		<Line Name="B2" Pattern="Hash">FDV.B2.PIZ</Line>
 		<Line Name="B233" Pattern="Hash">KUTAL.B233.GAL</Line>
 		<Line Name="B240" Pattern="Hash">ERNIK.B240.ENM</Line>
-		<Line Name="B241" Pattern="Hash">RUSOR.B241.ENM</Line>
-		<Line Name="B242" Pattern="Hash">NK.B242.KOKES</Line>
-		<Line Name="B244" Pattern="Hash">RIMLI.B244.MITKA</Line>
-		<Line Name="B453" Pattern="Hash">MDO.B453.BOXER</Line>
+		<Line Name="B241" Pattern="Hash">UK.B241.ENM</Line>
+		<Line Name="B242" Pattern="Hash">UMBOS.B242.KOKES</Line>
+		<Line Name="B244" Pattern="Hash">RIMLI.B244.OTZ</Line>
+		<Line Name="B25" Pattern="Hash">YJQ.B25.XT</Line>
+		<Line Name="B26" Pattern="Hash">FTO.B26.CUN</Line>
+		<Line Name="B27" Pattern="Hash">HHM.B27.RWO</Line>
+		<Line Name="B28" Pattern="Hash">TDNBG.B28.SIT</Line>
+		<Line Name="B3" Pattern="Hash">ANI.B3.OQK</Line>
+		<Line Name="B327" Pattern="Hash">BANIT.B327.BAMOK</Line>
+		<Line Name="B37" Pattern="Hash">SQM.B37.SPARL</Line>
+		<Line Name="B38" Pattern="Hash">EEF.B38.HNS</Line>
+		<Line Name="B4" Pattern="Hash">UTO.B4.FTO</Line>
+		<Line Name="B40" Pattern="Hash">HNS.B40.CFLBB</Line>
+		<Line Name="B453" Pattern="Hash">MDO.B453.KANUA</Line>
+		<Line Name="B484" Pattern="Hash">OTLIM.B484.BUMAT</Line>
+		<Line Name="B485" Pattern="Hash">BUSUL.B485.URABI</Line>
+		<Line Name="B7" Pattern="Hash">EHM.B7.OSE</Line>
+		<Line Name="B703" Pattern="Hash">SW.B703.PETIN</Line>
 		<Line Name="B757" Pattern="Hash">KATCH.B757.NULUK</Line>
-		<Line Name="B932" Pattern="Hash">MCG.B932.TBE</Line>
-		<Line Name="B962" Pattern="Hash">TD.B962.DITOR</Line>
-		<Line Name="G215" Pattern="Hash">OLCOT.G215.DUT</Line>
-		<Line Name="G226" Pattern="Hash">ABATA.G226.UTS</Line>
-		<Line Name="G344" Pattern="Hash">KALNA.G344.CUDDA</Line>
+		<Line Name="B79" Pattern="Hash">TDNSS.B79.ICK</Line>
+		<Line Name="B8" Pattern="Hash">TNC.B8.SHH</Line>
+		<Line Name="B802" Pattern="Hash">MURTA.B802.DIPNA</Line>
+		<Line Name="B804" Pattern="Hash">BANIT.B804.UK</Line>
+		<Line Name="B806" Pattern="Hash">UK.B806.SIPVA</Line>
+		<Line Name="B915" Pattern="Hash">NAMUL.B915.UB</Line>
+		<Line Name="B927" Pattern="Hash">MALUV.B927.UB</Line>
+		<Line Name="B932" Pattern="Hash">MCG.B932.OTLER</Line>
+		<Line Name="B957" Pattern="Hash">TIGBI.B957.PEMID</Line>
+		<Line Name="B96" Pattern="Hash">BC.B96.GAM</Line>
+		<Line Name="BR16" Pattern="Hash">MA.BR16.YOC</Line>
+		<Line Name="BR7" Pattern="Hash">PJ.BR7.YOC</Line>
+		<Line Name="G1" Pattern="Hash">ADK.G1.ELF</Line>
+		<Line Name="G10" Pattern="Hash">EHM.G10.ACE</Line>
+		<Line Name="G101" Pattern="Hash">AKANI.G101.BUMAT</Line>
+		<Line Name="G115" Pattern="Hash">RITNI.G115.DITNU</Line>
+		<Line Name="G119" Pattern="Hash">DIPMA.G119.OTLIM</Line>
+		<Line Name="G12" Pattern="Hash">ELF.G12.AUB</Line>
+		<Line Name="G15" Pattern="Hash">SMA.G15.VTR</Line>
+		<Line Name="G16" Pattern="Hash">PIZ.G16.PVQ</Line>
+		<Line Name="G17" Pattern="Hash">UKK.G17.ATK</Line>
+		<Line Name="G18" Pattern="Hash">HHM.G18.ATK</Line>
+		<Line Name="G2" Pattern="Hash">HBT.G2.RWO</Line>
+		<Line Name="G212" Pattern="Hash">FYU.G212.FDV</Line>
+		<Line Name="G215" Pattern="Hash">NRKEY.G215.DUT</Line>
+		<Line Name="G344" Pattern="Hash">KALIG.G344.CUDDA</Line>
 		<Line Name="G349" Pattern="Hash">NEONN.G349.MARCC</Line>
+		<Line Name="G369" Pattern="Hash">MOTEB.G369.SW</Line>
+		<Line Name="G370" Pattern="Hash">MEDIG.G370.RUSOR</Line>
+		<Line Name="G4" Pattern="Hash">BTS.G4.ILI</Line>
 		<Line Name="G469" Pattern="Hash">NYMPH.G469.PDN</Line>
-		<Line Name="G491" Pattern="Hash">OLDEP.G491.GIKSI</Line>
-		<Line Name="G7" Pattern="Hash">OAY.G7.OGETO</Line>
-		<Line Name="G583" Pattern="Hash">MVE.G583.ENM</Line>
-		<Line Name="G902" Pattern="Hash">GITAK.G902.ASBAT</Line>
+		<Line Name="G583" Pattern="Hash">SENOR.G583.ENM</Line>
+		<Line Name="G6" Pattern="Hash">SMA.G6.ANI</Line>
+		<Line Name="G7" Pattern="Hash">OLTON.G7.OAY</Line>
+		<Line Name="G707" Pattern="Hash">RITNI.G707.BUMAT</Line>
+		<Line Name="G73" Pattern="Hash">NURBA.G73.LUMES</Line>
+		<Line Name="G8" Pattern="Hash">DUT.G8.ACE</Line>
+		<Line Name="G80" Pattern="Hash">BIG.G80.SIT</Line>
+		<Line Name="G801" Pattern="Hash">UB.G801.KUNAD</Line>
+		<Line Name="G812" Pattern="Hash">URABI.G812.TK</Line>
+		<Line Name="G815" Pattern="Hash">OTLER.G815.KUNAD</Line>
+		<Line Name="G816" Pattern="Hash">RIMLI.G816.LUMES</Line>
+		<Line Name="G819" Pattern="Hash">URABI.G819.SUPOG</Line>
+		<Line Name="G9" Pattern="Hash">OSE.G9.CRN</Line>
+		<Line Name="G902" Pattern="Hash">MEDIG.G902.BUSUL</Line>
+		<Line Name="G927" Pattern="Hash">SIPVA.G927.RUGUD</Line>
 		<Line Name="H201" Pattern="Hash">OME.H201.NAYLD</Line>
 		<Line Name="H222" Pattern="Hash">VALDA.H222.MCG</Line>
 		<Line Name="J111" Pattern="Hash">OME.J111.TED</Line>
 		<Line Name="J115" Pattern="Hash">SYA.J115.SCC</Line>
 		<Line Name="J117" Pattern="Hash">MCG.J117.OTZ</Line>
-		<Line Name="J120" Pattern="Hash">ADK.J120.FAI</Line>
+		<Line Name="J120" Pattern="Hash">ADK.J120.FYU</Line>
 		<Line Name="J122" Pattern="Hash">OME.J122.FAI</Line>
 		<Line Name="J123" Pattern="Hash">CJAYY.J123.BRW</Line>
+		<Line Name="J124" Pattern="Hash">BGQ.J124.ORT</Line>
 		<Line Name="J125" Pattern="Hash">ODK.J125.ENN</Line>
 		<Line Name="J127" Pattern="Hash">AKN.J127.NONDA</Line>
 		<Line Name="J129" Pattern="Hash">OME.J129.OTZ</Line>
@@ -42,13 +115,14 @@
 		<Line Name="J188" Pattern="Hash">BET.J188.SQA</Line>
 		<Line Name="J195" Pattern="Hash">ANN.J195.BKA</Line>
 		<Line Name="J501" Pattern="Hash">YZP.J501.BET</Line>
-		<Line Name="J502" Pattern="Hash">SEA.J502.OTZ</Line>
+		<Line Name="J502" Pattern="Hash">PRYCE.J502.OTZ</Line>
 		<Line Name="J507" Pattern="Hash">BRW.J507.YAK</Line>
-		<Line Name="J510" Pattern="Hash">YZP.J510.YEG</Line>
-		<Line Name="J511" Pattern="Hash">GKN.J511.DLG</Line>
+		<Line Name="J511" Pattern="Hash">DLG.J511.GKN</Line>
 		<Line Name="J512" Pattern="Hash">GAL.J512.ENM</Line>
-		<Line Name="J515" Pattern="Hash">BRW.J515.YWG</Line>
-		<Line Name="J523" Pattern="Hash">BCE.J523.ANN</Line>
+		<Line Name="J515" Pattern="Hash">BRW.J515.YQH</Line>
+		<Line Name="J523" Pattern="Hash">YZP.J523.ANN</Line>
+		<Line Name="J536" Pattern="Hash">SSR.J536.YXY</Line>
+		<Line Name="J541" Pattern="Hash">YAK.J541.SSR</Line>
 		<Line Name="J603" Pattern="Hash">ELF.J603.DLG</Line>
 		<Line Name="J604" Pattern="Hash">HBT.J604.RWO</Line>
 		<Line Name="J605" Pattern="Hash">BKA.J605.MDO</Line>
@@ -57,1825 +131,2081 @@
 		<Line Name="J618" Pattern="Hash">ELF.J618.ADK</Line>
 		<Line Name="J619" Pattern="Hash">SPY.J619.EHM</Line>
 		<Line Name="J623" Pattern="Hash">PDN.J623.SPY</Line>
+		<Line Name="J64" Pattern="Hash">AS.J64.MA</Line>
 		<Line Name="J804R" Pattern="Hash">TED.J804R.FRIED</Line>
 		<Line Name="J889R" Pattern="Hash">NOWEL.J889R.LAIRE</Line>
-		<Line Name="R220" Pattern="Hash">NODLE.R220.IXE</Line>
+		<Line Name="KR365" Pattern="Hash">BC.KR365.INGUS</Line>
+		<Line Name="KR481" Pattern="Hash">DENED.KR481.PETIN</Line>
+		<Line Name="KR824" Pattern="Hash">BC.KR824.BATNI</Line>
+		<Line Name="L160" Pattern="Hash">PEMID.L160.LISKI</Line>
+		<Line Name="L603" Pattern="Hash">PJ.L603.DA</Line>
+		<Line Name="L604" Pattern="Hash">YXY.L604.AVTAV</Line>
+		<Line Name="L606" Pattern="Hash">KEMGI.L606.CANYO</Line>
+		<Line Name="L607" Pattern="Hash">IRGIP.L607.KEMGI</Line>
+		<Line Name="L636" Pattern="Hash">MELBI.L636.ALTIG</Line>
+		<Line Name="L647" Pattern="Hash">EPSET.L647.YQH</Line>
+		<Line Name="L648" Pattern="Hash">OLARU.L648.YXY</Line>
+		<Line Name="L686" Pattern="Hash">MAGNM.L686.VIRPU</Line>
+		<Line Name="L711" Pattern="Hash">EPSET.L711.NADGI</Line>
+		<Line Name="L723" Pattern="Hash">EPSET.L723.OMVAN</Line>
+		<Line Name="L767" Pattern="Hash">MELBI.L767.KIPIR</Line>
+		<Line Name="L771" Pattern="Hash">MOTEB.L771.KUTAL</Line>
+		<Line Name="L91" Pattern="Hash">LA.L91.XT</Line>
+		<Line Name="M152" Pattern="Hash">OTLER.M152.BAMOK</Line>
+		<Line Name="M165" Pattern="Hash">PILUN.M165.NEDSA</Line>
+		<Line Name="M180" Pattern="Hash">PEMID.M180.FRENK</Line>
+		<Line Name="M182" Pattern="Hash">PEMID.M182.KUTAL</Line>
+		<Line Name="N222" Pattern="Hash">URABI.N222.VALDA</Line>
+		<Line Name="N735" Pattern="Hash">RATET.N735.FRENK</Line>
+		<Line Name="N991" Pattern="Hash">NB.N991.AGURA</Line>
+		<Line Name="NCA10" Pattern="Hash">YAK.NCA10.MITOM</Line>
+		<Line Name="NCA11" Pattern="Hash">YESKA.NCA11.GOROV</Line>
+		<Line Name="NCA12" Pattern="Hash">GUDEN.NCA12.JAGIT</Line>
+		<Line Name="NCA13" Pattern="Hash">YESKA.NCA13.YXY</Line>
+		<Line Name="NCA14" Pattern="Hash">GKN.NCA14.GAHAM</Line>
+		<Line Name="NCA15" Pattern="Hash">ORT.NCA15.EMSOW</Line>
+		<Line Name="NCA17" Pattern="Hash">ORT.NCA17.TIBOY</Line>
+		<Line Name="NCA19" Pattern="Hash">GAL.NCA19.CHAPO</Line>
+		<Line Name="NCA20" Pattern="Hash">ELLAM.NCA20.ALUSO</Line>
+		<Line Name="NCA22" Pattern="Hash">ENN.NCA22.FANES</Line>
+		<Line Name="NCA24" Pattern="Hash">GAL.NCA24.FIORD</Line>
+		<Line Name="NCA28" Pattern="Hash">FYU.NCA28.GOATS</Line>
+		<Line Name="NCA30" Pattern="Hash">OME.NCA30.POTAT</Line>
+		<Line Name="NCA31" Pattern="Hash">LISKI.NCA31.VOLOB</Line>
+		<Line Name="NCA32" Pattern="Hash">LISKI.NCA32.TAYTA</Line>
+		<Line Name="NCA80" Pattern="Hash">LISKI.NCA80.ADREW</Line>
+		<Line Name="P140" Pattern="Hash">BUMAT.P140.PEMID</Line>
+		<Line Name="P160" Pattern="Hash">NURBA.P160.BAMOK</Line>
+		<Line Name="P168" Pattern="Hash">SUBEK.P168.BAMOK</Line>
+		<Line Name="P172" Pattern="Hash">GAKTA.P172.LUMES</Line>
+		<Line Name="P176" Pattern="Hash">NAMUL.P176.UB</Line>
+		<Line Name="P177" Pattern="Hash">BAMUN.P177.TK</Line>
+		<Line Name="Q10" Pattern="Hash">ENM.Q10.ULL</Line>
+		<Line Name="Q12" Pattern="Hash">OTZ.Q12.SCC</Line>
+		<Line Name="Q14" Pattern="Hash">ODK.Q14.JOH</Line>
+		<Line Name="Q16" Pattern="Hash">ODK.Q16.YAK</Line>
+		<Line Name="Q17" Pattern="Hash">HOM.Q17.MDO</Line>
+		<Line Name="Q18" Pattern="Hash">GAL.Q18.BRW</Line>
+		<Line Name="Q41" Pattern="Hash">CAWIN.Q41.SCC</Line>
+		<Line Name="Q43" Pattern="Hash">TED.Q43.FAI</Line>
+		<Line Name="Q44" Pattern="Hash">OME.Q44.TED</Line>
+		<Line Name="Q45" Pattern="Hash">DLG.Q45.AMOTT</Line>
+		<Line Name="Q46" Pattern="Hash">PHO.Q46.BRW</Line>
+		<Line Name="Q47" Pattern="Hash">AKN.Q47.AMOTT</Line>
+		<Line Name="Q48" Pattern="Hash">BRW.Q48.ROCES</Line>
+		<Line Name="Q49" Pattern="Hash">ODK.Q49.AMOTT</Line>
+		<Line Name="Q51" Pattern="Hash">AKN.Q51.OTZ</Line>
+		<Line Name="Q53" Pattern="Hash">ODK.Q53.OTZ</Line>
+		<Line Name="Q55" Pattern="Hash">ODK.Q55.OME</Line>
+		<Line Name="Q57" Pattern="Hash">AKN.Q57.MCG</Line>
+		<Line Name="Q59" Pattern="Hash">CDB.Q59.BET</Line>
+		<Line Name="Q6" Pattern="Hash">TKA.Q6.BRW</Line>
+		<Line Name="Q61" Pattern="Hash">FAI.Q61.BRW</Line>
+		<Line Name="Q8" Pattern="Hash">TED.Q8.GAL</Line>
+		<Line Name="Q801" Pattern="Hash">SIMSU.Q801.YZP</Line>
+		<Line Name="Q811" Pattern="Hash">DLG.Q811.YXY</Line>
+		<Line Name="Q902" Pattern="Hash">CFSTF.Q902.OTZ</Line>
+		<Line Name="Q969" Pattern="Hash">DUXAR.Q969.YXY</Line>
+		<Line Name="R1" Pattern="Hash">SPY.R1.AUB</Line>
+		<Line Name="R2" Pattern="Hash">ELF.R2.PDN</Line>
+		<Line Name="R220" Pattern="Hash">NODLE.R220.NOGAL</Line>
 		<Line Name="R330" Pattern="Hash">SYA.R330.POWAL</Line>
 		<Line Name="R336" Pattern="Hash">ADK.R336.CARTO</Line>
-		<Line Name="R338" Pattern="Hash">OPAKE.R338.OME</Line>
+		<Line Name="R338" Pattern="Hash">OME.R338.OPAKE</Line>
 		<Line Name="R341" Pattern="Hash">ODK.R341.NATES</Line>
+		<Line Name="R35" Pattern="Hash">BC.R35.FDV</Line>
+		<Line Name="R351" Pattern="Hash">PEMID.R351.KUTAL</Line>
+		<Line Name="R39" Pattern="Hash">OSE.R39.ICW</Line>
 		<Line Name="R451" Pattern="Hash">HIXOR.R451.ADK</Line>
-		<Line Name="R580" Pattern="Hash">HAMND.R580.ONEMU</Line>
-		<Line Name="R591" Pattern="Hash">ADNAP.R591.HAMND</Line>
-		<!--<Symbol Type="HollowSquare">
-			<Point Name="B241">+562722.5313+1631710.4375</Point>
-			<Point Name="B241">+571930.5313+1654137.750</Point>
-			<Point Name="B241">+595028.9219+1744528.625</Point>
-			<Point Name="B242">+545404.125+1685211.500</Point>
-			<Point Name="B242">+550639.4375+1664950.1875</Point>
-			<Point Name="B244">+520505.5625+1583449.875</Point>
-			<Point Name="B244">+524520.1094+1584413.000</Point>
-			<Point Name="B244">+532600.3906+1584417.125</Point>
-			<Point Name="B244">+535627.6563+1592429.9375</Point>
-			<Point Name="B244">+551536.4844+1611540.250</Point>
-			<Point Name="B244">+581048.8281+1640952.750</Point>
-			<Point Name="B244">+620329.8125+1694732.375</Point>
-			<Point Name="B244">+635332.8594+1745531.9375</Point>
-			<Point Name="B932">+623528.0156-1592545.250</Point>
-			<Point Name="B932">+613956.9844-1660701.8125</Point>
-			<Point Name="B932">+605512.2188-1702555.000</Point>
-			<Point Name="B932">+600337.4063-1743419.5625</Point>
-			<Point Name="B932">+583150.8281+1794144.375</Point>
-			<Point Name="B932">+570028.8594+1744025.250</Point>
-			<Point Name="B932">+554624.7656+1700727.9375</Point>
-			<Point Name="B932">+533125.1094+1624702.4375</Point>
-			<Point Name="B932">+494448.6563+1534844.6875</Point>
-			<Point Name="B932">+461620.4219+1474008.1875</Point>
-			<Point Name="B932">+441432.0938+1443821.6875</Point>
-			<Point Name="R336">+511642.000+1794301.000</Point>
-			<Point Name="R336">+493527.926+1722741.744</Point>
-			<Point Name="G215">+535423.000-1715816.000</Point>
-			<Point Name="G215">+531819.000+1783460.000</Point>
-			<Point Name="G215">+523136.000+1722118.000</Point>
-			<Point Name="G215">+515429.000+1681335.000</Point>
-			<Point Name="G334">+561634.000-1643524.000</Point>
-			<Point Name="G334">+552224.000-1695641.000</Point>
-			<Point Name="G334">+543106.000-1735256.000</Point>
-			<Point Name="G334">+524950.000+1795710.000</Point>
-			<Point Name="G334">+522222.397+1784000.057</Point>
-			<Point Name="G334">+513446.708+1762224.593</Point>
-			<Point Name="G334">+495817.092+1721251.448</Point>
-			<Point Name="G334">+473253.550+1654140.033</Point>
-			<Point Name="G334">+445523.000+1590937.000</Point>
-			<Point Name="G334">+411041.000+1524452.000</Point>
-			<Point Name="G583">+622512.9375-1665831.0625</Point>
-			<Point Name="G583">+611016.5313-1734616.9375</Point>
-			<Point Name="G583">+595844.9531-1791402.3125</Point>
-			<Point Name="G583">+575732.3438+1711233.750</Point>
-			<Point Name="G583">+544943.1406+1612949.4375</Point>
-			<Point Name="G583">+540308.7813+1591906.500</Point>
-			<Point Name="G583">+533519.5156+1581030.750</Point>
-			<Point Name="G583">+530524.5938+1565439.375</Point>
-			<Point Name="G583">+524223.5469+1560229.6875</Point>
-			<Point Name="G583">+510359.4219+1530046.000</Point>
-			<Point Name="G583">+481035.2656+1482618.8125</Point>
-			<Point Name="G583">+460236.6719+1453156.500</Point>
-			<Point Name="G583">+444029.0625+1435124.750</Point>
-			<Point Name="R451">+515319.533+1784012.789</Point>
-			<Point Name="R451">+515005.017+1760837.459</Point>
-			<Point Name="R451">+513745.853+1731012.337</Point>
-			<Point Name="R451">+505616.041+1682548.533</Point>
-			<Point Name="R451">+495636.935+1632518.854</Point>
-			<Point Name="J115">+605309.000-1503703.000</Point>
-			<Point Name="J115">+595444.000-1532731.000</Point>
-			<Point Name="J115">+591004.000-1553627.000</Point>
-			<Point Name="J115">+582317.000-1572550.000</Point>
-			<Point Name="J115">+572844.000-1590818.000</Point>
-			<Point Name="J115">+560744.000-1612911.000</Point>
-			<Point Name="J115">+543658.000-1644244.000</Point>
-			<Point Name="J115">+530120.000-1714258.000</Point>
-			<Point Name="J115">+522709.355+1770818.567</Point>
-			<Point Name="J123">+680133.000-1612301.000</Point>
-			<Point Name="J123">+623817.000-1632438.000</Point>
-			<Point Name="R591">+593621.000-1583909.000</Point>
-			<Point Name="R591">+582426.000-1633820.000</Point>
-			<Point Name="R591">+574100.000-1673335.000</Point>
-			<Point Name="R591">+564852.000-1715817.000</Point>
-			<Point Name="R591">+555242.000-1760234.000</Point>
-			<Point Name="R591">+544636.000+1795808.000</Point>
-			<Point Name="R591">+532839.405+1761556.711</Point>
-			<Point Name="R591">+520717.731+1724202.436</Point>
-			<Point Name="R591">+503602.704+1684644.734</Point>
-			<Point Name="R591">+483749.442+1635155.756</Point>
-			<Point Name="R591">+460429.000+1582151.000</Point>
-			<Point Name="R591">+422560.000+1522532.000</Point>
-			<Point Name="R591">+385633.000+1474412.000</Point>
-			<Point Name="A590">+600060.000-1590320.000</Point>
-			<Point Name="A590">+590424.000-1645326.000</Point>
-			<Point Name="A590">+591017.000-1692634.000</Point>
-			<Point Name="A590">+582326.000-1685104.000</Point>
-			<Point Name="A590">+564419.000-1761420.000</Point>
-			<Point Name="A590">+542329.816+1760542.898</Point>
-			<Point Name="A590">+525214.789+1720258.786</Point>
-			<Point Name="A590">+503629.691+1684633.613</Point>
-			<Point Name="A590">+492225.000+1630320.000</Point>
-			<Point Name="A590">+483820.129+1635203.032</Point>
-			<Point Name="A590">+464123.000+1573153.000</Point>
-			<Point Name="A590">+425926.000+1513142.000</Point>
-			<Point Name="A590">+694502.000+1471029.000</Point>
-			<Point Name="A590">+374102.000+1444500.000</Point>
-			<Point Name="A590">+362559.000+1431634.000</Point>
-			<Point Name="A590">+352526.000+1415038.000</Point>
-			<Point Name="A590">+343138.000+1401823.000</Point>
-			<Point Name="A590">+333725.000+1391438.000</Point>
-			<Point Name="A590">+322325.000+1375321.000</Point>
-			<Point Name="A590">+304952.000+1360158.000</Point>
-			<Point Name="A590">+281501.000+1332916.000</Point>
-			<Point Name="A590">+265157.000+1320901.000</Point>
-			<Point Name="A590">+250941.000+1304244.000</Point>
-			<Point Name="A590">+234219.000+1293533.000</Point>
-			<Point Name="A590">+190526.000+1254912.000</Point>
-			<Point Name="G469">+550658.162+1762622.510</Point>
-			<Point Name="G469">+534757.030+1703329.560</Point>
-			<Point Name="A342">+551829.000-1664435.000</Point>
-			<Point Name="A342">+545951.000-1742059.000</Point>
-			<Point Name="A342">+542742.000-1795108.000</Point>
-			<Point Name="A342">+535040.345+1755536.969</Point>
-			<Point Name="A342">+522715.530+1693459.693</Point>
-			<Point Name="R580">+604732.000-1593925.000</Point>
-			<Point Name="R580">+595528.000-1651602.000</Point>
-			<Point Name="R580">+591129.000-1692628.000</Point>
-			<Point Name="R580">+581323.000-1735508.000</Point>
-			<Point Name="R580">+565134.000-1792118.000</Point>
-			<Point Name="R580">+550825.221+1752707.719</Point>
-			<Point Name="R580">+533642.439+1712204.391</Point>
-			<Point Name="R580">+521317.395+1675023.461</Point>
-			<Point Name="R580">+511157.306+1650221.669</Point>
-			<Point Name="R580">+501405.575+1624711.954</Point>
-			<Point Name="R580">+491506.650+1603507.604</Point>
-			<Point Name="R580">+471958.000+1564618.000</Point>
-			<Point Name="R580">+434822.000+1510418.000</Point>
-			<Point Name="R580">+393905.000+1453841.000</Point>
-			<Point Name="R341">+555641.841+1760435.095</Point>
-			<Point Name="R220">+611434.000-1571520.000</Point>
-			<Point Name="R220">+610014.000-1635637.000</Point>
-			<Point Name="R220">+603423.000-1663407.000</Point>
-			<Point Name="R220">+535655.000-1700117.000</Point>
-			<Point Name="R220">+591911.000-1730353.000</Point>
-			<Point Name="R220">+584350.000-1754350.000</Point>
-			<Point Name="R220">+571424.749+1784638.085</Point>
-			<Point Name="R220">+555218.787+1744406.680</Point>
-			<Point Name="R220">+542038.129+1704231.896</Point>
-			<Point Name="R220">+523204.913+1660119.060</Point>
-			<Point Name="R220">+504114.864+1613608.770</Point>
-			<Point Name="R220">+480354.000+1560452.000</Point>
-			<Point Name="R220">+441626.000+1495637.000</Point>
-			<Point Name="R220">+420732.000+1470330.000</Point>
-			<Point Name="R220">+411128.000+1455254.000</Point>
-			<Point Name="R220">+393925.000+1440343.000</Point>
-			<Point Name="R220">+383625.000+1424811.000</Point>
-			<Point Name="R220">+374605.000+1414158.000</Point>
-			<Point Name="R338">+641943.000-1655355.000</Point>
-			<Point Name="R338">+634630.000-1675433.000</Point>
-			<Point Name="R338">+625959.000-7103056.000</Point>
-			<Point Name="R338">+620932.000-1725929.000</Point>
-			<Point Name="R338">+605905.000-1760458.000</Point>
-			<Point Name="R338">+574945.000+1770133.000</Point>
-			<Point Name="B757">+550917.000-1395020.000</Point>
-			<Point Name="B757">+564107.000-1461330.000</Point>
-			<Point Name="B757">+571648.000-1492821.000</Point>
-			<Point Name="B757">+573752.000-1512729.000</Point>
-			<Point Name="B757">+581721.000-1570744.000</Point>
-			<Point Name="B757">+584733.000-1662449.000</Point>
-			<Point Name="B757">+583740.000-1740455.000</Point>
-			<Point Name="B453">+453307.225-1280802.480</Point>
-			<Point Name="B453">+475734.171-1295649.958</Point>
-			<Point Name="B453">+483554.071-1302639.485</Point>
-			<Point Name="B453">+492905.002-1311153.843</Point>
-			<Point Name="B453">+500630.147-1314720.107</Point>
-			<Point Name="B453">+564814.000-1404823.000</Point>
-			<Point Name="J120">+654837.000-1463223.000</Point>
-			<Point Name="J120">+635437.000-1520714.000</Point>
-			<Point Name="J120">+615450.000-1584941.000</Point>
-			<Point Name="J120">+594613.000-1643516.000</Point>
-			<Point Name="J120">+580310.000-1683212.000</Point>
-			<Point Name="J120">+542748.000-1734738.000</Point>
-			<Point Name="J125">+641939.174-1491123.698</Point>
-			<Point Name="J125">+631058.035-1494207.404</Point>
-			<Point Name="J125">+615926.839-1501601.637</Point>
-			<Point Name="J125">+612518.557-1501233.701</Point>
-			<Point Name="J125">+594734.251-1505608.530</Point>
-			<Point Name="J125">+580548.904-1520727.958</Point>
-			<Point Name="J133">+630346.000-1531544.000</Point>
-			<Point Name="J133">+575704.000-1381016.000</Point>
-			<Point Name="J133">+591351.000-1414300.000</Point>
-			<Point Name="J133">+595123.000-1435722.000</Point>
-			<Point Name="J133">+601726.000-1454515.000</Point>
-			<Point Name="J133">+605050.000-1481652.000</Point>
-			<Point Name="J179">+600356.000-1484831.000</Point>
-			<Point Name="J501">+604923.451-1610744.175</Point>
-			<Point Name="J501">+605843.907-1580217.734</Point>
-			<Point Name="J501">+610735.222-1534505.176</Point>
-			<Point Name="J501">+610946.269-1503452.150</Point>
-			<Point Name="J501">+604857.920-1481609.237</Point>
-			<Point Name="J501">+602347.661-1455548.490</Point>
-			<Point Name="J501">+601711.644-1445912.988</Point>
-			<Point Name="J501">+595207.715-1420911.095</Point>
-			<Point Name="J501">+592527.000-1392908.000</Point>
-			<Point Name="J501">+580317.000-1371725.000</Point>
-			<Point Name="J501">+553719.000-1340936.000</Point>
-			<Point Name="J501">+535512.000-1322625.000</Point>
-			<Point Name="J501">+484208.000-1251248.000</Point>
-			<Point Name="J501">+475253.000-1242450.000</Point>
-			<Point Name="J501">+471321.000-1241139.000</Point>
-			<Point Name="J501">+463446.000-1240149.000</Point>
-			<Point Name="J501">+445558.000-1233351.000</Point>
-			<Point Name="J501">+404727.458-1225258.412</Point>
-			<Point Name="J501">+383543.618-1225202.652</Point>
-			<Point Name="J501">+370750.154-1221512.451</Point>
-			<Point Name="J501">+354911.936-1211358.790</Point>
-			<Point Name="J501">+352321.409-1204434.587</Point>
-			<Point Name="J501">+345435.746-1201242.506</Point>
-			<Point Name="J603">+613147.000-1401237.000</Point>
-			<Point Name="J603">+614048.000-1474612.000</Point>
-			<Point Name="J603">+610131.000-1504021.000</Point>
-			<Point Name="J603">+603724.000-1523203.000</Point>
-			<Point Name="J603">+600649.000-1543931.000</Point>
-			<Point Name="J603">+594402.000-1560428.000</Point>
-			<Point Name="J603">+592501.000-1571217.000</Point>
-			<Point Name="J603">+590649.000-1581236.000</Point>
-			<Point Name="J603">+571304.000-1604512.000</Point>
-			<Point Name="J604">+563803.000-1563322.000</Point>
-			<Point Name="J605">+581150.000-1402848.000</Point>
-			<Point Name="J804R">+550742.000-1351953.000</Point>
-			<Point Name="J804R">+565539.000-1391853.000</Point>
-			<Point Name="J804R">+583558.000-1434439.000</Point>
-			<Point Name="J804R">+595934.000-1472852.000</Point>
-			<Point Name="J804R">+604926.000-1491345.000</Point>
-			<Point Name="J889">+591007.798-1421513.125</Point>
-			<Point Name="J889">+594546.577-1450332.555</Point>
-			<Point Name="J889">+601403.804-1471853.284</Point>
-		</Symbol> -->
+		<Line Name="R51" Pattern="Hash">SQM.R51.SIT</Line>
+		<Line Name="R580" Pattern="Hash">HAMND.R580.OPULO</Line>
+		<Line Name="R591" Pattern="Hash">AGEDI.R591.HAMND</Line>
+		<Line Name="R967" Pattern="Hash">OTLER.R967.MIFRA</Line>
+		<Line Name="R99" Pattern="Hash">SPY.R99.ACE</Line>
+		<Line Name="UA604" Pattern="Hash">MOS.UA604.AS</Line>
+		<Line Name="W213" Pattern="Hash">UB.W213.NS</Line>
+		<Line Name="W214" Pattern="Hash">TIGBI.W214.NS</Line>
+		<Line Name="W215" Pattern="Hash">UK.W215.MK</Line>
+		<Line Name="W216" Pattern="Hash">MOLOB.W216.RITNI</Line>
+		<Line Name="W219" Pattern="Hash">TIGBI.W219.UK</Line>
+		<Line Name="W299" Pattern="Hash">NILUK.W299.MOLOB</Line>
+		<Line Name="W310" Pattern="Hash">NILUK.W310.RITNI</Line>
+		<Line Name="W75" Pattern="Hash">TELNA.W75.PEMID</Line>
+		<Line Name="W88" Pattern="Hash">OKULA.W88.VATUL</Line>
 	</Map>
-	<Map Type="System" CustomColourName="SkyBlue2" Name="Rts_Nms" Priority="15">
+	<Map Type="System" CustomColourName="SkyBlue2" Name="Rts Nms" Priority="15">
 		<Label HasLeader="false">
-			<Point Name="B241">+562722.5313+1631710.4375</Point>
-			<Point Name="B241">+571930.5313+1654137.750</Point>
-			<Point Name="B241">+595028.9219+1744528.625</Point>
-			<Point Name="B242">+545404.125+1685211.500</Point>
-			<Point Name="B242">+550639.4375+1664950.1875</Point>
-			<Point Name="B244">+520505.5625+1583449.875</Point>
-			<Point Name="B244">+524520.1094+1584413.000</Point>
-			<Point Name="B244">+532600.3906+1584417.125</Point>
-			<Point Name="B244">+535627.6563+1592429.9375</Point>
-			<Point Name="B244">+551536.4844+1611540.250</Point>
-			<Point Name="B244">+581048.8281+1640952.750</Point>
-			<Point Name="B244">+620329.8125+1694732.375</Point>
-			<Point Name="B244">+635332.8594+1745531.9375</Point>
-			<Point Name="B932">+623528.0156-1592545.250</Point>
-			<Point Name="B932">+613956.9844-1660701.8125</Point>
-			<Point Name="B932">+605512.2188-1702555.000</Point>
-			<Point Name="B932">+600337.4063-1743419.5625</Point>
-			<Point Name="B932">+583150.8281+1794144.375</Point>
-			<Point Name="B932">+570028.8594+1744025.250</Point>
-			<Point Name="B932">+554624.7656+1700727.9375</Point>
-			<Point Name="B932">+533125.1094+1624702.4375</Point>
-			<Point Name="B932">+494448.6563+1534844.6875</Point>
-			<Point Name="B932">+461620.4219+1474008.1875</Point>
-			<Point Name="B932">+441432.0938+1443821.6875</Point>
-			<Point Name="R336">+511642.000+1794301.000</Point>
-			<Point Name="R336">+493527.926+1722741.744</Point>
-			<Point Name="G215">+535423.000-1715816.000</Point>
-			<Point Name="G215">+531819.000+1783460.000</Point>
-			<Point Name="G215">+523136.000+1722118.000</Point>
-			<Point Name="G215">+515429.000+1681335.000</Point>
-			<Point Name="G334">+561634.000-1643524.000</Point>
-			<Point Name="G334">+552224.000-1695641.000</Point>
-			<Point Name="G334">+543106.000-1735256.000</Point>
-			<Point Name="G334">+524950.000+1795710.000</Point>
-			<Point Name="G334">+522222.397+1784000.057</Point>
-			<Point Name="G334">+513446.708+1762224.593</Point>
-			<Point Name="G334">+495817.092+1721251.448</Point>
-			<Point Name="G334">+473253.550+1654140.033</Point>
-			<Point Name="G334">+445523.000+1590937.000</Point>
-			<Point Name="G334">+411041.000+1524452.000</Point>
-			<Point Name="G583">+622512.9375-1665831.0625</Point>
-			<Point Name="G583">+611016.5313-1734616.9375</Point>
-			<Point Name="G583">+595844.9531-1791402.3125</Point>
-			<Point Name="G583">+575732.3438+1711233.750</Point>
-			<Point Name="G583">+544943.1406+1612949.4375</Point>
-			<Point Name="G583">+540308.7813+1591906.500</Point>
-			<Point Name="G583">+533519.5156+1581030.750</Point>
-			<Point Name="G583">+530524.5938+1565439.375</Point>
-			<Point Name="G583">+524223.5469+1560229.6875</Point>
-			<Point Name="G583">+510359.4219+1530046.000</Point>
-			<Point Name="G583">+481035.2656+1482618.8125</Point>
-			<Point Name="G583">+460236.6719+1453156.500</Point>
-			<Point Name="G583">+444029.0625+1435124.750</Point>
-			<Point Name="R451">+515319.533+1784012.789</Point>
-			<Point Name="R451">+515005.017+1760837.459</Point>
-			<Point Name="R451">+513745.853+1731012.337</Point>
-			<Point Name="R451">+505616.041+1682548.533</Point>
-			<Point Name="R451">+495636.935+1632518.854</Point>
-			<Point Name="J115">+605309.000-1503703.000</Point>
-			<Point Name="J115">+595444.000-1532731.000</Point>
-			<Point Name="J115">+591004.000-1553627.000</Point>
-			<Point Name="J115">+582317.000-1572550.000</Point>
-			<Point Name="J115">+572844.000-1590818.000</Point>
-			<Point Name="J115">+560744.000-1612911.000</Point>
-			<Point Name="J115">+543658.000-1644244.000</Point>
-			<Point Name="J115">+530120.000-1714258.000</Point>
-			<Point Name="J115">+522709.355+1770818.567</Point>
-			<Point Name="J123">+680133.000-1612301.000</Point>
-			<Point Name="J123">+623817.000-1632438.000</Point>
-			<Point Name="R591">+593621.000-1583909.000</Point>
-			<Point Name="R591">+582426.000-1633820.000</Point>
-			<Point Name="R591">+574100.000-1673335.000</Point>
-			<Point Name="R591">+564852.000-1715817.000</Point>
-			<Point Name="R591">+555242.000-1760234.000</Point>
-			<Point Name="R591">+544636.000+1795808.000</Point>
-			<Point Name="R591">+532839.405+1761556.711</Point>
-			<Point Name="R591">+520717.731+1724202.436</Point>
-			<Point Name="R591">+503602.704+1684644.734</Point>
-			<Point Name="R591">+483749.442+1635155.756</Point>
-			<Point Name="R591">+460429.000+1582151.000</Point>
-			<Point Name="R591">+422560.000+1522532.000</Point>
-			<Point Name="R591">+385633.000+1474412.000</Point>
-			<Point Name="A590">+600060.000-1590320.000</Point>
-			<Point Name="A590">+590424.000-1645326.000</Point>
-			<Point Name="A590">+591017.000-1692634.000</Point>
-			<Point Name="A590">+582326.000-1685104.000</Point>
-			<Point Name="A590">+564419.000-1761420.000</Point>
-			<Point Name="A590">+542329.816+1760542.898</Point>
-			<Point Name="A590">+525214.789+1720258.786</Point>
-			<Point Name="A590">+503629.691+1684633.613</Point>
-			<Point Name="A590">+492225.000+1630320.000</Point>
-			<Point Name="A590">+483820.129+1635203.032</Point>
-			<Point Name="A590">+464123.000+1573153.000</Point>
-			<Point Name="A590">+425926.000+1513142.000</Point>
-			<Point Name="A590">+694502.000+1471029.000</Point>
-			<Point Name="A590">+374102.000+1444500.000</Point>
-			<Point Name="A590">+362559.000+1431634.000</Point>
-			<Point Name="A590">+352526.000+1415038.000</Point>
-			<Point Name="A590">+343138.000+1401823.000</Point>
-			<Point Name="A590">+333725.000+1391438.000</Point>
-			<Point Name="A590">+322325.000+1375321.000</Point>
-			<Point Name="A590">+304952.000+1360158.000</Point>
-			<Point Name="A590">+281501.000+1332916.000</Point>
-			<Point Name="A590">+265157.000+1320901.000</Point>
-			<Point Name="A590">+250941.000+1304244.000</Point>
-			<Point Name="A590">+234219.000+1293533.000</Point>
-			<Point Name="A590">+190526.000+1254912.000</Point>
-			<Point Name="G469">+550658.162+1762622.510</Point>
-			<Point Name="G469">+534757.030+1703329.560</Point>
-			<Point Name="A342">+551829.000-1664435.000</Point>
-			<Point Name="A342">+545951.000-1742059.000</Point>
-			<Point Name="A342">+542742.000-1795108.000</Point>
-			<Point Name="A342">+535040.345+1755536.969</Point>
-			<Point Name="A342">+522715.530+1693459.693</Point>
-			<Point Name="R580">+604732.000-1593925.000</Point>
-			<Point Name="R580">+595528.000-1651602.000</Point>
-			<Point Name="R580">+591129.000-1692628.000</Point>
-			<Point Name="R580">+581323.000-1735508.000</Point>
-			<Point Name="R580">+565134.000-1792118.000</Point>
-			<Point Name="R580">+550825.221+1752707.719</Point>
-			<Point Name="R580">+533642.439+1712204.391</Point>
-			<Point Name="R580">+521317.395+1675023.461</Point>
-			<Point Name="R580">+511157.306+1650221.669</Point>
-			<Point Name="R580">+501405.575+1624711.954</Point>
-			<Point Name="R580">+491506.650+1603507.604</Point>
-			<Point Name="R580">+471958.000+1564618.000</Point>
-			<Point Name="R580">+434822.000+1510418.000</Point>
-			<Point Name="R580">+393905.000+1453841.000</Point>
-			<Point Name="R341">+555641.841+1760435.095</Point>
-			<Point Name="R220">+611434.000-1571520.000</Point>
-			<Point Name="R220">+610014.000-1635637.000</Point>
-			<Point Name="R220">+603423.000-1663407.000</Point>
-			<Point Name="R220">+535655.000-1700117.000</Point>
-			<Point Name="R220">+591911.000-1730353.000</Point>
-			<Point Name="R220">+584350.000-1754350.000</Point>
-			<Point Name="R220">+571424.749+1784638.085</Point>
-			<Point Name="R220">+555218.787+1744406.680</Point>
-			<Point Name="R220">+542038.129+1704231.896</Point>
-			<Point Name="R220">+523204.913+1660119.060</Point>
-			<Point Name="R220">+504114.864+1613608.770</Point>
-			<Point Name="R220">+480354.000+1560452.000</Point>
-			<Point Name="R220">+441626.000+1495637.000</Point>
-			<Point Name="R220">+420732.000+1470330.000</Point>
-			<Point Name="R220">+411128.000+1455254.000</Point>
-			<Point Name="R220">+393925.000+1440343.000</Point>
-			<Point Name="R220">+383625.000+1424811.000</Point>
-			<Point Name="R220">+374605.000+1414158.000</Point>
-			<Point Name="R338">+641943.000-1655355.000</Point>
-			<Point Name="R338">+634630.000-1675433.000</Point>
-			<Point Name="R338">+625959.000-7103056.000</Point>
-			<Point Name="R338">+620932.000-1725929.000</Point>
-			<Point Name="R338">+605905.000-1760458.000</Point>
-			<Point Name="R338">+574945.000+1770133.000</Point>
-			<Point Name="B757">+550917.000-1395020.000</Point>
-			<Point Name="B757">+564107.000-1461330.000</Point>
-			<Point Name="B757">+571648.000-1492821.000</Point>
-			<Point Name="B757">+573752.000-1512729.000</Point>
-			<Point Name="B757">+581721.000-1570744.000</Point>
-			<Point Name="B757">+584733.000-1662449.000</Point>
-			<Point Name="B757">+583740.000-1740455.000</Point>
-			<Point Name="B453">+453307.225-1280802.480</Point>
-			<Point Name="B453">+475734.171-1295649.958</Point>
-			<Point Name="B453">+483554.071-1302639.485</Point>
-			<Point Name="B453">+492905.002-1311153.843</Point>
-			<Point Name="B453">+500630.147-1314720.107</Point>
-			<Point Name="B453">+564814.000-1404823.000</Point>
-			<Point Name="J120">+654837.000-1463223.000</Point>
-			<Point Name="J120">+635437.000-1520714.000</Point>
-			<Point Name="J120">+615450.000-1584941.000</Point>
-			<Point Name="J120">+594613.000-1643516.000</Point>
-			<Point Name="J120">+580310.000-1683212.000</Point>
-			<Point Name="J120">+542748.000-1734738.000</Point>
-			<Point Name="J125">+641939.174-1491123.698</Point>
-			<Point Name="J125">+631058.035-1494207.404</Point>
-			<Point Name="J125">+615926.839-1501601.637</Point>
-			<Point Name="J125">+612518.557-1501233.701</Point>
-			<Point Name="J125">+594734.251-1505608.530</Point>
-			<Point Name="J125">+580548.904-1520727.958</Point>
-			<Point Name="J133">+630346.000-1531544.000</Point>
-			<Point Name="J133">+575704.000-1381016.000</Point>
-			<Point Name="J133">+591351.000-1414300.000</Point>
-			<Point Name="J133">+595123.000-1435722.000</Point>
-			<Point Name="J133">+601726.000-1454515.000</Point>
-			<Point Name="J133">+605050.000-1481652.000</Point>
-			<Point Name="J179">+600356.000-1484831.000</Point>
-			<Point Name="J501">+604923.451-1610744.175</Point>
-			<Point Name="J501">+605843.907-1580217.734</Point>
-			<Point Name="J501">+610735.222-1534505.176</Point>
-			<Point Name="J501">+610946.269-1503452.150</Point>
-			<Point Name="J501">+604857.920-1481609.237</Point>
-			<Point Name="J501">+602347.661-1455548.490</Point>
-			<Point Name="J501">+601711.644-1445912.988</Point>
-			<Point Name="J501">+595207.715-1420911.095</Point>
-			<Point Name="J501">+592527.000-1392908.000</Point>
-			<Point Name="J501">+580317.000-1371725.000</Point>
-			<Point Name="J501">+553719.000-1340936.000</Point>
-			<Point Name="J501">+535512.000-1322625.000</Point>
-			<Point Name="J501">+484208.000-1251248.000</Point>
-			<Point Name="J501">+475253.000-1242450.000</Point>
-			<Point Name="J501">+471321.000-1241139.000</Point>
-			<Point Name="J501">+463446.000-1240149.000</Point>
-			<Point Name="J501">+445558.000-1233351.000</Point>
-			<Point Name="J501">+404727.458-1225258.412</Point>
-			<Point Name="J501">+383543.618-1225202.652</Point>
-			<Point Name="J501">+370750.154-1221512.451</Point>
-			<Point Name="J501">+354911.936-1211358.790</Point>
-			<Point Name="J501">+352321.409-1204434.587</Point>
-			<Point Name="J501">+345435.746-1201242.506</Point>
-			<Point Name="J603">+613147.000-1401237.000</Point>
-			<Point Name="J603">+614048.000-1474612.000</Point>
-			<Point Name="J603">+610131.000-1504021.000</Point>
-			<Point Name="J603">+603724.000-1523203.000</Point>
-			<Point Name="J603">+600649.000-1543931.000</Point>
-			<Point Name="J603">+594402.000-1560428.000</Point>
-			<Point Name="J603">+592501.000-1571217.000</Point>
-			<Point Name="J603">+590649.000-1581236.000</Point>
-			<Point Name="J603">+571304.000-1604512.000</Point>
-			<Point Name="J604">+563803.000-1563322.000</Point>
-			<Point Name="J605">+581150.000-1402848.000</Point>
-			<Point Name="J804R">+550742.000-1351953.000</Point>
-			<Point Name="J804R">+565539.000-1391853.000</Point>
-			<Point Name="J804R">+583558.000-1434439.000</Point>
-			<Point Name="J804R">+595934.000-1472852.000</Point>
-			<Point Name="J804R">+604926.000-1491345.000</Point>
-			<Point Name="J889">+591007.798-1421513.125</Point>
-			<Point Name="J889">+594546.577-1450332.555</Point>
-			<Point Name="J889">+601403.804-1471853.284</Point>
+			<Point Name="A1">+60.109563-144.156487</Point>
+			<Point Name="A1">+59.703252-141.165232</Point>
+			<Point Name="A1">+58.886947-138.623066</Point>
+			<Point Name="A1">+57.541949-136.527907</Point>
+			<Point Name="A1">+56.066496-134.654185</Point>
+			<Point Name="A10">+52.979120-128.964009</Point>
+			<Point Name="A15">+55.769990-132.337852</Point>
+			<Point Name="A15">+57.620096-134.052620</Point>
+			<Point Name="A15">+58.786226-135.060661</Point>
+			<Point Name="A17">+66.171248-147.956591</Point>
+			<Point Name="A17">+68.862523-148.444437</Point>
+			<Point Name="A2">+63.498791-143.762805</Point>
+			<Point Name="A3">+68.806383-149.866940</Point>
+			<Point Name="A342">+52.316436+166.879827</Point>
+			<Point Name="A342">+53.248158+171.839051</Point>
+			<Point Name="A342">+53.904270+175.905376</Point>
+			<Point Name="A342">+54.448563+180.082610</Point>
+			<Point Name="A342">+54.961062-174.522366</Point>
+			<Point Name="A342">+55.286235-166.830931</Point>
+			<Point Name="A4">+67.514932-151.651609</Point>
+			<Point Name="A411">+62.379548-156.784711</Point>
+			<Point Name="A5">+67.030323-154.698198</Point>
+			<Point Name="A590">+46.611077+157.450083</Point>
+			<Point Name="A590">+49.248072+162.859670</Point>
+			<Point Name="A590">+51.181048+167.871740</Point>
+			<Point Name="A590">+52.835681+172.120233</Point>
+			<Point Name="A590">+54.456642+176.080727</Point>
+			<Point Name="A590">+56.102725+181.370769</Point>
+			<Point Name="A590">+57.084107-174.790215</Point>
+			<Point Name="A590">+57.654696-172.237278</Point>
+			<Point Name="A590">+58.343977-168.897535</Point>
+			<Point Name="A590">+59.185182-164.150431</Point>
+			<Point Name="A590">+60.033197-158.559426</Point>
+			<Point Name="A6">+63.113946-161.918259</Point>
+			<Point Name="A604">+65.746514-170.322765</Point>
+			<Point Name="A812">+56.690765+154.820543</Point>
+			<Point Name="A827">+61.129101+154.132303</Point>
+			<Point Name="A827">+61.645824+158.209143</Point>
+			<Point Name="A828">+60.747496+154.427414</Point>
+			<Point Name="A828">+61.414695+157.947217</Point>
+			<Point Name="A828">+63.655940+172.500499</Point>
+			<Point Name="A841">+51.222164+154.914612</Point>
+			<Point Name="A842">+53.406982+155.174167</Point>
+			<Point Name="A9">+65.879340-149.447946</Point>
+			<Point Name="A9">+69.199287-154.024560</Point>
+			<Point Name="A9">+70.880640-156.202352</Point>
+			<Point Name="A918">+65.607871-175.692959</Point>
+			<Point Name="A970">+65.099996-176.829386</Point>
+			<Point Name="AR37">+63.681070-140.095171</Point>
+			<Point Name="AR8">+67.978446-136.769698</Point>
+			<Point Name="B12">+58.767907-153.580407</Point>
+			<Point Name="B2">+64.803666-166.038100</Point>
+			<Point Name="B2">+66.254604-165.315790</Point>
+			<Point Name="B2">+67.895625-164.245877</Point>
+			<Point Name="B2">+69.310705-164.566932</Point>
+			<Point Name="B233">+65.174234-166.603259</Point>
+			<Point Name="B233">+64.975693-160.483139</Point>
+			<Point Name="B240">+63.510157-171.225666</Point>
+			<Point Name="B240">+62.993683-166.147118</Point>
+			<Point Name="B241">+57.344378+165.808546</Point>
+			<Point Name="B241">+59.809755+174.613709</Point>
+			<Point Name="B241">+61.952236-174.870109</Point>
+			<Point Name="B241">+62.666562-170.164834</Point>
+			<Point Name="B241">+62.766233-166.574683</Point>
+			<Point Name="B242">+55.033761+163.983740</Point>
+			<Point Name="B242">+55.108515+166.768985</Point>
+			<Point Name="B242">+54.901741+168.800532</Point>
+			<Point Name="B244">+52.037353+158.553531</Point>
+			<Point Name="B244">+52.769340+158.728480</Point>
+			<Point Name="B244">+54.554509+160.266522</Point>
+			<Point Name="B244">+58.350541+164.286082</Point>
+			<Point Name="B244">+63.282963+173.109297</Point>
+			<Point Name="B244">+65.952230-175.985502</Point>
+			<Point Name="B244">+66.406428-171.452932</Point>
+			<Point Name="B244">+66.785581-165.774014</Point>
+			<Point Name="B25">+53.120084-128.385804</Point>
+			<Point Name="B26">+65.713562-146.392335</Point>
+			<Point Name="B27">+65.704184-164.003726</Point>
+			<Point Name="B27">+63.280683-164.255575</Point>
+			<Point Name="B27">+61.304673-162.427547</Point>
+			<Point Name="B27">+59.580030-158.735572</Point>
+			<Point Name="B27">+58.275352-154.521203</Point>
+			<Point Name="B28">+55.978367-133.524383</Point>
+			<Point Name="B3">+63.134075-160.422458</Point>
+			<Point Name="B3">+64.302952-161.428868</Point>
+			<Point Name="B3">+65.798597-162.303325</Point>
+			<Point Name="B327">+54.906252+155.875900</Point>
+			<Point Name="B327">+55.175604+159.341529</Point>
+			<Point Name="B327">+55.306992+162.109527</Point>
+			<Point Name="B327">+55.263186+164.497709</Point>
+			<Point Name="B327">+55.903963+169.698816</Point>
+			<Point Name="B37">+57.322400-134.152567</Point>
+			<Point Name="B37">+58.201248-136.407861</Point>
+			<Point Name="B4">+66.447800-152.647887</Point>
+			<Point Name="B4">+66.804710-149.140493</Point>
+			<Point Name="B453">+56.817626-140.800811</Point>
+			<Point Name="B453">+53.504464-135.412076</Point>
+			<Point Name="B453">+52.506981-134.278988</Point>
+			<Point Name="B453">+51.506302-133.203981</Point>
+			<Point Name="B453">+50.603035-132.282388</Point>
+			<Point Name="B453">+49.481441-131.251809</Point>
+			<Point Name="B484">+58.365648+155.631593</Point>
+			<Point Name="B484">+59.788404+157.501438</Point>
+			<Point Name="B484">+60.713841+158.820223</Point>
+			<Point Name="B484">+61.456572+159.947615</Point>
+			<Point Name="B7">+59.723704-161.976459</Point>
+			<Point Name="B757">+55.162739-139.890864</Point>
+			<Point Name="B757">+56.674975-146.224382</Point>
+			<Point Name="B757">+57.293625-149.511653</Point>
+			<Point Name="B757">+58.190611-156.205722</Point>
+			<Point Name="B757">+58.788251-166.683170</Point>
+			<Point Name="B757">+58.601300-174.219554</Point>
+			<Point Name="B8">+65.912758-167.001321</Point>
+			<Point Name="B802">+55.654666+165.737823</Point>
+			<Point Name="B804">+54.985730+155.791421</Point>
+			<Point Name="B804">+55.758545+159.783058</Point>
+			<Point Name="B806">+55.688955+164.454251</Point>
+			<Point Name="B806">+54.205156+163.087868</Point>
+			<Point Name="B927">+57.757449+155.493907</Point>
+			<Point Name="B927">+56.024152+156.414781</Point>
+			<Point Name="B927">+53.338792+156.168313</Point>
+			<Point Name="B932">+62.557771-159.504068</Point>
+			<Point Name="B932">+61.651811-166.148764</Point>
+			<Point Name="B932">+60.893812-170.524419</Point>
+			<Point Name="B932">+59.995439-174.758628</Point>
+			<Point Name="B932">+58.465076-180.543676</Point>
+			<Point Name="B932">+56.974754+174.591977</Point>
+			<Point Name="B932">+55.761088+170.107644</Point>
+			<Point Name="B932">+54.225739+164.849530</Point>
+			<Point Name="B932">+52.549418+160.176176</Point>
+			<Point Name="B932">+50.772314+156.004899</Point>
+			<Point Name="B957">+58.260963+159.149085</Point>
+			<Point Name="B957">+64.475620+168.775818</Point>
+			<Point Name="BR16">+63.837604-137.519733</Point>
+			<Point Name="BR16">+65.800518-139.482964</Point>
+			<Point Name="BR7">+62.034615-135.351067</Point>
+			<Point Name="BR7">+65.612332-137.720045</Point>
+			<Point Name="G1">+53.332297-171.772385</Point>
+			<Point Name="G1">+54.731624-165.803833</Point>
+			<Point Name="G10">+57.971876-166.238613</Point>
+			<Point Name="G10">+56.659499-167.979954</Point>
+			<Point Name="G10">+55.806305-164.593527</Point>
+			<Point Name="G10">+56.615093-160.130657</Point>
+			<Point Name="G10">+57.229676-156.808087</Point>
+			<Point Name="G10">+57.571847-154.168106</Point>
+			<Point Name="G10">+58.708732-151.923477</Point>
+			<Point Name="G101">+55.582612+153.835128</Point>
+			<Point Name="G101">+53.681576+156.982339</Point>
+			<Point Name="G101">+54.041384+160.782280</Point>
+			<Point Name="G101">+55.323889+161.873189</Point>
+			<Point Name="G101">+57.201721+163.095256</Point>
+			<Point Name="G101">+58.246558+163.232423</Point>
+			<Point Name="G101">+60.354797+162.024158</Point>
+			<Point Name="G101">+61.456666+160.943068</Point>
+			<Point Name="G115">+58.040936+159.453172</Point>
+			<Point Name="G115">+58.648172+161.238333</Point>
+			<Point Name="G115">+59.816046+164.514840</Point>
+			<Point Name="G12">+56.138380-159.603464</Point>
+			<Point Name="G12">+58.211377-157.352450</Point>
+			<Point Name="G15">+62.359021-161.748634</Point>
+			<Point Name="G15">+62.813159-157.883324</Point>
+			<Point Name="G16">+70.193247-161.535454</Point>
+			<Point Name="G16">+70.895654-158.775660</Point>
+			<Point Name="G16">+70.869630-154.358769</Point>
+			<Point Name="G17">+70.557902-158.713070</Point>
+			<Point Name="G18">+68.319010-162.766896</Point>
+			<Point Name="G18">+70.124414-160.261115</Point>
+			<Point Name="G2">+55.991504-158.529117</Point>
+			<Point Name="G2">+56.687391-156.303728</Point>
+			<Point Name="G2">+57.455531-153.566573</Point>
+			<Point Name="G212">+66.504221-178.969472</Point>
+			<Point Name="G212">+61.049553+157.541770</Point>
+			<Point Name="G212">+63.655940+172.500499</Point>
+			<Point Name="G212">+64.428323-169.984742</Point>
+			<Point Name="G212">+64.485661-167.098176</Point>
+			<Point Name="G215">+50.806025+162.975658</Point>
+			<Point Name="G215">+51.766825+168.160643</Point>
+			<Point Name="G215">+52.432791+172.388142</Point>
+			<Point Name="G215">+53.262413+178.354178</Point>
+			<Point Name="G215">+53.894477-171.919744</Point>
+			<Point Name="G344">+44.746409+158.890914</Point>
+			<Point Name="G344">+47.590860+165.476680</Point>
+			<Point Name="G344">+50.011514+171.973608</Point>
+			<Point Name="G344">+51.574939+176.215125</Point>
+			<Point Name="G344">+52.800055+179.865169</Point>
+			<Point Name="G344">+54.449960-174.127597</Point>
+			<Point Name="G344">+55.342105-170.029563</Point>
+			<Point Name="G344">+56.232752-164.812687</Point>
+			<Point Name="G349">+60.793189-166.876345</Point>
+			<Point Name="G349">+60.671361-170.414559</Point>
+			<Point Name="G349">+60.419971-175.005744</Point>
+			<Point Name="G369">+56.117076+153.890042</Point>
+			<Point Name="G370">+60.124132+153.472415</Point>
+			<Point Name="G370">+60.276866+156.252939</Point>
+			<Point Name="G370">+60.398350+160.584078</Point>
+			<Point Name="G370">+60.405202+163.782391</Point>
+			<Point Name="G370">+60.706958+169.418388</Point>
+			<Point Name="G370">+61.174461+177.457212</Point>
+			<Point Name="G4">+59.370936-156.824555</Point>
+			<Point Name="G469">+53.800797+170.558447</Point>
+			<Point Name="G469">+55.012931+175.561409</Point>
+			<Point Name="G469">+56.297345+181.218970</Point>
+			<Point Name="G469">+56.872785-174.875965</Point>
+			<Point Name="G469">+57.048779-172.056909</Point>
+			<Point Name="G469">+57.189368-164.424412</Point>
+			<Point Name="G583">+53.072797+156.898053</Point>
+			<Point Name="G583">+54.514801+160.609479</Point>
+			<Point Name="G583">+55.074433+162.179638</Point>
+			<Point Name="G583">+55.668209+163.860350</Point>
+			<Point Name="G583">+56.402835+166.005862</Point>
+			<Point Name="G583">+58.418239+173.075978</Point>
+			<Point Name="G583">+59.978498+180.753501</Point>
+			<Point Name="G583">+61.103727-174.069303</Point>
+			<Point Name="G583">+62.369878-167.301310</Point>
+			<Point Name="G7">+64.194022-168.382487</Point>
+			<Point Name="G7">+64.604072-163.695403</Point>
+			<Point Name="G707">+58.188324+158.413381</Point>
+			<Point Name="G707">+60.026045+160.102799</Point>
+			<Point Name="G707">+61.226197+160.393573</Point>
+			<Point Name="G73">+53.053382+153.864034</Point>
+			<Point Name="G73">+52.929524+156.935917</Point>
+			<Point Name="G73">+53.217636+159.225158</Point>
+			<Point Name="G73">+53.325912+161.449590</Point>
+			<Point Name="G73">+53.409249+164.764528</Point>
+			<Point Name="G8">+52.414333+178.441625</Point>
+			<Point Name="G8">+53.134174-171.033296</Point>
+			<Point Name="G8">+56.873616-160.232876</Point>
+			<Point Name="G8">+58.048651-158.117318</Point>
+			<Point Name="G8">+59.162072-155.608804</Point>
+			<Point Name="G8">+59.602444-153.541079</Point>
+			<Point Name="G80">+60.525486-140.063726</Point>
+			<Point Name="G801">+52.264299+157.202968</Point>
+			<Point Name="G801">+51.720340+159.533120</Point>
+			<Point Name="G801">+51.709428+161.797729</Point>
+			<Point Name="G812">+60.939882+156.531220</Point>
+			<Point Name="G812">+61.637791+161.384534</Point>
+			<Point Name="G812">+61.029576+163.741835</Point>
+			<Point Name="G815">+50.375143+156.243050</Point>
+			<Point Name="G815">+51.425656+161.158807</Point>
+			<Point Name="G816">+52.293282+160.786800</Point>
+			<Point Name="G816">+53.129954+165.358545</Point>
+			<Point Name="G819">+59.908543+156.176405</Point>
+			<Point Name="G819">+59.382039+158.612427</Point>
+			<Point Name="G9">+60.937280-159.612041</Point>
+			<Point Name="G9">+61.052526-157.135958</Point>
+			<Point Name="G902">+60.285421+152.776679</Point>
+			<Point Name="G902">+60.985006+154.657848</Point>
+			<Point Name="G927">+54.006400+161.152919</Point>
+			<Point Name="H201">+63.644704-166.983654</Point>
+			<Point Name="H201">+62.310200-169.354543</Point>
+			<Point Name="H201">+61.245532-171.079796</Point>
+			<Point Name="H201">+59.822138-173.169960</Point>
+			<Point Name="H222">+64.281647-168.822540</Point>
+			<Point Name="H222">+63.622057-160.754592</Point>
+			<Point Name="J111">+64.129042-162.359414</Point>
+			<Point Name="J111">+63.443947-158.106171</Point>
+			<Point Name="J111">+62.723648-154.807834</Point>
+			<Point Name="J111">+61.665553-151.402459</Point>
+			<Point Name="J115">+52.387582+178.736701</Point>
+			<Point Name="J115">+52.996217-171.731010</Point>
+			<Point Name="J115">+54.600892-164.692491</Point>
+			<Point Name="J115">+56.285829-161.162002</Point>
+			<Point Name="J115">+57.388787-159.274122</Point>
+			<Point Name="J115">+58.349303-157.490381</Point>
+			<Point Name="J115">+59.140226-155.667421</Point>
+			<Point Name="J115">+59.888896-153.519217</Point>
+			<Point Name="J115">+62.426021-149.491685</Point>
+			<Point Name="J115">+64.041331-148.514162</Point>
+			<Point Name="J115">+66.151430-148.229322</Point>
+			<Point Name="J115">+68.850794-148.444396</Point>
+			<Point Name="J117">+63.845758-156.175743</Point>
+			<Point Name="J117">+65.838944-159.538196</Point>
+			<Point Name="J120">+54.557079-173.663270</Point>
+			<Point Name="J120">+57.940294-168.646634</Point>
+			<Point Name="J120">+59.769215-164.487897</Point>
+			<Point Name="J120">+61.902910-158.827808</Point>
+			<Point Name="J120">+63.925324-151.937665</Point>
+			<Point Name="J120">+65.693320-146.692022</Point>
+			<Point Name="J122">+64.672337-161.034907</Point>
+			<Point Name="J122">+64.833749-152.400391</Point>
+			<Point Name="J123">+57.622813-151.431521</Point>
+			<Point Name="J123">+58.157784-154.006796</Point>
+			<Point Name="J123">+60.011685-159.788727</Point>
+			<Point Name="J123">+62.645402-163.431723</Point>
+			<Point Name="J123">+65.691409-163.959477</Point>
+			<Point Name="J123">+69.103384-159.952473</Point>
+			<Point Name="J124">+61.880127-147.728819</Point>
+			<Point Name="J124">+62.561625-143.703553</Point>
+			<Point Name="J125">+59.789900-150.988440</Point>
+			<Point Name="J125">+63.177468-149.728977</Point>
+			<Point Name="J127">+59.240753-155.841122</Point>
+			<Point Name="J129">+65.161636-164.998329</Point>
+			<Point Name="J129">+66.365538-163.657925</Point>
+			<Point Name="J133">+62.993843-153.160171</Point>
+			<Point Name="J133">+60.834824-148.261561</Point>
+			<Point Name="J133">+60.301544-145.791343</Point>
+			<Point Name="J133">+59.861702-143.945240</Point>
+			<Point Name="J133">+59.205687-141.702061</Point>
+			<Point Name="J133">+57.853858-137.963945</Point>
+			<Point Name="J135">+62.339552-161.283798</Point>
+			<Point Name="J139">+68.559290-150.090222</Point>
+			<Point Name="J155">+66.046490-148.788392</Point>
+			<Point Name="J160">+65.325178-147.652276</Point>
+			<Point Name="J160">+66.215004-146.290824</Point>
+			<Point Name="J160">+67.885827-143.258708</Point>
+			<Point Name="J167">+61.318571-146.038721</Point>
+			<Point Name="J167">+62.913345-145.554231</Point>
+			<Point Name="J167">+65.289517-145.507690</Point>
+			<Point Name="J167">+67.267311-143.200110</Point>
+			<Point Name="J179">+60.040418-148.728887</Point>
+			<Point Name="J179">+60.823354-152.933036</Point>
+			<Point Name="J179">+61.358788-157.600674</Point>
+			<Point Name="J179">+61.837095-161.425811</Point>
+			<Point Name="J179">+62.423289-163.877413</Point>
+			<Point Name="J188">+61.060192-160.518952</Point>
+			<Point Name="J188">+61.222306-157.406569</Point>
+			<Point Name="J195">+55.377903-132.233708</Point>
+			<Point Name="J195">+56.137734-133.878257</Point>
+			<Point Name="J501">+53.880975-132.404933</Point>
+			<Point Name="J501">+55.727724-134.289112</Point>
+			<Point Name="J501">+58.091798-137.354771</Point>
+			<Point Name="J501">+59.908681-142.148225</Point>
+			<Point Name="J501">+60.834824-148.261561</Point>
+			<Point Name="J501">+61.147385-153.782721</Point>
+			<Point Name="J501">+61.010013-158.063624</Point>
+			<Point Name="J502">+52.636986-129.123237</Point>
+			<Point Name="J502">+53.823183-130.283422</Point>
+			<Point Name="J502">+56.050958-132.623963</Point>
+			<Point Name="J502">+57.107862-133.868590</Point>
+			<Point Name="J502">+60.603552-138.339949</Point>
+			<Point Name="J502">+63.272342-142.870518</Point>
+			<Point Name="J502">+63.950822-145.010326</Point>
+			<Point Name="J502">+64.553466-147.098698</Point>
+			<Point Name="J502">+66.014527-154.980411</Point>
+			<Point Name="J507">+70.783893-152.489651</Point>
+			<Point Name="J507">+68.394042-146.721001</Point>
+			<Point Name="J507">+64.770206-143.481625</Point>
+			<Point Name="J507">+62.303656-141.447363</Point>
+			<Point Name="J507">+60.917505-140.513015</Point>
+			<Point Name="J511">+60.096159-154.678379</Point>
+			<Point Name="J511">+60.603004-152.596669</Point>
+			<Point Name="J511">+61.679294-147.739634</Point>
+			<Point Name="J512">+64.328046-158.760710</Point>
+			<Point Name="J512">+63.350916-162.622517</Point>
+			<Point Name="J515">+69.109081-153.899672</Point>
+			<Point Name="J515">+65.862661-149.702537</Point>
+			<Point Name="J515">+64.553466-147.098698</Point>
+			<Point Name="J515">+63.950822-145.010326</Point>
+			<Point Name="J515">+63.272342-142.870518</Point>
+			<Point Name="J515">+61.676583-137.972760</Point>
+			<Point Name="J515">+60.528906-133.766788</Point>
+			<Point Name="J515">+60.267737-130.620337</Point>
+			<Point Name="J523">+53.885908-131.729238</Point>
+			<Point Name="J536">+58.910960-135.224527</Point>
+			<Point Name="J536">+60.131351-135.164861</Point>
+			<Point Name="J541">+59.249868-138.720931</Point>
+			<Point Name="J541">+58.753032-137.052647</Point>
+			<Point Name="J603">+57.162998-160.776680</Point>
+			<Point Name="J604">+56.612564-156.554799</Point>
+			<Point Name="J605">+58.254570-140.755777</Point>
+			<Point Name="J606">+57.815490-165.859083</Point>
+			<Point Name="J606">+58.547957-159.073863</Point>
+			<Point Name="J617">+60.117435-149.056416</Point>
+			<Point Name="J618">+55.093587-163.927624</Point>
+			<Point Name="J618">+54.731624-165.803833</Point>
+			<Point Name="J618">+53.332297-171.772385</Point>
+			<Point Name="J619">+57.971876-166.238613</Point>
+			<Point Name="J623">+56.127977-160.756025</Point>
+			<Point Name="J623">+55.747842-164.423345</Point>
+			<Point Name="J623">+56.698377-168.146891</Point>
+			<Point Name="J64">+66.531782-156.359822</Point>
+			<Point Name="J804R">+60.827867-149.209601</Point>
+			<Point Name="J804R">+59.957132-147.395580</Point>
+			<Point Name="J804R">+58.676687-144.002219</Point>
+			<Point Name="J804R">+56.917669-139.315040</Point>
+			<Point Name="J804R">+55.072358-135.281689</Point>
+			<Point Name="J889R">+60.247022-147.305898</Point>
+			<Point Name="J889R">+59.779670-145.070595</Point>
+			<Point Name="J889R">+59.188896-142.246357</Point>
+			<Point Name="L160">+69.758201-174.042119</Point>
+			<Point Name="L603">+62.250816-136.886229</Point>
+			<Point Name="L604">+61.418041-134.285956</Point>
+			<Point Name="L636">+66.827552-131.538370</Point>
+			<Point Name="L636">+67.832375-134.034504</Point>
+			<Point Name="L647">+59.255738-129.458876</Point>
+			<Point Name="L648">+61.705607-139.611157</Point>
+			<Point Name="L648">+61.008622-137.067032</Point>
+			<Point Name="L686">+60.513038-137.528450</Point>
+			<Point Name="L686">+61.892723-139.935121</Point>
+			<Point Name="L711">+59.012134-131.820923</Point>
+			<Point Name="L711">+60.144831-134.357297</Point>
+			<Point Name="L723">+59.304722-131.351739</Point>
+			<Point Name="L767">+67.290353-130.961369</Point>
+			<Point Name="L767">+68.868663-133.260562</Point>
+			<Point Name="L771">+59.312084+155.096484</Point>
+			<Point Name="L771">+61.084028+158.783765</Point>
+			<Point Name="L771">+64.032446+169.964143</Point>
+			<Point Name="L771">+65.482367-175.375716</Point>
+			<Point Name="L771">+65.269123-170.224988</Point>
+			<Point Name="L91">+61.637253-146.024755</Point>
+			<Point Name="M152">+50.772314+156.004899</Point>
+			<Point Name="M152">+52.549418+160.176176</Point>
+			<Point Name="M152">+53.739852+163.401258</Point>
+			<Point Name="M152">+54.585414+165.980270</Point>
+			<Point Name="M152">+55.761088+170.107644</Point>
+			<Point Name="M165">+71.759116-173.155744</Point>
+			<Point Name="M180">+68.265627-175.813704</Point>
+			<Point Name="M180">+67.487310-172.309160</Point>
+			<Point Name="M182">+68.101844-177.106868</Point>
+			<Point Name="N222">+61.049553+157.541770</Point>
+			<Point Name="N222">+63.655940+172.500499</Point>
+			<Point Name="N735">+66.592420-171.752736</Point>
+			<Point Name="N991">+66.033822-177.054939</Point>
+			<Point Name="N991">+66.899627-172.567217</Point>
+			<Point Name="N991">+67.315663-169.989042</Point>
+			<Point Name="NCA10">+59.227255-137.303341</Point>
+			<Point Name="NCA10">+58.623138-133.252653</Point>
+			<Point Name="NCA11">+60.843761-147.658226</Point>
+			<Point Name="NCA11">+60.433427-142.469958</Point>
+			<Point Name="NCA11">+59.741295-135.964398</Point>
+			<Point Name="NCA12">+60.210220-135.355455</Point>
+			<Point Name="NCA13">+61.038191-147.233721</Point>
+			<Point Name="NCA13">+61.017254-143.062631</Point>
+			<Point Name="NCA13">+60.820857-138.054546</Point>
+			<Point Name="NCA14">+62.219408-143.227206</Point>
+			<Point Name="NCA19">+65.064636-148.923279</Point>
+			<Point Name="NCA20">+61.402842-147.199282</Point>
+			<Point Name="NCA20">+61.380189-143.027387</Point>
+			<Point Name="NCA22">+64.641784-145.035934</Point>
+			<Point Name="NCA24">+65.460452-149.043664</Point>
+			<Point Name="NCA28">+66.719953-143.149708</Point>
+			<Point Name="NCA30">+65.848710-158.716822</Point>
+			<Point Name="NCA30">+67.504264-146.383117</Point>
+			<Point Name="NCA31">+70.989874-155.019989</Point>
+			<Point Name="NCA32">+71.507816-155.404635</Point>
+			<Point Name="NCA80">+70.339462-154.570104</Point>
+			<Point Name="P140">+65.679164+169.230038</Point>
+			<Point Name="P160">+53.656541+154.018929</Point>
+			<Point Name="P160">+55.694127+160.602624</Point>
+			<Point Name="P160">+56.595783+165.471406</Point>
+			<Point Name="P160">+56.642446+170.046134</Point>
+			<Point Name="P168">+48.984508+155.484514</Point>
+			<Point Name="P168">+50.108014+157.594410</Point>
+			<Point Name="P168">+51.430298+160.317670</Point>
+			<Point Name="P168">+52.276167+162.222897</Point>
+			<Point Name="P168">+53.118195+164.272051</Point>
+			<Point Name="P168">+54.318962+167.518374</Point>
+			<Point Name="P168">+55.657909+170.945823</Point>
+			<Point Name="P172">+54.367437+163.435159</Point>
+			<Point Name="P172">+53.935319+165.224472</Point>
+			<Point Name="P172">+53.584206+166.578975</Point>
+			<Point Name="P177">+58.802245+155.019350</Point>
+			<Point Name="P177">+59.455911+158.186643</Point>
+			<Point Name="P177">+60.057887+162.800848</Point>
+			<Point Name="Q10">+63.269845-167.431688</Point>
+			<Point Name="Q12">+68.689764-156.000347</Point>
+			<Point Name="Q14">+58.839952-150.720729</Point>
+			<Point Name="Q14">+60.187567-147.810592</Point>
+			<Point Name="Q16">+58.633216-149.415501</Point>
+			<Point Name="Q16">+59.509205-143.003489</Point>
+			<Point Name="Q17">+59.802106-150.231503</Point>
+			<Point Name="Q17">+59.659249-147.665890</Point>
+			<Point Name="Q18">+68.005782-156.781847</Point>
+			<Point Name="Q41">+66.740300-148.742408</Point>
+			<Point Name="Q43">+62.426021-149.491685</Point>
+			<Point Name="Q43">+64.041331-148.514162</Point>
+			<Point Name="Q44">+64.050489-162.462075</Point>
+			<Point Name="Q44">+62.451903-154.664492</Point>
+			<Point Name="Q45">+59.438552-157.068149</Point>
+			<Point Name="Q45">+60.096159-154.678379</Point>
+			<Point Name="Q45">+60.603004-152.596669</Point>
+			<Point Name="Q46">+69.879488-162.141981</Point>
+			<Point Name="Q47">+59.826802-154.149533</Point>
+			<Point Name="Q48">+70.783893-152.489651</Point>
+			<Point Name="Q48">+70.183771-146.273993</Point>
+			<Point Name="Q49">+59.325437-151.878571</Point>
+			<Point Name="Q51">+60.053303-157.487692</Point>
+			<Point Name="Q51">+62.472718-158.996088</Point>
+			<Point Name="Q51">+65.231260-161.063503</Point>
+			<Point Name="Q53">+58.767940-153.588254</Point>
+			<Point Name="Q53">+63.367063-158.250652</Point>
+			<Point Name="Q55">+59.609826-155.152914</Point>
+			<Point Name="Q55">+62.974099-161.583722</Point>
+			<Point Name="Q57">+60.839077-156.219588</Point>
+			<Point Name="Q59">+58.026944-162.335819</Point>
+			<Point Name="Q6">+63.106309-150.527943</Point>
+			<Point Name="Q6">+65.119485-151.694981</Point>
+			<Point Name="Q6">+67.918452-153.660050</Point>
+			<Point Name="Q6">+70.391378-155.860273</Point>
+			<Point Name="Q61">+68.093894-151.784452</Point>
+			<Point Name="Q8">+62.090241-151.512170</Point>
+			<Point Name="Q8">+63.877482-154.912852</Point>
+			<Point Name="Q801">+52.281529-130.417855</Point>
+			<Point Name="Q811">+60.096159-154.678379</Point>
+			<Point Name="Q811">+60.603004-152.596669</Point>
+			<Point Name="Q811">+61.679294-147.739634</Point>
+			<Point Name="Q811">+61.910732-143.205536</Point>
+			<Point Name="Q811">+61.503366-140.006816</Point>
+			<Point Name="Q811">+61.008622-137.067032</Point>
+			<Point Name="Q902">+56.050958-132.623963</Point>
+			<Point Name="Q902">+57.107862-133.868590</Point>
+			<Point Name="Q902">+58.732307-135.854451</Point>
+			<Point Name="Q902">+60.333584-137.713528</Point>
+			<Point Name="Q902">+61.924387-140.002329</Point>
+			<Point Name="Q902">+63.272342-142.870518</Point>
+			<Point Name="Q902">+63.950822-145.010326</Point>
+			<Point Name="Q902">+64.553466-147.098698</Point>
+			<Point Name="Q902">+66.014527-154.980411</Point>
+			<Point Name="Q969">+57.207172-129.997792</Point>
+			<Point Name="Q969">+57.981446-131.053142</Point>
+			<Point Name="Q969">+59.676336-133.581490</Point>
+			<Point Name="R1">+57.815490-165.859083</Point>
+			<Point Name="R1">+58.547957-159.073863</Point>
+			<Point Name="R2">+56.215105-160.581085</Point>
+			<Point Name="R220">+61.281382-154.001062</Point>
+			<Point Name="R220">+61.228485-159.507412</Point>
+			<Point Name="R220">+60.973083-164.009712</Point>
+			<Point Name="R220">+60.573752-166.538718</Point>
+			<Point Name="R220">+59.941289-169.994998</Point>
+			<Point Name="R220">+59.304331-173.063466</Point>
+			<Point Name="R220">+58.725306-175.669022</Point>
+			<Point Name="R220">+57.637828-179.936284</Point>
+			<Point Name="R220">+55.912456+174.595643</Point>
+			<Point Name="R220">+54.287600+170.638462</Point>
+			<Point Name="R220">+52.478069+165.979517</Point>
+			<Point Name="R220">+50.913113+162.021383</Point>
+			<Point Name="R220">+48.006960+156.067613</Point>
+			<Point Name="R330">+51.533204+169.466858</Point>
+			<Point Name="R336">+51.251572-180.419718</Point>
+			<Point Name="R336">+49.650691+172.296591</Point>
+			<Point Name="R338">+63.743803-167.986271</Point>
+			<Point Name="R338">+62.974216-170.525733</Point>
+			<Point Name="R338">+62.100878-173.106979</Point>
+			<Point Name="R338">+60.900975-176.233745</Point>
+			<Point Name="R338">+58.877316-180.850463</Point>
+			<Point Name="R338">+56.236018+174.120055</Point>
+			<Point Name="R338">+53.939087+171.042693</Point>
+			<Point Name="R341">+58.079160-158.752108</Point>
+			<Point Name="R341">+58.037572-167.993904</Point>
+			<Point Name="R341">+57.858831-172.471562</Point>
+			<Point Name="R341">+57.678921-175.308946</Point>
+			<Point Name="R341">+57.068977-179.411935</Point>
+			<Point Name="R341">+55.730227+174.787544</Point>
+			<Point Name="R35">+64.652802-170.741006</Point>
+			<Point Name="R35">+64.741133-166.666274</Point>
+			<Point Name="R351">+68.101844-177.106868</Point>
+			<Point Name="R39">+61.118664-160.967488</Point>
+			<Point Name="R39">+62.283170-157.623120</Point>
+			<Point Name="R39">+63.424542-153.963234</Point>
+			<Point Name="R39">+64.223754-150.715898</Point>
+			<Point Name="R451">+50.031492+162.937527</Point>
+			<Point Name="R451">+50.831451+168.296323</Point>
+			<Point Name="R451">+51.602388+173.211126</Point>
+			<Point Name="R451">+51.840016+175.991195</Point>
+			<Point Name="R451">+51.921102+180.213837</Point>
+			<Point Name="R51">+56.665549-134.309559</Point>
+			<Point Name="R580">+60.452981-158.674952</Point>
+			<Point Name="R580">+59.920587-165.100209</Point>
+			<Point Name="R580">+59.145791-169.421867</Point>
+			<Point Name="R580">+58.519443-172.447291</Point>
+			<Point Name="R580">+57.949839-175.022865</Point>
+			<Point Name="R580">+56.878249-179.243369</Point>
+			<Point Name="R580">+55.199656+175.385932</Point>
+			<Point Name="R580">+53.604517+171.467079</Point>
+			<Point Name="R580">+52.169481+167.849818</Point>
+			<Point Name="R580">+51.129556+165.029950</Point>
+			<Point Name="R580">+50.215564+162.760684</Point>
+			<Point Name="R580">+49.253530+160.567687</Point>
+			<Point Name="R580">+47.305987+156.762779</Point>
+			<Point Name="R591">+45.901086+158.119995</Point>
+			<Point Name="R591">+48.613088+163.754773</Point>
+			<Point Name="R591">+50.541040+168.865986</Point>
+			<Point Name="R591">+52.067609+172.788456</Point>
+			<Point Name="R591">+53.493316+176.143827</Point>
+			<Point Name="R591">+54.720330+179.864009</Point>
+			<Point Name="R591">+55.841081-176.121354</Point>
+			<Point Name="R591">+56.810140-171.946221</Point>
+			<Point Name="R591">+57.632111-167.755204</Point>
+			<Point Name="R591">+58.366391-163.657799</Point>
+			<Point Name="R591">+59.629374-158.476653</Point>
+			<Point Name="R967">+49.681383+155.251413</Point>
+			<Point Name="R99">+55.124251-167.843542</Point>
+			<Point Name="R99">+54.422304-165.676094</Point>
+			<Point Name="R99">+56.898953-160.983944</Point>
+			<Point Name="R99">+59.245969-155.857826</Point>
+			<Point Name="R99">+59.602444-153.541079</Point>
+			<Point Name="UA604">+65.746514-170.322765</Point>
+			<Point Name="W214">+55.937509+158.620830</Point>
+			<Point Name="W215">+55.466147+160.568210</Point>
+			<Point Name="W216">+56.532061+159.740564</Point>
+			<Point Name="W219">+56.872398+160.037022</Point>
+			<Point Name="W299">+55.709216+159.606748</Point>
+			<Point Name="W310">+56.057112+157.553680</Point>
+			<Point Name="W88">+68.359445-179.060946</Point>
+			<Point Name="W88">+69.909706-178.956085</Point>
 		</Label>
 	</Map>
-	<Map Type="System" CustomColourName="SpringGreen" Name="Pts" Priority="1" Center="+270000.000-1750000.000">
+	<Map Type="System" CustomColourName="SkyBlue2" Name="Pts" Priority="15">
 		<Symbol Type="Hexagon">
-			<!--VORTAC-->
-			<Point>HOM</Point>
-			<Point>GKN</Point>
-			<Point>UNK</Point>
-			<Point>TAL</Point>
-			<Point>ENM</Point>
-			<Point>MDO</Point>
-			<Point>SYA</Point>
-			<Point>AKN</Point>
-			<Point>ANC</Point>
-			<Point>ANN</Point>
-			<Point>BTT</Point>
-			<Point>CDB</Point>
-			<Point>ENA</Point>
-			<Point>FAI</Point>
-			<Point>GAL</Point>
-			<Point>JOH</Point>
-			<Point>MCG</Point>
-			<Point>OME</Point>
-			<Point>ORT</Point>
-			<Point>ULL</Point>
-			<Point>YAK</Point>
-			<Point>YVR</Point>
-			<Point>TOU</Point>
-			<Point>YZT</Point>
-			<Point>BKA</Point>
-			<Point>FYU</Point>
-			<Point>BET</Point>
-			<Point>BGQ</Point>
-			<!--VOR-->
+			<Point>BER</Point>
 			<Point>YZP</Point>
-			<!--VOR/DME-->
-			<Point>HSL</Point>
+			<Point>ANN</Point>
+			<Point>CDB</Point>
+			<Point>LVD</Point>
+			<Point>BKA</Point>
 			<Point>ODK</Point>
-			<Point>BRW</Point>
-			<Point>OTZ</Point>
-			<Point>SCC</Point>
-			<Point>SQA</Point>
-			<Point>TKA</Point>
-			<Point>YXY</Point>
+			<Point>SSR</Point>
+			<Point>AKN</Point>
 			<Point>DLG</Point>
-		</Symbol>
-		<Symbol Type="SolidTriangleWithBorder">
-			<!--VOR/DME-->
+			<Point>MDO</Point>
+			<Point>YAK</Point>
+			<Point>HOM</Point>
+			<Point>YQH</Point>
+			<Point>JOH</Point>
+			<Point>ENA</Point>
+			<Point>YXY</Point>
+			<Point>BET</Point>
+			<Point>SQA</Point>
+			<Point>TED</Point>
+			<Point>EDF</Point>
+			<Point>HPB</Point>
+			<Point>BGQ</Point>
+			<Point>GKN</Point>
+			<Point>TKA</Point>
+			<Point>ENM</Point>
+			<Point>ORT</Point>
+			<Point>MCG</Point>
+			<Point>ULL</Point>
+			<Point>UNK</Point>
+			<Point>BIG</Point>
+			<Point>OME</Point>
+			<Point>ENN</Point>
+			<Point>EIL</Point>
+			<Point>MOS</Point>
+			<Point>GAL</Point>
+			<Point>FAI</Point>
+			<Point>TAL</Point>
 			<Point>HSL</Point>
-			<Point>ODK</Point>
-			<Point>BRW</Point>
+			<Point>FYU</Point>
+			<Point>WLK</Point>
 			<Point>OTZ</Point>
+			<Point>BTT</Point>
+			<Point>YEV</Point>
 			<Point>SCC</Point>
-			<Point>SQA</Point>
-			<Point>TKA</Point>
-			<Point>YXY</Point>
-			<Point>DLG</Point>
+			<Point>BRW</Point>
 		</Symbol>
 		<Symbol Type="DotFillCircle">
-			<!--NDB-->
-			<Point>ILI</Point>
-			<Point>CQR</Point>
-			<Point>SMA</Point>
-			<Point>PIZ</Point>
-			<Point>PR </Point>
 			<Point>ADK</Point>
-			<Point>CZF</Point>
-			<Point>DB </Point>
+			<Point>YJQ</Point>
+			<Point>ZZP</Point>
 			<Point>DUT</Point>
-			<Point>GAM</Point>
-			<Point>PDN</Point>
-			<Point>SPY</Point>
-			<Point>TNC</Point>
+			<Point>ZKI</Point>
+			<Point>PR</Point>
+			<Point>XT</Point>
+			<Point>ICK</Point>
+			<Point>ELF</Point>
 			<Point>HBT</Point>
-			<Point>ANI</Point>
-			<Point>BTI</Point>
-			<Point>YXQ</Point>
+			<Point>CMJ</Point>
+			<Point>AKW</Point>
+			<Point>SQM</Point>
+			<Point>RGL</Point>
+			<Point>SRI</Point>
+			<Point>SIT</Point>
+			<Point>PDN</Point>
+			<Point>AFE</Point>
+			<Point>IME</Point>
+			<Point>SPY</Point>
+			<Point>RWO</Point>
+			<Point>EEF</Point>
+			<Point>CGL</Point>
+			<Point>YDL</Point>
 			<Point>EHM</Point>
+			<Point>AUB</Point>
+			<Point>BTS</Point>
+			<Point>TOG</Point>
 			<Point>HNS</Point>
-			<Point>PJ </Point>
-		</Symbol>
-		<Symbol Type="Circle">
-			<!--NDB-->
+			<Point>OCC</Point>
+			<Point>ACE</Point>
 			<Point>ILI</Point>
-			<Point>CQR</Point>
-			<Point>SMA</Point>
-			<Point>PIZ</Point>
-			<Point>PR </Point>
-			<Point>ADK</Point>
-			<Point>CZF</Point>
-			<Point>DB </Point>
-			<Point>DUT</Point>
-			<Point>GAM</Point>
-			<Point>PDN</Point>
-			<Point>SPY</Point>
-			<Point>TNC</Point>
-			<Point>HBT</Point>
+			<Point>CYT</Point>
+			<Point>PJ</Point>
+			<Point>OLT</Point>
+			<Point>ALJ</Point>
+			<Point>GCR</Point>
+			<Point>ZXY</Point>
+			<Point>OSE</Point>
+			<Point>JB</Point>
+			<Point>CRN</Point>
+			<Point>MNL</Point>
 			<Point>ANI</Point>
-			<Point>BTI</Point>
-			<Point>YXQ</Point>
-			<Point>EHM</Point>
-			<Point>HNS</Point>
-			<Point>PJ </Point>
-		</Symbol>
-		<Symbol Type="SolidTriangle">
-			<Point>HIXOR</Point>
-			<Point>KATCH</Point>
-			<Point>METPA</Point>
-			<Point>NAKBI</Point>
-			<Point>KURTT</Point>
-			<Point>POTAT</Point>
-			<Point>GOATS</Point>
-			<Point>FIORD</Point>
-			<Point>JAGIT</Point>
-			<Point>CHAPO</Point>
-			<Point>FANES</Point>
-			<Point>OMSUN</Point>
-			<Point>COHIL</Point>
-			<Point>DUGGS</Point>
-			<Point>KILLA</Point>
-			<Point>ORVIT</Point>
-			<Point>RAMEL</Point>
-			<Point>N6915</Point>
-			<Point>N6855</Point>
-			<Point>N6720</Point>
-			<Point>N6510</Point>
-			<Point>HAMND</Point>
-			<Point>HOGAR</Point>
-			<Point>EMLAW</Point>
-			<Point>GICHY</Point>
-			<Point>LONOK</Point>
-			<Point>EIL  </Point>
-			<Point>D1   </Point>
-			<Point>D2   </Point>
-			<Point>D3   </Point>
-			<Point>D4   </Point>
-			<Point>D5   </Point>
-			<Point>D6   </Point>
-			<Point>RUSOR</Point>
-			<Point>AKERI</Point>
-			<Point>UMOLA</Point>
-			<Point>DIMUR</Point>
-			<Point>OGETO</Point>
-			<Point>ASMOK</Point>
-			<Point>UTILI</Point>
-			<Point>KURIP</Point>
-			<Point>NANNO</Point>
-			<Point>NODAN</Point>
-			<Point>NIKON</Point>
-			<Point>IXE  </Point>
-			<Point>GOC  </Point>
-			<Point>VACKY</Point>
-			<Point>SMOLT</Point>
-			<Point>FORDO</Point>
-			<Point>LOTUS</Point>
-			<Point>ETRON</Point>
-			<Point>GARRY</Point>
-			<Point>DRIVR</Point>
-			<Point>VEPOX</Point>
-			<Point>HABIT</Point>
-			<Point>CZ   </Point>
-			<Point>BAMOL</Point>
-			<Point>PITUG</Point>
-			<Point>LEMBA</Point>
-			<Point>ABGIR</Point>
-			<Point>OTLIM</Point>
-			<Point>AKANI</Point>
-			<Point>LUNIB</Point>
-			<Point>GIRAN</Point>
-			<Point>OLAMA</Point>
-			<Point>PIRAL</Point>
-			<Point>BENOK</Point>
-			<Point>DITOR</Point>
-			<Point>BAMOK</Point>
-			<Point>DIPNA</Point>
-			<Point>RIMLI</Point>
-			<Point>NETRI</Point>
-			<Point>ODERI</Point>
-			<Point>ATU  </Point>
-			<Point>BUMAT</Point>
-			<Point>UHMO </Point>
-			<Point>LARSA</Point>
-			<Point>YUREE</Point>
-			<Point>LATAK</Point>
-			<Point>PABBA</Point>
-			<Point>OATIS</Point>
-			<Point>NANAC</Point>
-			<Point>BENIR</Point>
-			<Point>GENRI</Point>
-			<Point>FRENK</Point>
-			<Point>COLIC</Point>
-			<Point>CALMA</Point>
-			<Point>CELIN</Point>
-			<Point>COMFE</Point>
-			<Point>ADGOR</Point>
-			<Point>ONEMU</Point>
-			<Point>NUBDA</Point>
-			<Point>NIPPI</Point>
-			<Point>OMOTO</Point>
-			<Point>CUTEE</Point>
-			<Point>AKISU</Point>
-			<Point>NOGAL</Point>
-			<Point>OPULO</Point>
-			<Point>COLIC</Point>
-			<Point>AGEDI</Point>
-			<Point>ABDAG</Point>
-			<Point>ABETS</Point>
-			<Point>ADNIP</Point>
-			<Point>ADREW</Point>
-			<Point>AMOTT</Point>
-			<Point>HARVZ</Point>
-			<Point>ARBEZ</Point>
-			<Point>ASLAR</Point>
-			<Point>BISIV</Point>
-			<Point>BUMEN</Point>
-			<Point>CAMBO</Point>
-			<Point>CHIPT</Point>
-			<Point>CROOK</Point>
-			<Point>CRYPT</Point>
-			<Point>CURVS</Point>
-			<Point>DEEJA</Point>
-			<Point>GIRLO</Point>
-			<Point>KAGIS</Point>
-			<Point>KUVAL</Point>
-			<Point>MARLO</Point>
-			<Point>NATES</Point>
-			<Point>NENAS</Point>
-			<Point>NEONN</Point>
-			<Point>NICHO</Point>
-			<Point>NOLTI</Point>
-			<Point>NOSKY</Point>
-			<Point>ONEIL</Point>
-			<Point>ONEOX</Point>
-			<Point>PABBA</Point>
-			<Point>PASRO</Point>
-			<Point>PINSO</Point>
-			<Point>PORGE</Point>
-			<Point>POXED</Point>
-			<Point>PUGAL</Point>
-			<Point>PUGGY</Point>
-			<Point>SABES</Point>
-			<Point>SENOR</Point>
-			<Point>SHUEY</Point>
-			<Point>TAMBO</Point>
-			<Point>WALLT</Point>
-			<Point>ZONAL</Point>
-			<Point>ADLEN</Point>
-			<Point>AHURI</Point>
-			<Point>VALDA</Point>
-			<Point>ABINA</Point>
-			<Point>BC   </Point>
-			<Point>ANDYR</Point>
-			<Point>BETAM</Point>
-			<Point>BESAT</Point>
-			<Point>LYYLE</Point>
-			<Point>WINOR</Point>
-			<Point>HORSI</Point>
-			<Point>AAMYY</Point>
-			<Point>ALDOZ</Point>
-			<Point>ALSAB</Point>
-			<Point>ALTUB</Point>
-			<Point>ALUFF</Point>
-			<Point>AMOND</Point>
-			<Point>ARGUK</Point>
-			<Point>ARRIE</Point>
-			<Point>ARRUE</Point>
-			<Point>ASORT</Point>
-			<Point>ASPIN</Point>
-			<Point>AVLAS</Point>
-			<Point>AYKID</Point>
-			<Point>BARMU</Point>
-			<Point>BCE  </Point>
-			<Point>BEDOG</Point>
-			<Point>BIBEM</Point>
-			<Point>BIG  </Point>
-			<Point>BINAL</Point>
-			<Point>BINGA</Point>
-			<Point>BITRO</Point>
-			<Point>BIXAK</Point>
-			<Point>BORAN</Point>
-			<Point>BOXER</Point>
-			<Point>BRYGE</Point>
-			<Point>BSR  </Point>
-			<Point>BUBDO</Point>
-			<Point>CAMRA</Point>
-			<Point>CANYO</Point>
-			<Point>CARTO</Point>
-			<Point>CASSL</Point>
-			<Point>CDNB </Point>
-			<Point>CHENA</Point>
-			<Point>CHIKI</Point>
-			<Point>CHIPE</Point>
-			<Point>CHUBB</Point>
-			<Point>CHUUK</Point>
-			<Point>COALL</Point>
-			<Point>COPPO</Point>
-			<Point>COTLO</Point>
-			<Point>CREMR</Point>
-			<Point>CUDDA</Point>
-			<Point>DACEY</Point>
-			<Point>BOTER</Point>
-			<Point>DATIR</Point>
-			<Point>DENTU</Point>
-			<Point>DOOZI</Point>
-			<Point>DOVAG</Point>
-			<Point>DRAPP</Point>
-			<Point>DUKPA</Point>
-			<Point>DUROT</Point>
-			<Point>EEDEN</Point>
-			<Point>ELTEX</Point>
-			<Point>ELY  </Point>
-			<Point>ENN  </Point>
-			<Point>EPLED</Point>
-			<Point>ERMAN</Point>
-			<Point>FADIM</Point>
-			<Point>FAKES</Point>
-			<Point>FAR  </Point>
-			<Point>FERNO</Point>
-			<Point>FJC  </Point>
-			<Point>FRIED</Point>
-			<Point>GABRO</Point>
-			<Point>GADRU</Point>
-			<Point>GAHAM</Point>
-			<Point>GASTO</Point>
-			<Point>GEFAR</Point>
-			<Point>GORAS</Point>
-			<Point>GRIZZ</Point>
-			<Point>GRUMA</Point>
-			<Point>GULEG</Point>
-			<Point>GUPAD</Point>
-			<Point>GURAG</Point>
-			<Point>HANRY</Point>
-			<Point>HARUN</Point>
-			<Point>HEIRE</Point>
-			<Point>HML  </Point>
-			<Point>HODDY</Point>
-			<Point>HOODS</Point>
-			<Point>HORTH</Point>
-			<Point>HQM  </Point>
-			<Point>HRB  </Point>
-			<Point>HUMPY</Point>
-			<Point>HUTON</Point>
-			<Point>HX   </Point>
-			<Point>IGODA</Point>
-			<Point>IJ   </Point>
-			<Point>IMB  </Point>
-			<Point>INHAM</Point>
-			<Point>IRKAN</Point>
-			<Point>JESRU</Point>
-			<Point>JMU  </Point>
-			<Point>JOM  </Point>
-			<Point>JTG  </Point>
-			<Point>KAIIN</Point>
-			<Point>KALLU</Point>
-			<Point>KANUA</Point>
-			<Point>KARLL</Point>
-			<Point>KATAT</Point>
-			<Point>KMG  </Point>
-			<Point>KOWOK</Point>
-			<Point>KR   </Point>
-			<Point>KRONO</Point>
-			<Point>KUDER</Point>
-			<Point>KYLLE</Point>
-			<Point>LAIRE</Point>
-			<Point>LAKUM</Point>
-			<Point>LAMOL</Point>
-			<Point>LEPET</Point>
-			<Point>LIDON</Point>
-			<Point>LITGO</Point>
-			<Point>LR   </Point>
-			<Point>LTJ  </Point>
-			<Point>LVD  </Point>
-			<Point>MARCC</Point>
-			<Point>MD   </Point>
-			<Point>MENKI</Point>
-			<Point>MERKA</Point>
-			<Point>MJE  </Point>
-			<Point>MK   </Point>
-			<Point>MOCHA</Point>
-			<Point>MORDI</Point>
-			<Point>MSS  </Point>
-			<Point>MUPOB</Point>
-			<Point>MVE  </Point>
-			<Point>NANDY</Point>
-			<Point>NANZA</Point>
-			<Point>NAYLD</Point>
-			<Point>NB   </Point>
-			<Point>NIECE</Point>
-			<Point>UHNN </Point>
-			<Point>NIKLL</Point>
-			<Point>NK   </Point>
-			<Point>NODLE</Point>
-			<Point>NONDA</Point>
-			<Point>NONIT</Point>
-			<Point>NOSHO</Point>
-			<Point>HAB  </Point>
-			<Point>NOWEL</Point>
-			<Point>NSH  </Point>
-			<Point>NULUK</Point>
-			<Point>NUZAN</Point>
-			<Point>NYMPH</Point>
-			<Point>OD   </Point>
-			<Point>ODIYY</Point>
-			<Point>OED  </Point>
-			<Point>OFORD</Point>
-			<Point>OGDEN</Point>
-			<Point>OGGOE</Point>
-			<Point>OKLAN</Point>
-			<Point>OKLIN</Point>
-			<Point>OLCOT</Point>
-			<Point>OLDUP</Point>
-			<Point>OMLIP</Point>
-			<Point>OPAKE</Point>
-			<Point>OPHET</Point>
-			<Point>ORCCA</Point>
-			<Point>ORVIL</Point>
-			<Point>OTABO</Point>
-			<Point>PARQE</Point>
-			<Point>PEGRS</Point>
-			<Point>PETPA</Point>
-			<Point>PINTT</Point>
-			<Point>PLADO</Point>
-			<Point>POETT</Point>
-			<Point>PTZGR</Point>
-			<Point>POPLR</Point>
-			<Point>POWAL</Point>
-			<Point>PRYCE</Point>
-			<Point>PUTER</Point>
-			<Point>PYE  </Point>
-			<Point>FI   </Point>
-			<Point>QN   </Point>
-			<Point>REDDR</Point>
-			<Point>REFEX</Point>
-			<Point>REMBY</Point>
-			<Point>REO  </Point>
-			<Point>RISKE</Point>
-			<Point>RITAR</Point>
-			<Point>RL   </Point>
-			<Point>ROMDA</Point>
-			<Point>ROYST</Point>
-			<Point>RZS  </Point>
-			<Point>SAHOK</Point>
-			<Point>SEA  </Point>
-			<Point>SELDM</Point>
-			<Point>SIMLU</Point>
-			<Point>SKANI</Point>
-			<Point>SKATE</Point>
-			<Point>SL   </Point>
-			<Point>SNOUT</Point>
-			<Point>SONON</Point>
-			<Point>SSM  </Point>
-			<Point>SSR  </Point>
-			<Point>SUBUL</Point>
-			<Point>URABI</Point>
-			<Point>TAGER</Point>
-			<Point>TAKSI</Point>
-			<Point>TAMRU</Point>
-			<Point>TANIE</Point>
-			<Point>TASLI</Point>
-			<Point>TAYTA</Point>
-			<Point>TERBO</Point>
-			<Point>TGO  </Point>
-			<Point>TIKID</Point>
-			<Point>TIVLA</Point>
-			<Point>TK   </Point>
-			<Point>TORTE</Point>
-			<Point>TUCKS</Point>
-			<Point>TUFLY</Point>
-			<Point>TUKOP</Point>
-			<Point>TUNTO</Point>
-			<Point>TUPAN</Point>
-			<Point>TYN  </Point>
-			<Point>UB   </Point>
-			<Point>LUNAD</Point>
-			<Point>UHPP </Point>
-			<Point>UK   </Point>
-			<Point>UK01 </Point>
-			<Point>VIDDA</Point>
-			<Point>VIDKU</Point>
-			<Point>VILRA</Point>
-			<Point>VIRSO</Point>
-			<Point>VLR  </Point>
-			<Point>VUCAN</Point>
-			<Point>WALUP</Point>
-			<Point>WANTA</Point>
-			<Point>WEEKE</Point>
-			<Point>WYLDE</Point>
-			<Point>XR   </Point>
-			<Point>LODMI</Point>
-			<Point>YEG  </Point>
-			<Point>YEK  </Point>
-			<Point>YESKA</Point>
-			<Point>YEV  </Point>
-			<Point>YGX  </Point>
-			<Point>YHY  </Point>
-			<Point>YIJ  </Point>
-			<Point>YISPO</Point>
-			<Point>YMO  </Point>
-			<Point>YNE  </Point>
-			<Point>YOJ  </Point>
-			<Point>YONEK</Point>
-			<Point>YOUNG</Point>
-			<Point>YOW  </Point>
-			<Point>YQD  </Point>
-			<Point>YQH  </Point>
-			<Point>YQL  </Point>
-			<Point>YQU  </Point>
-			<Point>YQV  </Point>
-			<Point>YRL  </Point>
-			<Point>YSB  </Point>
-			<Point>YSF  </Point>
-			<Point>YSM  </Point>
-			<Point>YTH  </Point>
-			<Point>YVQ  </Point>
-			<Point>YWG  </Point>
-			<Point>YWV  </Point>
-			<Point>YWY  </Point>
-			<Point>YXE  </Point>
-			<Point>YXS  </Point>
-			<Point>YYC  </Point>
-			<Point>YYD  </Point>
-			<Point>YYE  </Point>
-			<Point>YYJ  </Point>
-			<Point>YYQ  </Point>
-			<Point>YYQ291216</Point>
-			<Point>YYU  </Point>
-			<Point>YYZ  </Point>
-			<Point>YZF  </Point>
-			<Point>ZS   </Point>
-			<Point>ZUPAN</Point>
-			<Point>ARCAL</Point>
-			<Point>ARORA</Point>
-			<Point>BAGIE</Point>
-			<Point>BATTY</Point>
-			<Point>BITOP</Point>
-			<Point>BOGIE</Point>
-			<Point>BONET</Point>
-			<Point>BRION</Point>
-			<Point>BURMA</Point>
-			<Point>CASEL</Point>
-			<Point>CAWIN</Point>
-			<Point>CYCLE</Point>
-			<Point>DEVID</Point>
-			<Point>DIFER</Point>
-			<Point>EGGER</Point>
-			<Point>ELLAM</Point>
-			<Point>EVVOJ</Point>
-			<Point>FALCO</Point>
-			<Point>FIETR</Point>
-			<Point>FORAT</Point>
-			<Point>GAYES</Point>
-			<Point>GOLLY</Point>
-			<Point>GUPEY</Point>
-			<Point>JAVAH</Point>
-			<Point>JOWEN</Point>
-			<Point>KALTS</Point>
-			<Point>KANUT</Point>
-			<Point>KOKES</Point>
-			<Point>KONKS</Point>
-			<Point>LIBER</Point>
-			<Point>LISKI</Point>
-			<Point>LIVEN</Point>
-			<Point>LOHNE</Point>
-			<Point>MAGNM</Point>
-			<Point>MATTA</Point>
-			<Point>MAYPO</Point>
-			<Point>MIGAN</Point>
-			<Point>MORLY</Point>
-			<Point>MUCLA</Point>
-			<Point>NAKED</Point>
-			<Point>NAPTO</Point>
-			<Point>FOMDA</Point>
-			<Point>BAMOK</Point>
-			<Point>ARISE</Point>
-			<Point>KUTAL</Point>
-			<Point>GINUL</Point>
-			<Point>ODORA</Point>
-			<Point>NIKIN</Point>
-			<Point>UEBN </Point>
-			<Point>LOGRI</Point>
-			<Point>UEEE </Point>
-			<Point>FRENK</Point>
-			<Point>LORKI</Point>
-			<Point>ASBAT</Point>
-			<Point>ABAGO</Point>
-			<Point>UELKAL</Point>
-			<Point>ERNIK</Point>
-			<Point>NOKID</Point>
-			<Point>BE   </Point>
-			<Point>TURAT</Point>
-			<Point>ROMUK</Point>
-			<Point>PAKLI</Point>
-			<Point>MUNRI</Point>
-			<Point>KIVAK</Point>
-			<Point>EPLOS</Point>
-			<Point>LESAD</Point>
-			<Point>ENEGU</Point>
-			<Point>ROCET</Point>
-			<Point>PALIN</Point>
-			<Point>RUSOR</Point>
-			<Point>BESAT</Point>
-			<Point>BAMOK</Point>
-			<Point>MORLY</Point>
-			<Point>MUCLA</Point>
-			<Point>NAYLD</Point>
-			<Point>IDROD</Point>
-			<Point>JASIN</Point>
-			<Point>BURTN</Point>
-			<Point>CEVNO</Point>
-			<Point>EVANN</Point>
-			<Point>FATMU</Point>
-			<Point>FILKI</Point>
-			<Point>GICHY</Point>
-			<Point>HIGDO</Point>
-			<Point>HINKL</Point>
-			<Point>HYLEE</Point>
-			<Point>IVOXE</Point>
-			<Point>JOGET</Point>
-			<Point>KEREC</Point>
-			<Point>KUNNA</Point>
-			<Point>NONIC</Point>
-			<Point>RANND</Point>
-			<Point>TRONN</Point>
-			<Point>WANIB</Point>
-			<Point>COVLU</Point>
-			<Point>EQQUP</Point>
-			<Point>GRAAY</Point>
-			<Point>HIDOT</Point>
-			<Point>NEDUW</Point>
-			<Point>PUYIC</Point>
-			<Point>RUFZA</Point>
-			<Point>YOJTO</Point>
-			<Point>FENLO</Point>
-			<Point>FILKI</Point>
-			<Point>HOSOR</Point>
-		</Symbol>
-	</Map>
-	<Map Type="System" CustomColourName="SpringGreen" Name="UTA" Priority="1" Center="+270000.000-1750000.000">
-		<Symbol Type="Circle">
-			<Point>PANC</Point>
-			<Point>PAED</Point>
-			<Point>PASI</Point>
-			<Point>PAEN</Point>
-			<Point>PFYU</Point>
-			<Point>PACV</Point>
-			<Point>PAJN</Point>
-			<Point>PAKT</Point>
-			<Point>PAOM</Point>
-			<Point>PAYA</Point>
-			<Point>PAHO</Point>
-			<Point>PABR</Point>
-			<Point>PASC</Point>
-			<Point>PABA</Point>
-			<Point>PABT</Point>
-			<Point>PAWG</Point>
-			<Point>PABE</Point>
-			<Point>PASM</Point>
-			<Point>PAUN</Point>
-			<Point>PANI</Point>
-			<Point>PAMC</Point>
-			<Point>PAGA</Point>
-			<Point>PADL</Point>
-			<Point>PAKN</Point>
-			<Point>PADQ</Point>
-			<Point>PACD</Point>
-			<Point>PADU</Point>
-			<Point>PAFA</Point>
-			<Point>PAEI</Point>
-			<Point>PAOT</Point>
-			<Point>PAPC</Point>
-			<Point>PATG</Point>
-			<Point>PADK</Point>
-			<Point>PAPB</Point>
-			<Point>PASN</Point>
-			<Point>PASY</Point>
-			<Point>PAKO</Point>
-			<Point>PAAK</Point>
-			<Point>PAAT</Point>
-			<Point>PAEH</Point>
-			<Point>PAEW</Point>
-			<Point>PAMH</Point>
-			<Point>PAMR</Point>
-			<Point>PANN</Point>
-			<Point>PAPH</Point>
-			<Point>PASD</Point>
-			<Point>RJPA</Point>
-			<Point>RJPB</Point>
-			<Point>RJPC</Point>
-			<Point>UHSA</Point>
-			<Point>UHSB</Point>
-			<Point>UHSC</Point>
-			<Point>UHSD</Point>
-			<Point>UHSE</Point>
-			<Point>UHSF</Point>
-		</Symbol>
-	</Map>
-	<Map Type="System" CustomColourName="Green" Name="UTA_Nms" Priority="1" Center="+270000.000-1750000.000">
-		<Label>
-			<Point>PANC</Point>
-			<Point>PAED</Point>
-			<Point>PASI</Point>
-			<Point>PAEN</Point>
-			<Point>PFYU</Point>
-			<Point>PACV</Point>
-			<Point>PAJN</Point>
-			<Point>PAKT</Point>
-			<Point>PAOM</Point>
-			<Point>PAYA</Point>
-			<Point>PAHO</Point>
-			<Point>PABR</Point>
-			<Point>PASC</Point>
-			<Point>PABA</Point>
-			<Point>PABT</Point>
-			<Point>PAWG</Point>
-			<Point>PABE</Point>
-			<Point>PASM</Point>
-			<Point>PAUN</Point>
-			<Point>PANI</Point>
-			<Point>PAMC</Point>
-			<Point>PAGA</Point>
-			<Point>PADL</Point>
-			<Point>PAKN</Point>
-			<Point>PADQ</Point>
-			<Point>PACD</Point>
-			<Point>PADU</Point>
-			<Point>PAFA</Point>
-			<Point>PAEI</Point>
-			<Point>PAOT</Point>
-			<Point>PAPC</Point>
-			<Point>PATG</Point>
-			<Point>PADK</Point>
-			<Point>PAPB</Point>
-			<Point>PASN</Point>
-			<Point>PASY</Point>
-			<Point>PAKO</Point>
-			<Point>PAAK</Point>
-			<Point>PAAT</Point>
-			<Point>PAEH</Point>
-			<Point>PAEW</Point>
-			<Point>PAMH</Point>
-			<Point>PAMR</Point>
-			<Point>PANN</Point>
-			<Point>PAPH</Point>
-			<Point>PASD</Point>
-			<Point>RJPA</Point>
-			<Point>RJPB</Point>
-			<Point>RJPC</Point>
-			<Point>UHSA</Point>
-			<Point>UHSB</Point>
-			<Point>UHSC</Point>
-			<Point>UHSD</Point>
-			<Point>UHSE</Point>
-			<Point>UHSF</Point>
-		</Label>
-	</Map>
-	<Map Type="System" CustomColourName="SpringGreen" Name="Pts_Nms" Priority="1" Center="+270000.000-1750000.000">
-		<Label>
-			<!--VORTAC-->
-			<Point>HOM</Point>
-			<Point>GKN</Point>
-			<Point>UNK</Point>
-			<Point>TAL</Point>
-			<Point>ENM</Point>
-			<Point>MDO</Point>
+			<Point>CZF</Point>
+			<Point>SMA</Point>
+			<Point>PEE</Point>
+			<Point>ANV</Point>
+			<Point>VTR</Point>
+			<Point>AES</Point>
+			<Point>MA</Point>
+			<Point>GAM</Point>
+			<Point>MHM</Point>
+			<Point>JNR</Point>
+			<Point>DJN</Point>
+			<Point>DA</Point>
+			<Point>BC</Point>
+			<Point>FDV</Point>
+			<Point>ICW</Point>
+			<Point>OAY</Point>
+			<Point>CUN</Point>
+			<Point>NB</Point>
+			<Point>TNC</Point>
+			<Point>LA</Point>
+			<Point>UTO</Point>
+			<Point>SHH</Point>
+			<Point>AS</Point>
+			<Point>FTO</Point>
+			<Point>EAV</Point>
+			<Point>HHM</Point>
+			<Point>AMF</Point>
+			<Point>CQR</Point>
+			<Point>OQK</Point>
+			<Point>YOC</Point>
+			<Point>DGG</Point>
+			<Point>AKP</Point>
+			<Point>EV</Point>
+			<Point>PHO</Point>
+			<Point>LUR</Point>
+			<Point>UMT</Point>
+			<Point>PIZ</Point>
+			<Point>UQS</Point>
+			<Point>PVQ</Point>
+			<Point>PUO</Point>
+			<Point>PYC</Point>
+			<Point>ATK</Point>
+			<Point>UKK</Point>
+			<Point>VIR</Point>
+			<Point>NS</Point>
 			<Point>SYA</Point>
-			<Point>AKN</Point>
-			<Point>ANC</Point>
-			<Point>ANN</Point>
-			<Point>BTT</Point>
-			<Point>CDB</Point>
-			<Point>ENA</Point>
-			<Point>FAI</Point>
-			<Point>GAL</Point>
-			<Point>JOH</Point>
-			<Point>MCG</Point>
-			<Point>OME</Point>
-			<Point>ORT</Point>
-			<Point>ULL</Point>
-			<Point>YAK</Point>
-			<Point>YVR</Point>
-			<Point>TOU</Point>
-			<Point>YZT</Point>
-			<Point>BKA</Point>
-			<Point>FYU</Point>
-			<Point>BET</Point>
-			<Point>BGQ</Point>
-			<!--VOR-->
-			<Point>YZP</Point>
-			<!--VOR/DME-->
-			<Point>HSL</Point>
-			<Point>ODK</Point>
-			<Point>BRW</Point>
-			<Point>OTZ</Point>
-			<Point>SCC</Point>
-			<Point>SQA</Point>
-			<Point>TKA</Point>
-			<Point>YXY</Point>
-			<Point>DLG</Point>
-			<!--NDB-->
-			<Point>ILI</Point>
-			<Point>CQR</Point>
-			<Point>SMA</Point>
-			<Point>PIZ</Point>
-			<Point>PR </Point>
-			<Point>ADK</Point>
-			<Point>CZF</Point>
-			<Point>DB </Point>
-			<Point>DUT</Point>
-			<Point>GAM</Point>
-			<Point>PDN</Point>
-			<Point>SPY</Point>
-			<Point>TNC</Point>
-			<Point>HBT</Point>
-			<Point>ANI</Point>
-			<Point>BTI</Point>
-			<Point>YXQ</Point>
-			<Point>EHM</Point>
-			<Point>HNS</Point>
-			<Point>PJ </Point>
-			<!--Fix-->
-			<Point>KATCH</Point>
-			<Point>HIXOR</Point>
-			<Point>METPA</Point>
-			<Point>NAKBI</Point>
-			<Point>KURTT</Point>
-			<Point>POTAT</Point>
-			<Point>GOATS</Point>
-			<Point>FIORD</Point>
-			<Point>JAGIT</Point>
-			<Point>CHAPO</Point>
-			<Point>FANES</Point>
-			<Point>OMSUN</Point>
-			<Point>COHIL</Point>
-			<Point>DUGGS</Point>
-			<Point>KILLA</Point>
-			<Point>ORVIT</Point>
-			<Point>RAMEL</Point>
-			<Point>N6915</Point>
-			<Point>N6855</Point>
-			<Point>N6720</Point>
-			<Point>N6510</Point>
+			<Point>UB</Point>
+			<Point>HY</Point>
+			<Point>LW</Point>
+			<Point>W</Point>
+			<Point>M</Point>
+			<Point>MK</Point>
+			<Point>SW</Point>
+			<Point>NK</Point>
+			<Point>UK</Point>
+			<Point>TK</Point>
+			<Point>DL</Point>
+		</Symbol>
+		<Symbol Type="HollowTriangle">
+			<Point>EGGER</Point>
+			<Point>CORVA</Point>
+			<Point>CAPEM</Point>
+			<Point>ATAGA</Point>
+			<Point>SPARL</Point>
+			<Point>LILDE</Point>
+			<Point>BBGVP</Point>
+			<Point>MITEK</Point>
+			<Point>HWTCC</Point>
+			<Point>WUBDO</Point>
+			<Point>RADKY</Point>
+			<Point>MAGNM</Point>
+			<Point>DUVOT</Point>
+			<Point>TEGDE</Point>
+			<Point>JEVUM</Point>
+			<Point>NUZAN</Point>
+			<Point>OPAKE</Point>
+			<Point>PINSO</Point>
+			<Point>AMOND</Point>
+			<Point>DRAPP</Point>
+			<Point>CRYPT</Point>
+			<Point>CLAMS</Point>
+			<Point>PUGAL</Point>
+			<Point>PASRO</Point>
+			<Point>POWAL</Point>
+			<Point>PLADO</Point>
+			<Point>POOFF</Point>
+			<Point>PINTT</Point>
+			<Point>PTZGR</Point>
+			<Point>PUGGY</Point>
+			<Point>POETT</Point>
+			<Point>SELDM</Point>
+			<Point>PORGE</Point>
 			<Point>HAMND</Point>
-			<Point>HOGAR</Point>
-			<Point>EMLAW</Point>
-			<Point>GICHY</Point>
-			<Point>LONOK</Point>
-			<Point>EIL  </Point>
-			<Point>D1   </Point>
-			<Point>D2   </Point>
-			<Point>D3   </Point>
-			<Point>D4   </Point>
-			<Point>D5   </Point>
-			<Point>D6   </Point>
-			<Point>RUSOR</Point>
-			<Point>AKERI</Point>
-			<Point>UMOLA</Point>
-			<Point>DIMUR</Point>
-			<Point>OGETO</Point>
-			<Point>ASMOK</Point>
-			<Point>UTILI</Point>
-			<Point>KURIP</Point>
-			<Point>NANNO</Point>
-			<Point>NODAN</Point>
-			<Point>NIKON</Point>
-			<Point>IXE  </Point>
-			<Point>GOC  </Point>
-			<Point>VACKY</Point>
-			<Point>SMOLT</Point>
-			<Point>FORDO</Point>
-			<Point>LOTUS</Point>
-			<Point>ETRON</Point>
-			<Point>GARRY</Point>
-			<Point>DRIVR</Point>
-			<Point>VEPOX</Point>
-			<Point>HABIT</Point>
-			<Point>CZ   </Point>
-			<Point>BAMOL</Point>
-			<Point>PITUG</Point>
-			<Point>LEMBA</Point>
-			<Point>ABGIR</Point>
+			<Point>WOMEV</Point>
+			<Point>PETIN</Point>
+			<Point>BAKEN</Point>
+			<Point>RELPA</Point>
+			<Point>ODIPA</Point>
+			<Point>OBETA</Point>
+			<Point>NELEB</Point>
+			<Point>TOSNO</Point>
+			<Point>GURMA</Point>
+			<Point>LUTEG</Point>
+			<Point>NOGLA</Point>
 			<Point>OTLIM</Point>
-			<Point>AKANI</Point>
-			<Point>LUNIB</Point>
-			<Point>GIRAN</Point>
-			<Point>OLAMA</Point>
-			<Point>PIRAL</Point>
-			<Point>BENOK</Point>
-			<Point>DITOR</Point>
-			<Point>BAMOK</Point>
-			<Point>DIPNA</Point>
-			<Point>RIMLI</Point>
-			<Point>NETRI</Point>
-			<Point>ODERI</Point>
-			<Point>ATU  </Point>
+			<Point>GITES</Point>
+			<Point>TUREP</Point>
+			<Point>NARIT</Point>
+			<Point>NIKSI</Point>
+			<Point>VORON</Point>
+			<Point>DERUD</Point>
+			<Point>BUSUL</Point>
 			<Point>BUMAT</Point>
-			<Point>UHMO </Point>
-			<Point>LARSA</Point>
-			<Point>YUREE</Point>
-			<Point>LATAK</Point>
-			<Point>PABBA</Point>
-			<Point>OATIS</Point>
-			<Point>NANAC</Point>
-			<Point>BENIR</Point>
+			<Point>ODEBI</Point>
+			<Point>LUNEK</Point>
+			<Point>GIRLO</Point>
+			<Point>OTLER</Point>
+			<Point>SENOR</Point>
+			<Point>NAMUL</Point>
+			<Point>OSMIN</Point>
+			<Point>NAKUR</Point>
+			<Point>OCOCU</Point>
+			<Point>ZENLA</Point>
+			<Point>AKUMY</Point>
+			<Point>CHIPS</Point>
+			<Point>KLODI</Point>
+			<Point>ADUSA</Point>
+			<Point>DEGIR</Point>
+			<Point>DIMUR</Point>
+			<Point>HWKGV</Point>
+			<Point>JIPAK</Point>
+			<Point>ATAYI</Point>
+			<Point>KUTAL</Point>
+			<Point>SANGL</Point>
+			<Point>ERNIK</Point>
+			<Point>IDROD</Point>
+			<Point>AVUBA</Point>
+			<Point>SUNIP</Point>
+			<Point>BERUD</Point>
+			<Point>RUSOR</Point>
+			<Point>ROCET</Point>
+			<Point>ENEGU</Point>
+			<Point>UMBOS</Point>
+			<Point>RUGUD</Point>
+			<Point>ABMOL</Point>
+			<Point>DIPNA</Point>
+			<Point>KOKES</Point>
+			<Point>RIMLI</Point>
+			<Point>RINOT</Point>
+			<Point>TUPAN</Point>
+			<Point>GEFAR</Point>
+			<Point>DENZI</Point>
+			<Point>KOKUN</Point>
+			<Point>APTIK</Point>
+			<Point>PEMIG</Point>
+			<Point>KUTAD</Point>
+			<Point>GUNBA</Point>
+			<Point>DENUK</Point>
 			<Point>GENRI</Point>
 			<Point>FRENK</Point>
-			<Point>COLIC</Point>
-			<Point>CALMA</Point>
-			<Point>CELIN</Point>
-			<Point>COMFE</Point>
-			<Point>ADGOR</Point>
-			<Point>ONEMU</Point>
-			<Point>NUBDA</Point>
-			<Point>NIPPI</Point>
-			<Point>OMOTO</Point>
-			<Point>CUTEE</Point>
-			<Point>AKISU</Point>
-			<Point>NOGAL</Point>
-			<Point>OPULO</Point>
-			<Point>COLIC</Point>
-			<Point>AGEDI</Point>
-			<Point>ABDAG</Point>
-			<Point>ABETS</Point>
-			<Point>ADNIP</Point>
-			<Point>ADREW</Point>
-			<Point>AMOTT</Point>
-			<Point>HARVZ</Point>
-			<Point>ARBEZ</Point>
-			<Point>ASLAR</Point>
-			<Point>BISIV</Point>
-			<Point>BUMEN</Point>
-			<Point>CAMBO</Point>
-			<Point>CHIPT</Point>
-			<Point>CROOK</Point>
-			<Point>CRYPT</Point>
-			<Point>CURVS</Point>
-			<Point>DEEJA</Point>
-			<Point>GIRLO</Point>
-			<Point>KAGIS</Point>
-			<Point>KUVAL</Point>
-			<Point>MARLO</Point>
-			<Point>NATES</Point>
-			<Point>NENAS</Point>
-			<Point>NEONN</Point>
-			<Point>NICHO</Point>
-			<Point>NOLTI</Point>
-			<Point>NOSKY</Point>
-			<Point>ONEIL</Point>
-			<Point>ONEOX</Point>
-			<Point>PABBA</Point>
-			<Point>PASRO</Point>
-			<Point>PINSO</Point>
-			<Point>PORGE</Point>
-			<Point>POXED</Point>
-			<Point>PUGAL</Point>
-			<Point>PUGGY</Point>
-			<Point>SABES</Point>
-			<Point>SENOR</Point>
-			<Point>SHUEY</Point>
-			<Point>TAMBO</Point>
-			<Point>WALLT</Point>
-			<Point>ZONAL</Point>
-			<Point>ADLEN</Point>
-			<Point>AHURI</Point>
-			<Point>VALDA</Point>
-			<Point>ABINA</Point>
-			<Point>BC   </Point>
-			<Point>ANDYR</Point>
-			<Point>BETAM</Point>
-			<Point>BESAT</Point>
-			<Point>LYYLE</Point>
-			<Point>WINOR</Point>
-			<Point>HORSI</Point>
-			<Point>AAMYY</Point>
-			<Point>ALDOZ</Point>
-			<Point>ALSAB</Point>
-			<Point>ALTUB</Point>
-			<Point>ALUFF</Point>
-			<Point>AMOND</Point>
-			<Point>ARGUK</Point>
-			<Point>ARRIE</Point>
-			<Point>ARRUE</Point>
-			<Point>ASORT</Point>
-			<Point>ASPIN</Point>
-			<Point>AVLAS</Point>
-			<Point>AYKID</Point>
-			<Point>BARMU</Point>
-			<Point>BCE  </Point>
-			<Point>BEDOG</Point>
-			<Point>BIBEM</Point>
-			<Point>BIG  </Point>
-			<Point>BINAL</Point>
-			<Point>BINGA</Point>
-			<Point>BITRO</Point>
-			<Point>BIXAK</Point>
-			<Point>BORAN</Point>
-			<Point>BOXER</Point>
-			<Point>BRYGE</Point>
-			<Point>BSR  </Point>
-			<Point>BUBDO</Point>
-			<Point>CAMRA</Point>
-			<Point>CANYO</Point>
-			<Point>CARTO</Point>
-			<Point>CASSL</Point>
-			<Point>CDNB </Point>
-			<Point>CHENA</Point>
-			<Point>CHIKI</Point>
-			<Point>CHIPE</Point>
-			<Point>CHUBB</Point>
-			<Point>CHUUK</Point>
-			<Point>COALL</Point>
-			<Point>COPPO</Point>
-			<Point>COTLO</Point>
-			<Point>CREMR</Point>
-			<Point>CUDDA</Point>
-			<Point>DACEY</Point>
-			<Point>BOTER</Point>
-			<Point>DATIR</Point>
-			<Point>DENTU</Point>
-			<Point>DOOZI</Point>
-			<Point>DOVAG</Point>
-			<Point>DRAPP</Point>
-			<Point>DUKPA</Point>
-			<Point>DUROT</Point>
-			<Point>EEDEN</Point>
-			<Point>ELTEX</Point>
-			<Point>ELY  </Point>
-			<Point>ENN  </Point>
-			<Point>EPLED</Point>
-			<Point>ERMAN</Point>
-			<Point>FADIM</Point>
-			<Point>FAKES</Point>
-			<Point>FAR  </Point>
-			<Point>FERNO</Point>
-			<Point>FJC  </Point>
-			<Point>FRIED</Point>
-			<Point>GABRO</Point>
-			<Point>GADRU</Point>
-			<Point>GAHAM</Point>
-			<Point>GASTO</Point>
-			<Point>GEFAR</Point>
-			<Point>GORAS</Point>
-			<Point>GRIZZ</Point>
-			<Point>GRUMA</Point>
-			<Point>GULEG</Point>
-			<Point>GUPAD</Point>
-			<Point>GURAG</Point>
-			<Point>HANRY</Point>
-			<Point>HARUN</Point>
-			<Point>HEIRE</Point>
-			<Point>HML  </Point>
-			<Point>HODDY</Point>
-			<Point>HOODS</Point>
-			<Point>HORTH</Point>
-			<Point>HQM  </Point>
-			<Point>HRB  </Point>
-			<Point>HUMPY</Point>
-			<Point>HUTON</Point>
-			<Point>HX   </Point>
-			<Point>IGODA</Point>
-			<Point>IJ   </Point>
-			<Point>IMB  </Point>
-			<Point>INHAM</Point>
+			<Point>BIBNE</Point>
+			<Point>WANIX</Point>
+			<Point>TDNBG</Point>
+			<Point>CUNAN</Point>
+			<Point>SHMUK</Point>
+			<Point>OMPAE</Point>
+			<Point>BANIT</Point>
+			<Point>LUPIR</Point>
+			<Point>GAKTA</Point>
+			<Point>GITRU</Point>
 			<Point>IRKAN</Point>
-			<Point>JESRU</Point>
-			<Point>JMU  </Point>
-			<Point>JOM  </Point>
-			<Point>JTG  </Point>
-			<Point>KAIIN</Point>
-			<Point>KALLU</Point>
-			<Point>KANUA</Point>
-			<Point>KARLL</Point>
-			<Point>KATAT</Point>
-			<Point>KMG  </Point>
-			<Point>KOWOK</Point>
-			<Point>KR   </Point>
-			<Point>KRONO</Point>
-			<Point>KUDER</Point>
-			<Point>KYLLE</Point>
-			<Point>LAIRE</Point>
-			<Point>LAKUM</Point>
-			<Point>LAMOL</Point>
-			<Point>LEPET</Point>
-			<Point>LIDON</Point>
-			<Point>LITGO</Point>
-			<Point>LR   </Point>
-			<Point>LTJ  </Point>
-			<Point>LVD  </Point>
-			<Point>MARCC</Point>
-			<Point>MD   </Point>
-			<Point>MENKI</Point>
-			<Point>MERKA</Point>
-			<Point>MJE  </Point>
-			<Point>MK   </Point>
-			<Point>MOCHA</Point>
-			<Point>MORDI</Point>
-			<Point>MSS  </Point>
-			<Point>MUPOB</Point>
-			<Point>MVE  </Point>
-			<Point>NANDY</Point>
-			<Point>NANZA</Point>
-			<Point>NAYLD</Point>
-			<Point>NB   </Point>
-			<Point>NIECE</Point>
-			<Point>UHNN </Point>
-			<Point>NIKLL</Point>
-			<Point>NK   </Point>
-			<Point>NODLE</Point>
-			<Point>NONDA</Point>
-			<Point>NONIT</Point>
-			<Point>NOSHO</Point>
-			<Point>HAB  </Point>
-			<Point>NOWEL</Point>
-			<Point>NSH  </Point>
-			<Point>NULUK</Point>
-			<Point>NUZAN</Point>
-			<Point>NYMPH</Point>
-			<Point>OD   </Point>
-			<Point>ODIYY</Point>
-			<Point>OED  </Point>
-			<Point>OFORD</Point>
-			<Point>OGDEN</Point>
-			<Point>OGGOE</Point>
-			<Point>OKLAN</Point>
-			<Point>OKLIN</Point>
-			<Point>OLCOT</Point>
-			<Point>OLDUP</Point>
-			<Point>OMLIP</Point>
-			<Point>OPAKE</Point>
-			<Point>OPHET</Point>
-			<Point>ORCCA</Point>
-			<Point>ORVIL</Point>
-			<Point>OTABO</Point>
-			<Point>PARQE</Point>
-			<Point>PEGRS</Point>
-			<Point>PETPA</Point>
-			<Point>PINTT</Point>
-			<Point>PLADO</Point>
-			<Point>POETT</Point>
-			<Point>PTZGR</Point>
-			<Point>POPLR</Point>
-			<Point>POWAL</Point>
-			<Point>PRYCE</Point>
-			<Point>PUTER</Point>
-			<Point>PYE  </Point>
-			<Point>FI   </Point>
-			<Point>QN   </Point>
-			<Point>REDDR</Point>
-			<Point>REFEX</Point>
-			<Point>REMBY</Point>
-			<Point>REO  </Point>
-			<Point>RISKE</Point>
-			<Point>RITAR</Point>
-			<Point>RL   </Point>
-			<Point>ROMDA</Point>
-			<Point>ROYST</Point>
-			<Point>RZS  </Point>
-			<Point>SAHOK</Point>
-			<Point>SEA  </Point>
-			<Point>SELDM</Point>
-			<Point>SIMLU</Point>
-			<Point>SKANI</Point>
-			<Point>SKATE</Point>
-			<Point>SL   </Point>
-			<Point>SNOUT</Point>
-			<Point>SONON</Point>
-			<Point>SSM  </Point>
-			<Point>SSR  </Point>
-			<Point>SUBUL</Point>
-			<Point>URABI</Point>
-			<Point>TAGER</Point>
-			<Point>TAKSI</Point>
-			<Point>TAMRU</Point>
-			<Point>TANIE</Point>
-			<Point>TASLI</Point>
-			<Point>TAYTA</Point>
-			<Point>TERBO</Point>
-			<Point>TGO  </Point>
-			<Point>TIKID</Point>
-			<Point>TIVLA</Point>
-			<Point>TK   </Point>
-			<Point>TORTE</Point>
-			<Point>TUCKS</Point>
-			<Point>TUFLY</Point>
-			<Point>TUKOP</Point>
-			<Point>TUNTO</Point>
-			<Point>TUPAN</Point>
-			<Point>TYN  </Point>
-			<Point>UB   </Point>
-			<Point>LUNAD</Point>
-			<Point>UHPP </Point>
-			<Point>UK   </Point>
-			<Point>UK01 </Point>
-			<Point>VIDDA</Point>
-			<Point>VIDKU</Point>
-			<Point>VILRA</Point>
-			<Point>VIRSO</Point>
-			<Point>VLR  </Point>
-			<Point>VUCAN</Point>
-			<Point>WALUP</Point>
-			<Point>WANTA</Point>
-			<Point>WEEKE</Point>
-			<Point>WYLDE</Point>
-			<Point>XR   </Point>
-			<Point>LODMI</Point>
-			<Point>YEG  </Point>
-			<Point>YEK  </Point>
-			<Point>YESKA</Point>
-			<Point>YEV  </Point>
-			<Point>YGX  </Point>
-			<Point>YHY  </Point>
-			<Point>YIJ  </Point>
-			<Point>YISPO</Point>
-			<Point>YMO  </Point>
-			<Point>YNE  </Point>
-			<Point>YOJ  </Point>
-			<Point>YONEK</Point>
-			<Point>YOUNG</Point>
-			<Point>YOW  </Point>
-			<Point>YQD  </Point>
-			<Point>YQH  </Point>
-			<Point>YQL  </Point>
-			<Point>YQU  </Point>
-			<Point>YQV  </Point>
-			<Point>YRL  </Point>
-			<Point>YSB  </Point>
-			<Point>YSF  </Point>
-			<Point>YSM  </Point>
-			<Point>YTH  </Point>
-			<Point>YVQ  </Point>
-			<Point>YWG  </Point>
-			<Point>YWV  </Point>
-			<Point>YWY  </Point>
-			<Point>YXE  </Point>
-			<Point>YXS  </Point>
-			<Point>YYC  </Point>
-			<Point>YYD  </Point>
-			<Point>YYE  </Point>
-			<Point>YYJ  </Point>
-			<Point>YYQ  </Point>
-			<Point>YYQ291216</Point>
-			<Point>YYU  </Point>
-			<Point>YYZ  </Point>
-			<Point>YZF  </Point>
-			<Point>ZS   </Point>
-			<Point>ZUPAN</Point>
-			<Point>ARCAL</Point>
-			<Point>ARORA</Point>
-			<Point>BAGIE</Point>
-			<Point>BATTY</Point>
-			<Point>BITOP</Point>
-			<Point>BOGIE</Point>
-			<Point>BONET</Point>
-			<Point>BRION</Point>
-			<Point>BURMA</Point>
-			<Point>CASEL</Point>
-			<Point>CAWIN</Point>
-			<Point>CYCLE</Point>
-			<Point>DEVID</Point>
-			<Point>DIFER</Point>
-			<Point>EGGER</Point>
-			<Point>ELLAM</Point>
-			<Point>EVVOJ</Point>
-			<Point>FALCO</Point>
-			<Point>FIETR</Point>
-			<Point>FORAT</Point>
-			<Point>GAYES</Point>
-			<Point>GOLLY</Point>
-			<Point>GUPEY</Point>
-			<Point>JAVAH</Point>
-			<Point>JOWEN</Point>
-			<Point>KALTS</Point>
-			<Point>KANUT</Point>
-			<Point>KOKES</Point>
-			<Point>KONKS</Point>
-			<Point>LIBER</Point>
-			<Point>LISKI</Point>
-			<Point>LIVEN</Point>
-			<Point>LOHNE</Point>
-			<Point>MAGNM</Point>
-			<Point>MATTA</Point>
-			<Point>MAYPO</Point>
-			<Point>MIGAN</Point>
-			<Point>MORLY</Point>
-			<Point>MUCLA</Point>
-			<Point>NAKED</Point>
-			<Point>NAPTO</Point>
-			<Point>FOMDA</Point>
+			<Point>BARMU</Point>
 			<Point>BAMOK</Point>
-			<Point>ARISE</Point>
-			<Point>KUTAL</Point>
-			<Point>GINUL</Point>
-			<Point>ODORA</Point>
-			<Point>NIKIN</Point>
-			<Point>UEBN </Point>
-			<Point>LOGRI</Point>
-			<Point>UEEE </Point>
-			<Point>FRENK</Point>
-			<Point>LORKI</Point>
-			<Point>ASBAT</Point>
-			<Point>ABAGO</Point>
-			<Point>UELKAL</Point>
-			<Point>ERNIK</Point>
-			<Point>NOKID</Point>
-			<Point>BE   </Point>
-			<Point>TURAT</Point>
-			<Point>ROMUK</Point>
-			<Point>PAKLI</Point>
-			<Point>MUNRI</Point>
+			<Point>CHILL</Point>
+			<Point>CURUP</Point>
+			<Point>CFLBB</Point>
+			<Point>KATCH</Point>
+			<Point>METPA</Point>
+			<Point>NAKBI</Point>
+			<Point>PETPA</Point>
+			<Point>KURTT</Point>
+			<Point>SIMLU</Point>
+			<Point>TAMRU</Point>
+			<Point>VIDKU</Point>
+			<Point>KANUA</Point>
+			<Point>MUROL</Point>
+			<Point>DIVIN</Point>
+			<Point>RUNAB</Point>
+			<Point>REGSA</Point>
+			<Point>URABI</Point>
+			<Point>IDAMU</Point>
+			<Point>LETSA</Point>
+			<Point>GANKA</Point>
+			<Point>HMPTN</Point>
+			<Point>GRIZZ</Point>
+			<Point>CJAYY</Point>
+			<Point>ONEOX</Point>
+			<Point>NULUK</Point>
+			<Point>TDNSS</Point>
+			<Point>MURTA</Point>
+			<Point>NEDON</Point>
+			<Point>OSMOR</Point>
+			<Point>GOPTI</Point>
+			<Point>UBELI</Point>
+			<Point>DISAG</Point>
+			<Point>TUSOM</Point>
+			<Point>SIPVA</Point>
+			<Point>LEDRU</Point>
+			<Point>MALUV</Point>
+			<Point>IDLAT</Point>
+			<Point>RITNI</Point>
+			<Point>NIROR</Point>
+			<Point>DOSIB</Point>
+			<Point>RAPON</Point>
+			<Point>LESAD</Point>
 			<Point>KIVAK</Point>
 			<Point>EPLOS</Point>
-			<Point>LESAD</Point>
-			<Point>ENEGU</Point>
-			<Point>ROCET</Point>
-			<Point>PALIN</Point>
-			<Point>RUSOR</Point>
-			<Point>BESAT</Point>
-			<Point>BAMOK</Point>
 			<Point>MORLY</Point>
-			<Point>MUCLA</Point>
-			<Point>NAYLD</Point>
-			<Point>IDROD</Point>
-			<Point>JASIN</Point>
-			<Point>BURTN</Point>
-			<Point>CEVNO</Point>
-			<Point>EVANN</Point>
-			<Point>FATMU</Point>
-			<Point>FILKI</Point>
-			<Point>GICHY</Point>
-			<Point>HIGDO</Point>
-			<Point>HINKL</Point>
-			<Point>HYLEE</Point>
+			<Point>RAPAK</Point>
+			<Point>TIGBI</Point>
+			<Point>MANUB</Point>
+			<Point>PEPAN</Point>
+			<Point>MATIM</Point>
+			<Point>PEMID</Point>
+			<Point>DILEP</Point>
+			<Point>INGUS</Point>
+			<Point>LARSA</Point>
+			<Point>HORTH</Point>
+			<Point>MORDI</Point>
+			<Point>TESPE</Point>
+			<Point>CHUNA</Point>
+			<Point>UNETE</Point>
 			<Point>IVOXE</Point>
-			<Point>JOGET</Point>
-			<Point>KEREC</Point>
-			<Point>KUNNA</Point>
-			<Point>NONIC</Point>
+			<Point>BILBE</Point>
+			<Point>GENFU</Point>
+			<Point>SAFKO</Point>
+			<Point>DAYVU</Point>
+			<Point>IYUWI</Point>
+			<Point>ESHOS</Point>
+			<Point>ZEVON</Point>
+			<Point>WIDTH</Point>
+			<Point>AKANI</Point>
+			<Point>OGUDO</Point>
+			<Point>OSTUL</Point>
+			<Point>SOPNU</Point>
+			<Point>ORTIR</Point>
+			<Point>OSBAT</Point>
+			<Point>ADLEM</Point>
+			<Point>GIROD</Point>
+			<Point>IDNAK</Point>
+			<Point>IRBIV</Point>
+			<Point>BUPAK</Point>
+			<Point>TEKRU</Point>
+			<Point>BAGMO</Point>
+			<Point>TEBMI</Point>
+			<Point>LAPOD</Point>
+			<Point>DITNU</Point>
+			<Point>DIPMA</Point>
+			<Point>BAMUN</Point>
+			<Point>TISUR</Point>
+			<Point>AMASA</Point>
+			<Point>KOTIZ</Point>
+			<Point>UCLON</Point>
+			<Point>MILAM</Point>
+			<Point>DUGAC</Point>
+			<Point>RAYMD</Point>
+			<Point>PEWUK</Point>
+			<Point>ORUYO</Point>
+			<Point>OBUKE</Point>
+			<Point>ZILKO</Point>
+			<Point>EBURG</Point>
+			<Point>CEDUN</Point>
+			<Point>ZADRO</Point>
+			<Point>CUBPA</Point>
+			<Point>GESSE</Point>
+			<Point>CILAC</Point>
+			<Point>FEVBO</Point>
+			<Point>FIGAN</Point>
+			<Point>JOGMO</Point>
+			<Point>AKETA</Point>
+			<Point>BAMER</Point>
+			<Point>ABINA</Point>
+			<Point>VALDA</Point>
+			<Point>YUREE</Point>
+			<Point>NRKEY</Point>
+			<Point>OLCOT</Point>
+			<Point>CURVS</Point>
+			<Point>KALIG</Point>
+			<Point>CUTEE</Point>
+			<Point>CARTO</Point>
+			<Point>CHIPT</Point>
+			<Point>CHIKI</Point>
+			<Point>CAMBO</Point>
+			<Point>CUDDA</Point>
+			<Point>NEONN</Point>
+			<Point>PALIN</Point>
+			<Point>MARCC</Point>
+			<Point>MOTEB</Point>
+			<Point>ODREL</Point>
+			<Point>DELAM</Point>
+			<Point>SOPDI</Point>
+			<Point>MEDIG</Point>
+			<Point>RIMAL</Point>
+			<Point>BANEB</Point>
+			<Point>SOPUR</Point>
+			<Point>BEBOR</Point>
+			<Point>RAMKA</Point>
+			<Point>NELTA</Point>
+			<Point>HUMRA</Point>
+			<Point>NYMPH</Point>
+			<Point>ONEIL</Point>
+			<Point>RULOY</Point>
+			<Point>CREMR</Point>
+			<Point>KULOD</Point>
+			<Point>KUDER</Point>
+			<Point>BALUB</Point>
+			<Point>BESAT</Point>
+			<Point>MUNRI</Point>
+			<Point>ANESE</Point>
+			<Point>EYOPA</Point>
+			<Point>DAVBE</Point>
+			<Point>CUKFA</Point>
+			<Point>OLTON</Point>
+			<Point>RUZOF</Point>
+			<Point>BETUB</Point>
+			<Point>ABEDI</Point>
+			<Point>LAPRU</Point>
+			<Point>PENOT</Point>
+			<Point>NURBA</Point>
+			<Point>MAPEG</Point>
+			<Point>BIGET</Point>
+			<Point>SAMIK</Point>
+			<Point>PIRUT</Point>
+			<Point>LUMES</Point>
+			<Point>DEJJE</Point>
+			<Point>RUNUW</Point>
+			<Point>LONOK</Point>
+			<Point>SIYNY</Point>
+			<Point>ZEBUV</Point>
+			<Point>CRACK</Point>
+			<Point>NOSKY</Point>
+			<Point>WALUS</Point>
+			<Point>DIPEK</Point>
+			<Point>KUNAD</Point>
+			<Point>OGMEK</Point>
+			<Point>ROGUM</Point>
+			<Point>LOKSU</Point>
+			<Point>NISOB</Point>
+			<Point>DIROS</Point>
+			<Point>LUNOP</Point>
+			<Point>OGTES</Point>
+			<Point>OBASO</Point>
+			<Point>PELEB</Point>
+			<Point>NERBU</Point>
+			<Point>DETOP</Point>
+			<Point>SUPOG</Point>
+			<Point>ZEKEG</Point>
+			<Point>SCALP</Point>
+			<Point>SLEDD</Point>
+			<Point>NAYLD</Point>
+			<Point>ICEEE</Point>
+			<Point>WONAB</Point>
+			<Point>WINOR</Point>
+			<Point>FFITZ</Point>
+			<Point>BINAL</Point>
+			<Point>TANIE</Point>
+			<Point>CIFJI</Point>
+			<Point>TUCKS</Point>
+			<Point>CAWIN</Point>
+			<Point>KOKOZ</Point>
+			<Point>KOWOK</Point>
+			<Point>KODNE</Point>
+			<Point>TAGER</Point>
+			<Point>PUYVO</Point>
+			<Point>RINGO</Point>
+			<Point>NONDA</Point>
+			<Point>CIVED</Point>
+			<Point>HUMPY</Point>
+			<Point>WOXOX</Point>
+			<Point>LAIRE</Point>
+			<Point>AYKID</Point>
+			<Point>ADREW</Point>
+			<Point>DONEL</Point>
+			<Point>POTAT</Point>
+			<Point>AKGAS</Point>
+			<Point>CERGU</Point>
+			<Point>UDENE</Point>
+			<Point>FLIPS</Point>
+			<Point>MOCHA</Point>
+			<Point>CFQBR</Point>
+			<Point>HOLIE</Point>
+			<Point>KATAT</Point>
+			<Point>CASEL</Point>
+			<Point>YONEK</Point>
+			<Point>TORTE</Point>
+			<Point>VIDDA</Point>
+			<Point>PRYCE</Point>
+			<Point>DUGGS</Point>
+			<Point>HANRY</Point>
+			<Point>CFSTF</Point>
+			<Point>GESTI</Point>
+			<Point>DOOZI</Point>
+			<Point>HOODS</Point>
+			<Point>RDFLG</Point>
+			<Point>HRDNG</Point>
+			<Point>CFXBV</Point>
+			<Point>TOVAD</Point>
+			<Point>CFZMR</Point>
+			<Point>SAHOK</Point>
+			<Point>FAGIN</Point>
+			<Point>AMOTT</Point>
+			<Point>GASTO</Point>
+			<Point>CFDJJ</Point>
+			<Point>BIBEM</Point>
+			<Point>CANYO</Point>
+			<Point>BOKMA</Point>
+			<Point>CFTBX</Point>
+			<Point>CFCLG</Point>
+			<Point>FAKES</Point>
+			<Point>BERGS</Point>
+			<Point>ASORT</Point>
+			<Point>GARRS</Point>
+			<Point>NOWEL</Point>
+			<Point>SNOUT</Point>
+			<Point>EEDEN</Point>
+			<Point>FRIED</Point>
+			<Point>ARISE</Point>
+			<Point>KONKS</Point>
+			<Point>DEPUP</Point>
+			<Point>DENED</Point>
+			<Point>AMSIS</Point>
+			<Point>KELOL</Point>
+			<Point>DEMAT</Point>
+			<Point>KADAT</Point>
+			<Point>DELAK</Point>
+			<Point>BATNI</Point>
+			<Point>BABAD</Point>
+			<Point>LISKI</Point>
+			<Point>AVTAV</Point>
+			<Point>KEMGI</Point>
+			<Point>LEXUB</Point>
+			<Point>IRGIP</Point>
+			<Point>ANTUT</Point>
+			<Point>MELBI</Point>
+			<Point>MEKTA</Point>
+			<Point>ALTIG</Point>
+			<Point>EPSET</Point>
+			<Point>OLARU</Point>
+			<Point>KEKDO</Point>
+			<Point>IGSOM</Point>
+			<Point>VIRPU</Point>
+			<Point>LEXUT</Point>
+			<Point>NADGI</Point>
+			<Point>OMVAN</Point>
+			<Point>KIPIR</Point>
+			<Point>AMETO</Point>
+			<Point>ARGUP</Point>
+			<Point>LEKNI</Point>
+			<Point>IBRAS</Point>
+			<Point>PILUN</Point>
+			<Point>NEDSA</Point>
+			<Point>NATUR</Point>
+			<Point>TEPIN</Point>
+			<Point>RABID</Point>
+			<Point>DOGIS</Point>
+			<Point>VIKRI</Point>
+			<Point>ROPNA</Point>
+			<Point>TALAP</Point>
+			<Point>ODETA</Point>
+			<Point>RANOP</Point>
+			<Point>BATMA</Point>
+			<Point>KUMOG</Point>
+			<Point>STENA</Point>
+			<Point>MELEK</Point>
+			<Point>RATET</Point>
+			<Point>KURIP</Point>
+			<Point>DISNA</Point>
+			<Point>AGURA</Point>
+			<Point>DEEJA</Point>
+			<Point>MITOM</Point>
+			<Point>YESKA</Point>
+			<Point>REMBY</Point>
+			<Point>COHIL</Point>
+			<Point>GOROV</Point>
+			<Point>GUDEN</Point>
+			<Point>JAGIT</Point>
+			<Point>TMSON</Point>
+			<Point>GAHAM</Point>
+			<Point>EMSOW</Point>
+			<Point>TIBOY</Point>
+			<Point>CHAPO</Point>
+			<Point>ELLAM</Point>
+			<Point>TIEKL</Point>
+			<Point>OMSUN</Point>
+			<Point>ALUSO</Point>
+			<Point>FANES</Point>
+			<Point>FIORD</Point>
+			<Point>GOATS</Point>
+			<Point>VOLOB</Point>
+			<Point>TAYTA</Point>
+			<Point>GIMAG</Point>
+			<Point>SUMON</Point>
+			<Point>SUBEK</Point>
+			<Point>MIFRA</Point>
+			<Point>DIREN</Point>
+			<Point>BUKOT</Point>
+			<Point>UNTAM</Point>
+			<Point>AMISA</Point>
+			<Point>DONUN</Point>
+			<Point>LOLSA</Point>
+			<Point>LEMBA</Point>
+			<Point>WUXAN</Point>
+			<Point>HLBLY</Point>
+			<Point>ROCES</Point>
+			<Point>SLIIM</Point>
+			<Point>JOKAP</Point>
+			<Point>KUTDE</Point>
+			<Point>LACIL</Point>
+			<Point>KKYLE</Point>
+			<Point>SIMSU</Point>
+			<Point>CAFTA</Point>
+			<Point>OYELI</Point>
+			<Point>WOGUS</Point>
+			<Point>AYZOL</Point>
+			<Point>DUXAR</Point>
+			<Point>MUXAT</Point>
+			<Point>BOTAD</Point>
+			<Point>AXUBI</Point>
+			<Point>GLENT</Point>
+			<Point>LAPLE</Point>
+			<Point>NODLE</Point>
+			<Point>NICHO</Point>
+			<Point>NOSHO</Point>
+			<Point>NANZA</Point>
+			<Point>NOLTI</Point>
+			<Point>NANDY</Point>
+			<Point>NATES</Point>
+			<Point>NIKLL</Point>
+			<Point>NIPPI</Point>
+			<Point>NOGAL</Point>
+			<Point>LYYLE</Point>
+			<Point>MUCLA</Point>
+			<Point>CHUUK</Point>
+			<Point>HODDY</Point>
+			<Point>OFORD</Point>
+			<Point>HAVAM</Point>
+			<Point>SORIS</Point>
+			<Point>LIKOK</Point>
+			<Point>ADLEN</Point>
+			<Point>JUJXI</Point>
+			<Point>JANVO</Point>
+			<Point>HIXOR</Point>
+			<Point>AAMYY</Point>
+			<Point>WALLT</Point>
+			<Point>ORCCA</Point>
+			<Point>ORVIL</Point>
+			<Point>OGGOE</Point>
+			<Point>OBOYD</Point>
+			<Point>OPHET</Point>
+			<Point>OGDEN</Point>
+			<Point>OMOTO</Point>
+			<Point>OPULO</Point>
+			<Point>AGEDI</Point>
+			<Point>AKISU</Point>
+			<Point>ASPIN</Point>
+			<Point>ALDOZ</Point>
+			<Point>ALUFF</Point>
 			<Point>RANND</Point>
-			<Point>TRONN</Point>
-			<Point>WANIB</Point>
-			<Point>COVLU</Point>
-			<Point>EQQUP</Point>
-			<Point>GRAAY</Point>
-			<Point>HIDOT</Point>
-			<Point>NEDUW</Point>
-			<Point>PUYIC</Point>
-			<Point>RUFZA</Point>
-			<Point>YOJTO</Point>
-			<Point>FENLO</Point>
-			<Point>FILKI</Point>
-			<Point>HOSOR</Point>
+			<Point>LIJFY</Point>
+			<Point>DIBWO</Point>
+			<Point>NEKBA</Point>
+			<Point>ATNAD</Point>
+			<Point>BABSO</Point>
+			<Point>NILUK</Point>
+			<Point>LALAR</Point>
+			<Point>TINEN</Point>
+			<Point>ORVAS</Point>
+			<Point>OSNOD</Point>
+			<Point>ROSUG</Point>
+			<Point>DOBUR</Point>
+			<Point>BODKO</Point>
+			<Point>MOLOB</Point>
+			<Point>GIMOM</Point>
+			<Point>UPUMA</Point>
+			<Point>DOMUD</Point>
+			<Point>APSEK</Point>
+			<Point>ROGIT</Point>
+			<Point>ALURO</Point>
+			<Point>KUBES</Point>
+			<Point>TUPLA</Point>
+			<Point>TELNA</Point>
+			<Point>OKULA</Point>
+			<Point>NITAN</Point>
+			<Point>ULTIN</Point>
+			<Point>VATUL</Point>
+		</Symbol>
+	</Map>
+	<Map Type="System" CustomColourName="SpringGreen" Name="Pts Nms" priority="1" Center="+64.0-160.0">
+		<Label HasLeader="false">
+			<Point>BER</Point>
+			<Point>YZP</Point>
+			<Point>ANN</Point>
+			<Point>CDB</Point>
+			<Point>LVD</Point>
+			<Point>BKA</Point>
+			<Point>ODK</Point>
+			<Point>SSR</Point>
+			<Point>AKN</Point>
+			<Point>DLG</Point>
+			<Point>MDO</Point>
+			<Point>YAK</Point>
+			<Point>HOM</Point>
+			<Point>YQH</Point>
+			<Point>JOH</Point>
+			<Point>ENA</Point>
+			<Point>YXY</Point>
+			<Point>BET</Point>
+			<Point>SQA</Point>
+			<Point>TED</Point>
+			<Point>EDF</Point>
+			<Point>HPB</Point>
+			<Point>BGQ</Point>
+			<Point>GKN</Point>
+			<Point>TKA</Point>
+			<Point>ENM</Point>
+			<Point>ORT</Point>
+			<Point>MCG</Point>
+			<Point>ULL</Point>
+			<Point>UNK</Point>
+			<Point>BIG</Point>
+			<Point>OME</Point>
+			<Point>ENN</Point>
+			<Point>EIL</Point>
+			<Point>MOS</Point>
+			<Point>GAL</Point>
+			<Point>FAI</Point>
+			<Point>TAL</Point>
+			<Point>HSL</Point>
+			<Point>FYU</Point>
+			<Point>WLK</Point>
+			<Point>OTZ</Point>
+			<Point>BTT</Point>
+			<Point>YEV</Point>
+			<Point>SCC</Point>
+			<Point>BRW</Point>
+			<Point>ADK</Point>
+			<Point>YJQ</Point>
+			<Point>ZZP</Point>
+			<Point>DUT</Point>
+			<Point>ZKI</Point>
+			<Point>PR</Point>
+			<Point>XT</Point>
+			<Point>ICK</Point>
+			<Point>ELF</Point>
+			<Point>HBT</Point>
+			<Point>CMJ</Point>
+			<Point>AKW</Point>
+			<Point>SQM</Point>
+			<Point>RGL</Point>
+			<Point>SRI</Point>
+			<Point>SIT</Point>
+			<Point>PDN</Point>
+			<Point>AFE</Point>
+			<Point>IME</Point>
+			<Point>SPY</Point>
+			<Point>RWO</Point>
+			<Point>EEF</Point>
+			<Point>CGL</Point>
+			<Point>YDL</Point>
+			<Point>EHM</Point>
+			<Point>AUB</Point>
+			<Point>BTS</Point>
+			<Point>TOG</Point>
+			<Point>HNS</Point>
+			<Point>OCC</Point>
+			<Point>ACE</Point>
+			<Point>ILI</Point>
+			<Point>CYT</Point>
+			<Point>PJ</Point>
+			<Point>OLT</Point>
+			<Point>ALJ</Point>
+			<Point>GCR</Point>
+			<Point>ZXY</Point>
+			<Point>OSE</Point>
+			<Point>JB</Point>
+			<Point>CRN</Point>
+			<Point>MNL</Point>
+			<Point>ANI</Point>
+			<Point>CZF</Point>
+			<Point>SMA</Point>
+			<Point>PEE</Point>
+			<Point>ANV</Point>
+			<Point>VTR</Point>
+			<Point>AES</Point>
+			<Point>MA</Point>
+			<Point>GAM</Point>
+			<Point>MHM</Point>
+			<Point>JNR</Point>
+			<Point>DJN</Point>
+			<Point>DA</Point>
+			<Point>BC</Point>
+			<Point>FDV</Point>
+			<Point>ICW</Point>
+			<Point>OAY</Point>
+			<Point>CUN</Point>
+			<Point>NB</Point>
+			<Point>TNC</Point>
+			<Point>LA</Point>
+			<Point>UTO</Point>
+			<Point>SHH</Point>
+			<Point>AS</Point>
+			<Point>FTO</Point>
+			<Point>EAV</Point>
+			<Point>HHM</Point>
+			<Point>AMF</Point>
+			<Point>CQR</Point>
+			<Point>OQK</Point>
+			<Point>YOC</Point>
+			<Point>DGG</Point>
+			<Point>AKP</Point>
+			<Point>EV</Point>
+			<Point>PHO</Point>
+			<Point>LUR</Point>
+			<Point>UMT</Point>
+			<Point>PIZ</Point>
+			<Point>UQS</Point>
+			<Point>PVQ</Point>
+			<Point>PUO</Point>
+			<Point>PYC</Point>
+			<Point>ATK</Point>
+			<Point>UKK</Point>
+			<Point>VIR</Point>
+			<Point>NS</Point>
+			<Point>SYA</Point>
+			<Point>UB</Point>
+			<Point>HY</Point>
+			<Point>LW</Point>
+			<Point>W</Point>
+			<Point>M</Point>
+			<Point>MK</Point>
+			<Point>SW</Point>
+			<Point>NK</Point>
+			<Point>UK</Point>
+			<Point>TK</Point>
+			<Point>DL</Point>
+			<Point>EGGER</Point>
+			<Point>CORVA</Point>
+			<Point>CAPEM</Point>
+			<Point>ATAGA</Point>
+			<Point>SPARL</Point>
+			<Point>LILDE</Point>
+			<Point>BBGVP</Point>
+			<Point>MITEK</Point>
+			<Point>HWTCC</Point>
+			<Point>WUBDO</Point>
+			<Point>RADKY</Point>
+			<Point>MAGNM</Point>
+			<Point>DUVOT</Point>
+			<Point>TEGDE</Point>
+			<Point>JEVUM</Point>
+			<Point>NUZAN</Point>
+			<Point>OPAKE</Point>
+			<Point>PINSO</Point>
+			<Point>AMOND</Point>
+			<Point>DRAPP</Point>
+			<Point>CRYPT</Point>
+			<Point>CLAMS</Point>
+			<Point>PUGAL</Point>
+			<Point>PASRO</Point>
+			<Point>POWAL</Point>
+			<Point>PLADO</Point>
+			<Point>POOFF</Point>
+			<Point>PINTT</Point>
+			<Point>PTZGR</Point>
+			<Point>PUGGY</Point>
+			<Point>POETT</Point>
+			<Point>SELDM</Point>
+			<Point>PORGE</Point>
+			<Point>HAMND</Point>
+			<Point>WOMEV</Point>
+			<Point>PETIN</Point>
+			<Point>BAKEN</Point>
+			<Point>RELPA</Point>
+			<Point>ODIPA</Point>
+			<Point>OBETA</Point>
+			<Point>NELEB</Point>
+			<Point>TOSNO</Point>
+			<Point>GURMA</Point>
+			<Point>LUTEG</Point>
+			<Point>NOGLA</Point>
+			<Point>OTLIM</Point>
+			<Point>GITES</Point>
+			<Point>TUREP</Point>
+			<Point>NARIT</Point>
+			<Point>NIKSI</Point>
+			<Point>VORON</Point>
+			<Point>DERUD</Point>
+			<Point>BUSUL</Point>
+			<Point>BUMAT</Point>
+			<Point>ODEBI</Point>
+			<Point>LUNEK</Point>
+			<Point>GIRLO</Point>
+			<Point>OTLER</Point>
+			<Point>SENOR</Point>
+			<Point>NAMUL</Point>
+			<Point>OSMIN</Point>
+			<Point>NAKUR</Point>
+			<Point>OCOCU</Point>
+			<Point>ZENLA</Point>
+			<Point>AKUMY</Point>
+			<Point>CHIPS</Point>
+			<Point>KLODI</Point>
+			<Point>ADUSA</Point>
+			<Point>DEGIR</Point>
+			<Point>DIMUR</Point>
+			<Point>HWKGV</Point>
+			<Point>JIPAK</Point>
+			<Point>ATAYI</Point>
+			<Point>KUTAL</Point>
+			<Point>SANGL</Point>
+			<Point>ERNIK</Point>
+			<Point>IDROD</Point>
+			<Point>AVUBA</Point>
+			<Point>SUNIP</Point>
+			<Point>BERUD</Point>
+			<Point>RUSOR</Point>
+			<Point>ROCET</Point>
+			<Point>ENEGU</Point>
+			<Point>UMBOS</Point>
+			<Point>RUGUD</Point>
+			<Point>ABMOL</Point>
+			<Point>DIPNA</Point>
+			<Point>KOKES</Point>
+			<Point>RIMLI</Point>
+			<Point>RINOT</Point>
+			<Point>TUPAN</Point>
+			<Point>GEFAR</Point>
+			<Point>DENZI</Point>
+			<Point>KOKUN</Point>
+			<Point>APTIK</Point>
+			<Point>PEMIG</Point>
+			<Point>KUTAD</Point>
+			<Point>GUNBA</Point>
+			<Point>DENUK</Point>
+			<Point>GENRI</Point>
+			<Point>FRENK</Point>
+			<Point>BIBNE</Point>
+			<Point>WANIX</Point>
+			<Point>TDNBG</Point>
+			<Point>CUNAN</Point>
+			<Point>SHMUK</Point>
+			<Point>OMPAE</Point>
+			<Point>BANIT</Point>
+			<Point>LUPIR</Point>
+			<Point>GAKTA</Point>
+			<Point>GITRU</Point>
+			<Point>IRKAN</Point>
+			<Point>BARMU</Point>
+			<Point>BAMOK</Point>
+			<Point>CHILL</Point>
+			<Point>CURUP</Point>
+			<Point>CFLBB</Point>
+			<Point>KATCH</Point>
+			<Point>METPA</Point>
+			<Point>NAKBI</Point>
+			<Point>PETPA</Point>
+			<Point>KURTT</Point>
+			<Point>SIMLU</Point>
+			<Point>TAMRU</Point>
+			<Point>VIDKU</Point>
+			<Point>KANUA</Point>
+			<Point>MUROL</Point>
+			<Point>DIVIN</Point>
+			<Point>RUNAB</Point>
+			<Point>REGSA</Point>
+			<Point>URABI</Point>
+			<Point>IDAMU</Point>
+			<Point>LETSA</Point>
+			<Point>GANKA</Point>
+			<Point>HMPTN</Point>
+			<Point>GRIZZ</Point>
+			<Point>CJAYY</Point>
+			<Point>ONEOX</Point>
+			<Point>NULUK</Point>
+			<Point>TDNSS</Point>
+			<Point>MURTA</Point>
+			<Point>NEDON</Point>
+			<Point>OSMOR</Point>
+			<Point>GOPTI</Point>
+			<Point>UBELI</Point>
+			<Point>DISAG</Point>
+			<Point>TUSOM</Point>
+			<Point>SIPVA</Point>
+			<Point>LEDRU</Point>
+			<Point>MALUV</Point>
+			<Point>IDLAT</Point>
+			<Point>RITNI</Point>
+			<Point>NIROR</Point>
+			<Point>DOSIB</Point>
+			<Point>RAPON</Point>
+			<Point>LESAD</Point>
+			<Point>KIVAK</Point>
+			<Point>EPLOS</Point>
+			<Point>MORLY</Point>
+			<Point>RAPAK</Point>
+			<Point>TIGBI</Point>
+			<Point>MANUB</Point>
+			<Point>PEPAN</Point>
+			<Point>MATIM</Point>
+			<Point>PEMID</Point>
+			<Point>DILEP</Point>
+			<Point>INGUS</Point>
+			<Point>LARSA</Point>
+			<Point>HORTH</Point>
+			<Point>MORDI</Point>
+			<Point>TESPE</Point>
+			<Point>CHUNA</Point>
+			<Point>UNETE</Point>
+			<Point>IVOXE</Point>
+			<Point>BILBE</Point>
+			<Point>GENFU</Point>
+			<Point>SAFKO</Point>
+			<Point>DAYVU</Point>
+			<Point>IYUWI</Point>
+			<Point>ESHOS</Point>
+			<Point>ZEVON</Point>
+			<Point>WIDTH</Point>
+			<Point>AKANI</Point>
+			<Point>OGUDO</Point>
+			<Point>OSTUL</Point>
+			<Point>SOPNU</Point>
+			<Point>ORTIR</Point>
+			<Point>OSBAT</Point>
+			<Point>ADLEM</Point>
+			<Point>GIROD</Point>
+			<Point>IDNAK</Point>
+			<Point>IRBIV</Point>
+			<Point>BUPAK</Point>
+			<Point>TEKRU</Point>
+			<Point>BAGMO</Point>
+			<Point>TEBMI</Point>
+			<Point>LAPOD</Point>
+			<Point>DITNU</Point>
+			<Point>DIPMA</Point>
+			<Point>BAMUN</Point>
+			<Point>TISUR</Point>
+			<Point>AMASA</Point>
+			<Point>KOTIZ</Point>
+			<Point>UCLON</Point>
+			<Point>MILAM</Point>
+			<Point>DUGAC</Point>
+			<Point>RAYMD</Point>
+			<Point>PEWUK</Point>
+			<Point>ORUYO</Point>
+			<Point>OBUKE</Point>
+			<Point>ZILKO</Point>
+			<Point>EBURG</Point>
+			<Point>CEDUN</Point>
+			<Point>ZADRO</Point>
+			<Point>CUBPA</Point>
+			<Point>GESSE</Point>
+			<Point>CILAC</Point>
+			<Point>FEVBO</Point>
+			<Point>FIGAN</Point>
+			<Point>JOGMO</Point>
+			<Point>AKETA</Point>
+			<Point>BAMER</Point>
+			<Point>ABINA</Point>
+			<Point>VALDA</Point>
+			<Point>YUREE</Point>
+			<Point>NRKEY</Point>
+			<Point>OLCOT</Point>
+			<Point>CURVS</Point>
+			<Point>KALIG</Point>
+			<Point>CUTEE</Point>
+			<Point>CARTO</Point>
+			<Point>CHIPT</Point>
+			<Point>CHIKI</Point>
+			<Point>CAMBO</Point>
+			<Point>CUDDA</Point>
+			<Point>NEONN</Point>
+			<Point>PALIN</Point>
+			<Point>MARCC</Point>
+			<Point>MOTEB</Point>
+			<Point>ODREL</Point>
+			<Point>DELAM</Point>
+			<Point>SOPDI</Point>
+			<Point>MEDIG</Point>
+			<Point>RIMAL</Point>
+			<Point>BANEB</Point>
+			<Point>SOPUR</Point>
+			<Point>BEBOR</Point>
+			<Point>RAMKA</Point>
+			<Point>NELTA</Point>
+			<Point>HUMRA</Point>
+			<Point>NYMPH</Point>
+			<Point>ONEIL</Point>
+			<Point>RULOY</Point>
+			<Point>CREMR</Point>
+			<Point>KULOD</Point>
+			<Point>KUDER</Point>
+			<Point>BALUB</Point>
+			<Point>BESAT</Point>
+			<Point>MUNRI</Point>
+			<Point>ANESE</Point>
+			<Point>EYOPA</Point>
+			<Point>DAVBE</Point>
+			<Point>CUKFA</Point>
+			<Point>OLTON</Point>
+			<Point>RUZOF</Point>
+			<Point>BETUB</Point>
+			<Point>ABEDI</Point>
+			<Point>LAPRU</Point>
+			<Point>PENOT</Point>
+			<Point>NURBA</Point>
+			<Point>MAPEG</Point>
+			<Point>BIGET</Point>
+			<Point>SAMIK</Point>
+			<Point>PIRUT</Point>
+			<Point>LUMES</Point>
+			<Point>DEJJE</Point>
+			<Point>RUNUW</Point>
+			<Point>LONOK</Point>
+			<Point>SIYNY</Point>
+			<Point>ZEBUV</Point>
+			<Point>CRACK</Point>
+			<Point>NOSKY</Point>
+			<Point>WALUS</Point>
+			<Point>DIPEK</Point>
+			<Point>KUNAD</Point>
+			<Point>OGMEK</Point>
+			<Point>ROGUM</Point>
+			<Point>LOKSU</Point>
+			<Point>NISOB</Point>
+			<Point>DIROS</Point>
+			<Point>LUNOP</Point>
+			<Point>OGTES</Point>
+			<Point>OBASO</Point>
+			<Point>PELEB</Point>
+			<Point>NERBU</Point>
+			<Point>DETOP</Point>
+			<Point>SUPOG</Point>
+			<Point>ZEKEG</Point>
+			<Point>SCALP</Point>
+			<Point>SLEDD</Point>
+			<Point>NAYLD</Point>
+			<Point>ICEEE</Point>
+			<Point>WONAB</Point>
+			<Point>WINOR</Point>
+			<Point>FFITZ</Point>
+			<Point>BINAL</Point>
+			<Point>TANIE</Point>
+			<Point>CIFJI</Point>
+			<Point>TUCKS</Point>
+			<Point>CAWIN</Point>
+			<Point>KOKOZ</Point>
+			<Point>KOWOK</Point>
+			<Point>KODNE</Point>
+			<Point>TAGER</Point>
+			<Point>PUYVO</Point>
+			<Point>RINGO</Point>
+			<Point>NONDA</Point>
+			<Point>CIVED</Point>
+			<Point>HUMPY</Point>
+			<Point>WOXOX</Point>
+			<Point>LAIRE</Point>
+			<Point>AYKID</Point>
+			<Point>ADREW</Point>
+			<Point>DONEL</Point>
+			<Point>POTAT</Point>
+			<Point>AKGAS</Point>
+			<Point>CERGU</Point>
+			<Point>UDENE</Point>
+			<Point>FLIPS</Point>
+			<Point>MOCHA</Point>
+			<Point>CFQBR</Point>
+			<Point>HOLIE</Point>
+			<Point>KATAT</Point>
+			<Point>CASEL</Point>
+			<Point>YONEK</Point>
+			<Point>TORTE</Point>
+			<Point>VIDDA</Point>
+			<Point>PRYCE</Point>
+			<Point>DUGGS</Point>
+			<Point>HANRY</Point>
+			<Point>CFSTF</Point>
+			<Point>GESTI</Point>
+			<Point>DOOZI</Point>
+			<Point>HOODS</Point>
+			<Point>RDFLG</Point>
+			<Point>HRDNG</Point>
+			<Point>CFXBV</Point>
+			<Point>TOVAD</Point>
+			<Point>CFZMR</Point>
+			<Point>SAHOK</Point>
+			<Point>FAGIN</Point>
+			<Point>AMOTT</Point>
+			<Point>GASTO</Point>
+			<Point>CFDJJ</Point>
+			<Point>BIBEM</Point>
+			<Point>CANYO</Point>
+			<Point>BOKMA</Point>
+			<Point>CFTBX</Point>
+			<Point>CFCLG</Point>
+			<Point>FAKES</Point>
+			<Point>BERGS</Point>
+			<Point>ASORT</Point>
+			<Point>GARRS</Point>
+			<Point>NOWEL</Point>
+			<Point>SNOUT</Point>
+			<Point>EEDEN</Point>
+			<Point>FRIED</Point>
+			<Point>ARISE</Point>
+			<Point>KONKS</Point>
+			<Point>DEPUP</Point>
+			<Point>DENED</Point>
+			<Point>AMSIS</Point>
+			<Point>KELOL</Point>
+			<Point>DEMAT</Point>
+			<Point>KADAT</Point>
+			<Point>DELAK</Point>
+			<Point>BATNI</Point>
+			<Point>BABAD</Point>
+			<Point>LISKI</Point>
+			<Point>AVTAV</Point>
+			<Point>KEMGI</Point>
+			<Point>LEXUB</Point>
+			<Point>IRGIP</Point>
+			<Point>ANTUT</Point>
+			<Point>MELBI</Point>
+			<Point>MEKTA</Point>
+			<Point>ALTIG</Point>
+			<Point>EPSET</Point>
+			<Point>OLARU</Point>
+			<Point>KEKDO</Point>
+			<Point>IGSOM</Point>
+			<Point>VIRPU</Point>
+			<Point>LEXUT</Point>
+			<Point>NADGI</Point>
+			<Point>OMVAN</Point>
+			<Point>KIPIR</Point>
+			<Point>AMETO</Point>
+			<Point>ARGUP</Point>
+			<Point>LEKNI</Point>
+			<Point>IBRAS</Point>
+			<Point>PILUN</Point>
+			<Point>NEDSA</Point>
+			<Point>NATUR</Point>
+			<Point>TEPIN</Point>
+			<Point>RABID</Point>
+			<Point>DOGIS</Point>
+			<Point>VIKRI</Point>
+			<Point>ROPNA</Point>
+			<Point>TALAP</Point>
+			<Point>ODETA</Point>
+			<Point>RANOP</Point>
+			<Point>BATMA</Point>
+			<Point>KUMOG</Point>
+			<Point>STENA</Point>
+			<Point>MELEK</Point>
+			<Point>RATET</Point>
+			<Point>KURIP</Point>
+			<Point>DISNA</Point>
+			<Point>AGURA</Point>
+			<Point>DEEJA</Point>
+			<Point>MITOM</Point>
+			<Point>YESKA</Point>
+			<Point>REMBY</Point>
+			<Point>COHIL</Point>
+			<Point>GOROV</Point>
+			<Point>GUDEN</Point>
+			<Point>JAGIT</Point>
+			<Point>TMSON</Point>
+			<Point>GAHAM</Point>
+			<Point>EMSOW</Point>
+			<Point>TIBOY</Point>
+			<Point>CHAPO</Point>
+			<Point>ELLAM</Point>
+			<Point>TIEKL</Point>
+			<Point>OMSUN</Point>
+			<Point>ALUSO</Point>
+			<Point>FANES</Point>
+			<Point>FIORD</Point>
+			<Point>GOATS</Point>
+			<Point>VOLOB</Point>
+			<Point>TAYTA</Point>
+			<Point>GIMAG</Point>
+			<Point>SUMON</Point>
+			<Point>SUBEK</Point>
+			<Point>MIFRA</Point>
+			<Point>DIREN</Point>
+			<Point>BUKOT</Point>
+			<Point>UNTAM</Point>
+			<Point>AMISA</Point>
+			<Point>DONUN</Point>
+			<Point>LOLSA</Point>
+			<Point>LEMBA</Point>
+			<Point>WUXAN</Point>
+			<Point>HLBLY</Point>
+			<Point>ROCES</Point>
+			<Point>SLIIM</Point>
+			<Point>JOKAP</Point>
+			<Point>KUTDE</Point>
+			<Point>LACIL</Point>
+			<Point>KKYLE</Point>
+			<Point>SIMSU</Point>
+			<Point>CAFTA</Point>
+			<Point>OYELI</Point>
+			<Point>WOGUS</Point>
+			<Point>AYZOL</Point>
+			<Point>DUXAR</Point>
+			<Point>MUXAT</Point>
+			<Point>BOTAD</Point>
+			<Point>AXUBI</Point>
+			<Point>GLENT</Point>
+			<Point>LAPLE</Point>
+			<Point>NODLE</Point>
+			<Point>NICHO</Point>
+			<Point>NOSHO</Point>
+			<Point>NANZA</Point>
+			<Point>NOLTI</Point>
+			<Point>NANDY</Point>
+			<Point>NATES</Point>
+			<Point>NIKLL</Point>
+			<Point>NIPPI</Point>
+			<Point>NOGAL</Point>
+			<Point>LYYLE</Point>
+			<Point>MUCLA</Point>
+			<Point>CHUUK</Point>
+			<Point>HODDY</Point>
+			<Point>OFORD</Point>
+			<Point>HAVAM</Point>
+			<Point>SORIS</Point>
+			<Point>LIKOK</Point>
+			<Point>ADLEN</Point>
+			<Point>JUJXI</Point>
+			<Point>JANVO</Point>
+			<Point>HIXOR</Point>
+			<Point>AAMYY</Point>
+			<Point>WALLT</Point>
+			<Point>ORCCA</Point>
+			<Point>ORVIL</Point>
+			<Point>OGGOE</Point>
+			<Point>OBOYD</Point>
+			<Point>OPHET</Point>
+			<Point>OGDEN</Point>
+			<Point>OMOTO</Point>
+			<Point>OPULO</Point>
+			<Point>AGEDI</Point>
+			<Point>AKISU</Point>
+			<Point>ASPIN</Point>
+			<Point>ALDOZ</Point>
+			<Point>ALUFF</Point>
+			<Point>RANND</Point>
+			<Point>LIJFY</Point>
+			<Point>DIBWO</Point>
+			<Point>NEKBA</Point>
+			<Point>ATNAD</Point>
+			<Point>BABSO</Point>
+			<Point>NILUK</Point>
+			<Point>LALAR</Point>
+			<Point>TINEN</Point>
+			<Point>ORVAS</Point>
+			<Point>OSNOD</Point>
+			<Point>ROSUG</Point>
+			<Point>DOBUR</Point>
+			<Point>BODKO</Point>
+			<Point>MOLOB</Point>
+			<Point>GIMOM</Point>
+			<Point>UPUMA</Point>
+			<Point>DOMUD</Point>
+			<Point>APSEK</Point>
+			<Point>ROGIT</Point>
+			<Point>ALURO</Point>
+			<Point>KUBES</Point>
+			<Point>TUPLA</Point>
+			<Point>TELNA</Point>
+			<Point>OKULA</Point>
+			<Point>NITAN</Point>
+			<Point>ULTIN</Point>
+			<Point>VATUL</Point>
 		</Label>
 	</Map>
-</Maps>	
+</Maps>

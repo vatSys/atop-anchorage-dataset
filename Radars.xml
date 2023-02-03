@@ -1,151 +1,171 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Radars>
   <Radar Name="CDB" Type="SSR_ModeS" Elevation="140" MaxRange="250">
-    <Lat>+55.2443</Lat>
-    <Long>-162.7719</Long>
+    <Lat>+55.24430</Lat>
+    <Long>-162.77190</Long>
   </Radar>
   <Radar Name="CZF" Type="SSR_ModeS" Elevation="2320" MaxRange="250">
-    <Lat>+61.7839</Lat>
-    <Long>-165.9483</Long>
+    <Lat>+61.78390</Lat>
+    <Long>-165.94830</Long>
   </Radar>
   <Radar Name="EHM" Type="SSR_ModeS" Elevation="800" MaxRange="250">
-    <Lat>+58.6259</Lat>
-    <Long>-162.0786</Long>
+    <Lat>+58.62590</Lat>
+    <Long>-162.07860</Long>
   </Radar>
   <Radar Name="OTZ" Type="SSR_ModeS" Elevation="170" MaxRange="250">
-    <Lat>+66.8426</Lat>
-    <Long>-162.5983</Long>
+    <Lat>+66.84260</Lat>
+    <Long>-162.59830</Long>
   </Radar>
   <Radar Name="SNP" Type="SSR_ModeS" Elevation="280" MaxRange="250">
-    <Lat>+57.1771</Lat>
-    <Long>-170.2518</Long>
+    <Lat>+57.17710</Lat>
+    <Long>-170.25180</Long>
   </Radar>
   <Radar Name="SYA" Type="SSR_ModeS" Elevation="210" MaxRange="250">
-    <Lat>+52.7211</Lat>
-    <Long>-174.110261</Long>
+    <Lat>+52.72110</Lat>
+    <Long>-174.11026</Long>
   </Radar>
   <Radar Name="TNC" Type="SSR_ModeS" Elevation="2170" MaxRange="250">
-    <Lat>+65.5748</Lat>
-    <Long>-168.0133</Long>
+    <Lat>+65.57480</Lat>
+    <Long>-168.01330</Long>
   </Radar>
   <Radar Name="BRW" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
-    <Lat>+711500.73</Lat>
-    <Long>-1564705.54</Long>
+    <Lat>+71.25020</Lat>
+    <Long>-156.78487</Long>
   </Radar>
   <Radar Name="SCC" Type="SSR_ModeS" Elevation="1000" MaxRange="250">
-    <Lat>+701045.51</Lat>
-    <Long>-1482447.41</Long>
+    <Lat>+70.17931</Lat>
+    <Long>-148.41319</Long>
   </Radar>
   <Radar Name="AE0" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>+160.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>+160.00000</Long>
   </Radar>
   <Radar Name="AE1" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+47.000</Lat>
-    <Long>+164.000</Long>
+    <Lat>+47.00000</Lat>
+    <Long>+164.00000</Long>
   </Radar>
   <Radar Name="AE2" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>+164.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>+164.00000</Long>
   </Radar>
   <Radar Name="AE3" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>+164.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>+164.00000</Long>
   </Radar>
   <Radar Name="AE4" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+47.000</Lat>
-    <Long>+170.000</Long>
+    <Lat>+47.00000</Lat>
+    <Long>+170.00000</Long>
   </Radar>
   <Radar Name="AE5" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>+170.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>+170.00000</Long>
   </Radar>
   <Radar Name="AE6" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>+170.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>+170.00000</Long>
   </Radar>
   <Radar Name="AE7" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+56.000</Lat>
-    <Long>+170.000</Long>
+    <Lat>+56.00000</Lat>
+    <Long>+170.00000</Long>
   </Radar>
   <Radar Name="AE8" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+47.000</Lat>
-    <Long>+176.000</Long>
+    <Lat>+47.00000</Lat>
+    <Long>+176.00000</Long>
   </Radar>
   <Radar Name="AE9" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>+176.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>+176.00000</Long>
   </Radar>
   <Radar Name="AE10" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>+176.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>+176.00000</Long>
   </Radar>
   <Radar Name="AE11" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+56.000</Lat>
-    <Long>+176.000</Long>
+    <Lat>+56.00000</Lat>
+    <Long>+176.00000</Long>
   </Radar>
   <Radar Name="AE12" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+59.000</Lat>
-    <Long>+176.000</Long>
+    <Lat>+59.00000</Lat>
+    <Long>+176.00000</Long>
   </Radar>
   <Radar Name="AW1" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>-178.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>-178.00000</Long>
   </Radar>
   <Radar Name="AW2" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>-178.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>-178.00000</Long>
   </Radar>
   <Radar Name="AW3" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+56.000</Lat>
-    <Long>-178.000</Long>
+    <Lat>+56.00000</Lat>
+    <Long>-178.00000</Long>
   </Radar>
   <Radar Name="AW4" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+59.000</Lat>
-    <Long>-178.000</Long>
+    <Lat>+59.00000</Lat>
+    <Long>-178.00000</Long>
   </Radar>
   <Radar Name="AW5" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+62.000</Lat>
-    <Long>-178.000</Long>
+    <Lat>+62.00000</Lat>
+    <Long>-178.00000</Long>
   </Radar>
   <Radar Name="AW6" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW7" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW8" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+56.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+56.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW9" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+59.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+59.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW10" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+62.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+62.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW11" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+65.000</Lat>
-    <Long>-172.000</Long>
+    <Lat>+65.00000</Lat>
+    <Long>-172.00000</Long>
   </Radar>
   <Radar Name="AW12" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+50.000</Lat>
-    <Long>-166.000</Long>
+    <Lat>+50.00000</Lat>
+    <Long>-166.00000</Long>
   </Radar>
   <Radar Name="AW13" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+53.000</Lat>
-    <Long>-166.000</Long>
+    <Lat>+53.00000</Lat>
+    <Long>-166.00000</Long>
   </Radar>
   <Radar Name="AW14" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+56.000</Lat>
-    <Long>-166.000</Long>
+    <Lat>+56.00000</Lat>
+    <Long>-166.00000</Long>
   </Radar>
   <Radar Name="AW15" Type="ADSB" Elevation="1000" MaxRange="250">
-    <Lat>+59.000</Lat>
-    <Long>-166.000</Long>
+    <Lat>+59.00000</Lat>
+    <Long>-166.00000</Long>
+  </Radar>
+  <Radar Name="NW1" Type="ADSB" Elevation="1000" MaxRange="250">
+    <Lat>+75.00000</Lat>
+    <Long>-145.00000</Long>
+  </Radar>
+  <Radar Name="NW2" Type="ADSB" Elevation="1000" MaxRange="250">
+    <Lat>+75.00000</Lat>
+    <Long>-161.00000</Long>
+  </Radar>
+  <Radar Name="NW3" Type="ADSB" Elevation="1000" MaxRange="250">
+    <Lat>+81.00000</Lat>
+    <Long>-145.00000</Long>
+  </Radar>
+  <Radar Name="NW4" Type="ADSB" Elevation="1000" MaxRange="250">
+    <Lat>+81.00000</Lat>
+    <Long>-161.00000</Long>
+  </Radar>
+  <Radar Name="NW5" Type="ADSB" Elevation="1000" MaxRange="250">
+    <Lat>+87.00000</Lat>
+    <Long>-150.00000</Long>
   </Radar>
 </Radars>
