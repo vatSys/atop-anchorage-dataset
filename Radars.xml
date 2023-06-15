@@ -36,6 +36,10 @@
     <Lat>+70.17931</Lat>
     <Long>-148.41319</Long>
   </Radar>
+  <Radar Name="AKN" Type="SSR_ModeS" Elevation="81" MaxRange="250">
+    <Lat>+584045.77</Lat>
+    <Lon>-1563747.31</Lon>
+  </Radar>
   <Radar Name="AE0" Type="ADSB" Elevation="1000" MaxRange="250">
     <Lat>+50.00000</Lat>
     <Long>+160.00000</Long>

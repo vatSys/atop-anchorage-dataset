@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="Pacific" Type="ASD" DefaultCenter="+550000.000+1765583.000" DefaultRange="2000">
+  <Position Name="Pacific" Type="ASD" DefaultCenter="+551000.000+1785583.000" DefaultRange="2000">
     <ManualVisibility>
       <Point>+5716.000-17022.000</Point>
       <Point>+5243.000+17404.000</Point>
@@ -21,9 +21,9 @@
       <Airport Name="PADK" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>"Anchorage Radio" | Anchorage Oceanic FIR (PAZA) Pacific</Line>
+      <Line>"Anchorage Radio" | Anchorage Oceanic FIR (PAZO) Pacific</Line>
       <Line>Covers: ADK/PADK, SYA/PASY, SNP/PASN and all of the Anchorage Oceanic airspace in the northern Pacific</Line>
-      <Line>For more information, visit www.vzanartcc.net/oceanic</Line>
+      <Line>For more information, visit www.zanartcc.org/oceanic</Line>
     </ControllerInfo>
   </Position>
   <Position Name="Arctic" Type="ASD" DefaultCenter="+793000.000-1520000.000" DefaultRange="2500">
@@ -46,7 +46,7 @@
     <ControllerInfo>
       <Line>"Anchorage Radio" | Anchorage Oceanic FIR (PAZA) Arctic</Line>
       <Line>Covers airspace north of 73 degrees latitude to the North Pole between 141 degrees West to approximately 169 degrees west</Line>
-      <Line>For more information, visit www.vzanartcc.net/oceanic</Line>
+      <Line>For more information, visit www.zanartcc.org/oceanic</Line>
     </ControllerInfo>
   </Position>
 </Positions>

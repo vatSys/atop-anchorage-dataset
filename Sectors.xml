@@ -2,7 +2,7 @@
 <Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Sector FullName="Sector 10" Frequency="126.400" Callsign="ZAN_10_FSS" Name="10">
-    <Volumes>10</Volumes>
+    <Volumes>10,10over9</Volumes>
   </Sector>
   <Sector FullName="Sector 64" Frequency="134.400" Callsign="ZAN_64_FSS" Name="64">
     <Volumes>64</Volumes>

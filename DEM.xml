@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DEM DownloadURL="http://sawbe.com/DEM/">
-  <RequiredDataRegions>w180s10,e140n40,e140s10,w140n40</RequiredDataRegions>
+  <RequiredDataRegions>w180n40,w180n90,w140n90</RequiredDataRegions>
 </DEM>
