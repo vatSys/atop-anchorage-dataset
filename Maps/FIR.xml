@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="Local_Private" Name="FIR" Priority="18">   
+  <Map Type="Local_Private" Name="FIR" Priority="18" CustomColourName="Magenta">   
 		<Line Name="KZAK"> 
 +210000.00+1300000.00/
 +210000.00+1325524.00/

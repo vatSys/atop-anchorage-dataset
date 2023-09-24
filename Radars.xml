@@ -8,9 +8,9 @@
     <Lat>+61.78390</Lat>
     <Long>-165.94830</Long>
   </Radar>
-  <Radar Name="EHM" Type="SSR_ModeS" Elevation="800" MaxRange="250">
-    <Lat>+58.62590</Lat>
-    <Long>-162.07860</Long>
+  <Radar Name="ENA" Type="SSR_ModeS" Elevation="170" MaxRange="250">
+    <Lat>+60.615467</Lat>
+    <Long>151.283050</Long>
   </Radar>
   <Radar Name="OTZ" Type="SSR_ModeS" Elevation="170" MaxRange="250">
     <Lat>+66.84260</Lat>
@@ -39,6 +39,10 @@
   <Radar Name="AKN" Type="SSR_ModeS" Elevation="81" MaxRange="250">
     <Lat>+584045.77</Lat>
     <Lon>-1563747.31</Lon>
+  </Radar>
+  <Radar Name="ADQ" Type="ADSB" Elevation="100" MaxRange="250">
+    <Lat>+57.74682</Lat>
+    <Lon>-152.493405</Lon>
   </Radar>
   <Radar Name="AE0" Type="ADSB" Elevation="1000" MaxRange="250">
     <Lat>+50.00000</Lat>
